@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Vehicle",
+  "brand": "BMW",
+  "name": "BMW 320 d Touring EfficientDynamics Navigation",
+  "offers": {
+    "@type": "Offer",
+    "price": "15250",
+    "priceCurrency": "EUR",
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-navigation-ID8Ptkbl.html",
+    "address": {
+      "streetAddress": "Rua Serpa Pinto - 2870-363 Montijo e Afonsoeiro, concelho Montijo (Portugal)"
+    },
+    "itemOffered": {
+      "@type": "Offer",
+      "name": "BMW 320 d Touring EfficientDynamics Navigation",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2011",
+      "mileageFromOdometer": {
+        "@type": "QuantitativeValue",
+        "unitCode": "KMT",
+        "value": "163095"
+      },
+      "engineDetails": {
+        "enginePower": "163 cv",
+        "engineDisplacement": "1 995 cm3",
+        "emissionsCO2": "NA"
+      }
+    }
+  }
+}

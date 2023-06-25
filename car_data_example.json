@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "brand": { "@type": "Brand", "name": "BMW" },
+  "image": "https://www.autoscout24.de/assets/as24-search-funnel/icons/car.svg",
+  "name": "BMW de € 35\u202f900,-",
+  "description": "Trouvez votre BMW € 35\u202f900,- – sur AutoScout24, le plus grand marché automobile en ligne d'Europe.",
+  "offers": {
+    "@type": "Offer",
+    "price": 35900,
+    "priceCurrency": "EUR",
+    "url": "https://www.autoscout24.fr/offres/bmw-530-530ea-iperformance-252ch-luxury-autres-9fa072c8-f30a-4e6c-846b-728ca29ab1f1",
+    "availability": "InStock",
+    "offeredBy": {
+      "address": {
+        "streetAddress": "48 Bis Route de Bergues",
+        "postalCode": "59210"
+      }
+    },
+    "itemOffered": {
+      "@type": "Car",
+      "name": "BMW 530",
+      "manufacturer": "BMW",
+      "model": "530",
+      "productionDate": "2017-11-01",
+      "vehicleTransmission": "Boîte automatique",
+      "mileageFromOdometer": {
+        "@type": "QuantitativeValue",
+        "value": 59700,
+        "unitText": "KMT"
+      },
+      "vehicleEngine": [
+        {
+          "@type": "EngineSpecification",
+          "enginePower": [
+            { "@type": "QuantitativeValue", "value": 186, "unitCode": "BHP" }
+          ],
+          "engineDisplacement": {
+            "@type": "QuantitativeValue",
+            "value": 1998,
+            "unitCode": "CMQ"
+          }
+        }
+      ],
+      "emissionsCO2": 44
+    }
+  }
+}

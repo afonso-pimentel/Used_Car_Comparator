@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "brand": { "@type": "Brand", "name": "BMW" },
+  "image": "https://prod.pictures.autoscout24.net/listing-images/cf98bb2a-2048-4a23-a25d-d9bd04d70116_e6070e97-8c84-4e88-bd84-90db06be6138.jpg/1280x960.webp",
+  "name": "BMW de € 39\u202f990,-",
+  "description": "Trouvez votre BMW € 39\u202f990,- – sur AutoScout24, le plus grand marché automobile en ligne d'Europe.",
+  "offers": {
+    "@type": "Offer",
+    "price": 39990,
+    "priceCurrency": "EUR",
+    "itemCondition": "UsedCondition",
+    "url": "https://www.autoscout24.fr/offres/bmw-530-530d-xdrive-265-ch-bva8-m-perf-diesel-cf98bb2a-2048-4a23-a25d-d9bd04d70116",
+    "availability": "InStock",
+    "offeredBy": {
+      "@type": "AutoDealer",
+      "telephone": "+33 (0)6 - 72113384",
+      "@id": "https://www.autoscout24.fr/garages/amt-73/a-propos-de-nous",
+      "name": "Amt 73",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "688 avenue des follaz",
+        "addressLocality": "Chambery",
+        "postalCode": "73000",
+        "addressCountry": "FR"
+      }
+    },
+    "itemOffered": {
+      "@type": "Car",
+      "name": "BMW 530",
+      "image": "https://prod.pictures.autoscout24.net/listing-images/cf98bb2a-2048-4a23-a25d-d9bd04d70116_e6070e97-8c84-4e88-bd84-90db06be6138.jpg/1280x960.webp",
+      "manufacturer": "BMW",
+      "model": "530",
+      "bodyType": "Berline",
+      "identifier": "cf98bb2a-2048-4a23-a25d-d9bd04d70116",
+      "productionDate": "2017-12-01",
+      "vehicleTransmission": "Boîte automatique",
+      "numberOfForwardGears": 8,
+      "numberOfDoors": 4,
+      "seatingCapacity": 5,
+      "mileageFromOdometer": {
+        "@type": "QuantitativeValue",
+        "value": 49700,
+        "unitText": "KMT"
+      },
+      "hasEnergyConsumptionDetails": {
+        "@type": "EnergyConsumptionDetails",
+        "energyEfficiencyScaleMax": "Euro 6d",
+        "energyEfficiencyScaleMin": "Euro 1"
+      },
+      "vehicleEngine": [
+        {
+          "@type": "EngineSpecification",
+          "enginePower": [
+            { "@type": "QuantitativeValue", "value": 265, "unitCode": "BHP" },
+            { "@type": "QuantitativeValue", "value": 195, "unitCode": "KWT" }
+          ],
+          "engineDisplacement": {
+            "@type": "QuantitativeValue",
+            "value": 2993,
+            "unitCode": "CMQ"
+          }
+        }
+      ]
+    }
+  }
+}

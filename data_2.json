@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Vehicle",
+  "url": "https://www.standvirtual.com/anuncio/bmw-320-d-ID8PrWW8.html",
+  "name": "BMW 320 d",
+  "bodyType": "Cabrio",
+  "fuelType": "Diesel",
+  "brand": "BMW",
+  "model": "320",
+  "color": "Preto",
+  "numberOfDoors": "2",
+  "itemCondition": "used",
+  "vehicleSeatingCapacity": "",
+  "dateVehicleFirstRegistered": "2010",
+  "vehicleEngine": {
+    "@type": "EngineSpecification",
+    "engineDisplacement": "1 995 cm3"
+  },
+  "mileageFromOdometer": {
+    "@type": "QuantitativeValue",
+    "unitCode": "KMT",
+    "value": "230000"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "18490",
+    "priceCurrency": "EUR"
+  },
+  "description": "Possibilidade de financiamento at\u00e9 120 meses. Garantia de 18 meses j\u00e1 inclu\u00edda no valor anunciado."
+}

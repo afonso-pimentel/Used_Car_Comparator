@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "brand": {
+    "@type": "Brand",
+    "name": "BMW"
+  },
+  "name": "BMW de \u20ac 34\u202f999,-",
+  "offers": {
+    "@type": "Offer",
+    "price": 34999,
+    "priceCurrency": "EUR",
+    "url": "https://www.autoscout24.fr/offres/bmw-530-530ea-iperformance-252ch-luxury-tpano-cuir-sieges-autres-4bb30993-7506-43e7-a280-9c93aa2ad45e",
+    "address": {
+      "streetAddress": "15, rue des Alli\u00e9es"
+    },
+    "itemOffered": {
+      "@type": "Car",
+      "name": "BMW 530",
+      "manufacturer": "BMW",
+      "model": "530",
+      "productionDate": "2018-10-01",
+      "mileageFromOdometer": {
+        "@type": "QuantitativeValue",
+        "value": 76998,
+        "unitText": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 186,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 44
+      }
+    }
+  }
+}

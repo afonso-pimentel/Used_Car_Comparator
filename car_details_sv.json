@@ -1,0 +1,4889 @@
+[
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Pack M Auto",
+    "price": {
+      "value": 29990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-pack-m-auto-ID8PkrnZ.html",
+    "address": {
+      "streetAddress": "Av. dos Bombeiros Volunt\u00e1rios, 922 - 2765-201 Cascais e Estoril, concelho Cascais (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 93750,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto Line Sport",
+    "price": {
+      "value": 19900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-line-sport-ID8PricC.html",
+    "address": {
+      "streetAddress": "Torres Vedras (S\u00e3o Pedro, Santiago, Santa Maria do Castelo e S\u00e3o Miguel) e Matac, concelho Torres Vedras"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto Line Sport",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 143124,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Line Modern Auto",
+    "price": {
+      "value": 24500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-line-modern-auto-ID8Ptd88.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 125, Areias de P&ecirc;ra - 8365-201 Alcantarilha e P\u00eara, concelho Silves (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Line Modern Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 156359,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Line Sport Auto",
+    "price": {
+      "value": 21750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-line-sport-auto-ID8PbJvz.html",
+    "address": {
+      "streetAddress": "R. ENG DUARTE PACHECO, 126 frte - 4470-174 Cidade da Maia, concelho Maia (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Line Sport Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 171104,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Pack M Auto",
+    "price": {
+      "value": 29990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-pack-m-auto-ID8PkrnZ.html",
+    "address": {
+      "streetAddress": "Av. dos Bombeiros Volunt\u00e1rios, 922 - 2765-201 Cascais e Estoril, concelho Cascais (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 93750,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto Line Sport",
+    "price": {
+      "value": 19900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-line-sport-ID8PricC.html",
+    "address": {
+      "streetAddress": "Torres Vedras (S\u00e3o Pedro, Santiago, Santa Maria do Castelo e S\u00e3o Miguel) e Matac, concelho Torres Vedras"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto Line Sport",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 143124,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Line Modern Auto",
+    "price": {
+      "value": 24500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-line-modern-auto-ID8Ptd88.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 125, Areias de P&ecirc;ra - 8365-201 Alcantarilha e P\u00eara, concelho Silves (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Line Modern Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 156359,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Line Sport Auto",
+    "price": {
+      "value": 21750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-line-sport-auto-ID8PbJvz.html",
+    "address": {
+      "streetAddress": "R. ENG DUARTE PACHECO, 126 frte - 4470-174 Cidade da Maia, concelho Maia (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Line Sport Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 171104,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Aut. Luxury Line",
+    "price": {
+      "value": 18990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-aut-luxury-line-ID8Pt997.html",
+    "address": {
+      "streetAddress": "Praceta S. Joao Baptista, n5 - 2725-079 Algueir\u00e3o-Mem Martins, concelho Sintra (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Aut. Luxury Line",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 171000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Pack M",
+    "price": {
+      "value": 29990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-pack-m-ID8PrpOR.html",
+    "address": {
+      "streetAddress": "Rua Frei Le\u00e3o de S\u00e3o Tom\u00e1s n.\u00ba 468 - 4785-154 Trofa, concelho Trofa (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Pack M",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 66476,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Pack M",
+    "price": {
+      "value": 22900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-pack-m-ID8Pr9sr.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 109 - N\u00ba1227 - 4405-953 Gulpilhares e Valadares, concelho Vila Nova de Gaia (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Pack M",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 169000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring",
+    "price": {
+      "value": 14900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-ID8Pssfx.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 109 - N\u00ba1227 - 4405-953 Gulpilhares e Valadares, concelho Vila Nova de Gaia (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 149000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring ED Line Sport Auto",
+    "price": {
+      "value": 25990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-ed-line-sport-auto-ID8Pmw53.html",
+    "address": {
+      "streetAddress": "Rua Cerca, Ramada, Portugal - 2620-434 Ramada e Cane\u00e7as, concelho Odivelas (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring ED Line Sport Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 149000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Line Luxury Auto",
+    "price": {
+      "value": 23950,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-line-luxury-auto-ID8PrOZR.html",
+    "address": {
+      "streetAddress": "Av.Comendador Ferreira Matos 439 - 4450 Matosinhos e Le\u00e7a da Palmeira, concelho Matosinhos (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Line Luxury Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 164000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Line Modern Auto",
+    "price": {
+      "value": 24500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-line-modern-auto-ID8Ptd88.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 125, Areias de P&ecirc;ra - 8365-201 Alcantarilha e P\u00eara, concelho Silves (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Line Modern Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 156359,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Pack M Auto",
+    "price": {
+      "value": 24990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-pack-m-auto-ID8Pm7tX.html",
+    "address": {
+      "streetAddress": "Rua 25 de Abril n\u00ba 84 - 4835-400 Silvares, concelho Guimar\u00e3es (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 170000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Edi\u00e7\u00e3o M",
+    "price": {
+      "value": 19900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-edio-m-ID8PsKmK.html",
+    "address": {
+      "streetAddress": "Rua do Lameiro, 629 - 4430-444 Oliveira do Douro, concelho Vila Nova de Gaia (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Edi\u00e7\u00e3o M",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 156365,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-ID8PsoRP.html",
+    "address": {
+      "streetAddress": "Avenida Jo\u00e3o de Belas n\u00ba 31B - 2605-203 Queluz e Belas, concelho Sintra (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 129000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Pack M Auto",
+    "price": {
+      "value": 26990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-pack-m-auto-ID8Pt8vN.html",
+    "address": {
+      "streetAddress": "Rua de Romariz, 982 - 3700-904 Romariz, concelho Santa Maria da Feira (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 162000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Aut. M Sport",
+    "price": {
+      "value": 24999,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-aut-m-sport-ID8PtL6H.html",
+    "address": {
+      "streetAddress": "Rua da Ramoa Lote 3 Loja 1 Merelim S. Pedro - 4700-855 Merelim (S\u00e3o Pedro) e Frossos, concelho Braga (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Aut. M Sport",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 143329,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d EfficientDynamics",
+    "price": {
+      "value": 27450,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-efficientdynamics-ID8PmzPa.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 13, n\u00ba977 - 4485-473 Mindelo, concelho Vila do Conde (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d EfficientDynamics",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 120000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Pack M Auto",
+    "price": {
+      "value": 28900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-pack-m-auto-ID8PbCTU.html",
+    "address": {
+      "streetAddress": "Rua da Palmeira, 1, 2500-292 Caldas da Rainha"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 149393,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Pack M Auto",
+    "price": {
+      "value": 29999,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-pack-m-auto-ID8PrZTz.html",
+    "address": {
+      "streetAddress": "Rua da Casa da Loja N 7 R/C - 4585-763 Vandoma, concelho Paredes (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 149192,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 i",
+    "price": {
+      "value": 16900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-i-ID8Psg3q.html",
+    "address": {
+      "streetAddress": "Segodim, Rua da Base A\u00e9rea, Monte Real, Portugal - 2425-022 Monte Real e Carvide, concelho Leiria (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 i",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2007",
+      "mileage": {
+        "value": 173700,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 170,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Exclusive",
+    "price": {
+      "value": 10900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-exclusive-ID8Psj0a.html",
+    "address": {
+      "streetAddress": "Segodim, Rua da Base A\u00e9rea, Monte Real, Portugal - 2425-022 Monte Real e Carvide, concelho Leiria (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Exclusive",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 159979,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Edi\u00e7\u00e3o M Auto",
+    "price": {
+      "value": 20750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-edio-m-auto-ID8PprnQ.html",
+    "address": {
+      "streetAddress": "AVENIDA ZEFERINO DE OLIVEIRA, 815 - 4560 061 Croca, concelho Penafiel (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Edi\u00e7\u00e3o M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 132200,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d EfficientDynamics",
+    "price": {
+      "value": 16700,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-efficientdynamics-ID8PlAsk.html",
+    "address": {
+      "streetAddress": "Rua Afonso De Albuquerque (Edif\u00edcio Intermarch\u00e9) , 2690-340 Loures"
+    },
+    "car_details": {
+      "name": "BMW 320 d EfficientDynamics",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 139737,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto",
+    "price": {
+      "value": 25990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-ID8Pr57l.html",
+    "address": {
+      "streetAddress": "Avenida dos Descobrimentos, 4400-130 Vila Nova de Gaia"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 109756,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d",
+    "price": {
+      "value": 13900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-ID8PtzBc.html",
+    "address": {
+      "streetAddress": "Amora, concelho Seixal"
+    },
+    "car_details": {
+      "name": "BMW 320 d",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 165000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 177,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto Line Sport",
+    "price": {
+      "value": 19900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-line-sport-ID8PricC.html",
+    "address": {
+      "streetAddress": "Torres Vedras (S\u00e3o Pedro, Santiago, Santa Maria do Castelo e S\u00e3o Miguel) e Matac, concelho Torres Vedras"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto Line Sport",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 143124,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Pack M",
+    "price": {
+      "value": 23500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-pack-m-ID8Pt9eB.html",
+    "address": {
+      "streetAddress": "Av Futebol Clube do Porto 492 - 4630-203 Marco, concelho Marco de Canaveses (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Pack M",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 149000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Pack M Auto",
+    "price": {
+      "value": 29900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-pack-m-auto-ID8Pr9wr.html",
+    "address": {
+      "streetAddress": "Av 1 dezembro de 1640, 598 - 2840-009 Seixal, Arrentela e Aldeia de Paio Pires, concelho Seixal (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 136000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 1,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Aut. Sport Line",
+    "price": {
+      "value": 21999,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-aut-sport-line-ID8PtVx7.html",
+    "address": {
+      "streetAddress": "Rua S\u00e3o Sebasti\u00e3o n 1217 - 4810 Serzedo e Calvos, concelho Guimar\u00e3es (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Aut. Sport Line",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 126000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring ED Line Sport Auto",
+    "price": {
+      "value": 23800,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-ed-line-sport-auto-ID8PmuNs.html",
+    "address": {
+      "streetAddress": "Rua Professor Vitorino Nem\u00e9sio 55 Loja Galiza., 2765-362 Cascais"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring ED Line Sport Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 104420,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Pack M Auto",
+    "price": {
+      "value": 29990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-pack-m-auto-ID8PkrnZ.html",
+    "address": {
+      "streetAddress": "Av. dos Bombeiros Volunt\u00e1rios, 922 - 2765-201 Cascais e Estoril, concelho Cascais (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 93750,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Pack M Auto",
+    "price": {
+      "value": 26400,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-pack-m-auto-ID8PrAQW.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 378 Km7 - 2865-041 Fern\u00e3o Ferro, concelho Seixal (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 145000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d xDrive",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-xdrive-ID8PpJWG.html",
+    "address": {
+      "streetAddress": "RUA 25 DE ABRIL N\u00ba 2682 - 4415-267 Vila Nova de Gaia, concelho Vila Nova de Gaia (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d xDrive",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 167261,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320",
+    "price": {
+      "value": 15490,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-ID8PpoFf.html",
+    "address": {
+      "streetAddress": "Rua Professor Correia de S\u00e1, n\u00ba9 - 4445-570 Ermesinde, concelho Valongo (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2005",
+      "mileage": {
+        "value": 85000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 150,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Line Sport Auto",
+    "price": {
+      "value": 28950,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-line-sport-auto-ID8PsAQD.html",
+    "address": {
+      "streetAddress": "RUA CANDIDO DOS REIS E.N 248-C.VALE QUENTE KM 19 - 2630-240 Arruda dos Vinhos, concelho Arruda dos Vinhos (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Line Sport Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2019",
+      "mileage": {
+        "value": 149000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring ED Auto",
+    "price": {
+      "value": 25900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-ed-auto-ID8PmP4H.html",
+    "address": {
+      "streetAddress": "Estrada A-Do-Pipo n\u00ba1 - 2705-867 S\u00e3o Jo\u00e3o das Lampas e Terrugem, concelho Sintra (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring ED Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 136000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Line Sport Auto",
+    "price": {
+      "value": 21750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-line-sport-auto-ID8PbJvz.html",
+    "address": {
+      "streetAddress": "R. ENG DUARTE PACHECO, 126 frte - 4470-174 Cidade da Maia, concelho Maia (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Line Sport Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 171104,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto Line Sport",
+    "price": {
+      "value": 19900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-line-sport-ID8PricC.html",
+    "address": {
+      "streetAddress": "Torres Vedras (S\u00e3o Pedro, Santiago, Santa Maria do Castelo e S\u00e3o Miguel) e Matac, concelho Torres Vedras"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto Line Sport",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 143124,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Pack M Auto",
+    "price": {
+      "value": 29990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-pack-m-auto-ID8PkrnZ.html",
+    "address": {
+      "streetAddress": "Av. dos Bombeiros Volunt\u00e1rios, 922 - 2765-201 Cascais e Estoril, concelho Cascais (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 93750,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Line Modern Auto",
+    "price": {
+      "value": 24500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-line-modern-auto-ID8Ptd88.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 125, Areias de P&ecirc;ra - 8365-201 Alcantarilha e P\u00eara, concelho Silves (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Line Modern Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 156359,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Line Sport Auto",
+    "price": {
+      "value": 21750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-line-sport-auto-ID8PbJvz.html",
+    "address": {
+      "streetAddress": "R. ENG DUARTE PACHECO, 126 frte - 4470-174 Cidade da Maia, concelho Maia (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Line Sport Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 171104,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto Line Sport",
+    "price": {
+      "value": 19900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-line-sport-ID8PricC.html",
+    "address": {
+      "streetAddress": "Torres Vedras (S\u00e3o Pedro, Santiago, Santa Maria do Castelo e S\u00e3o Miguel) e Matac, concelho Torres Vedras"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto Line Sport",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 143124,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Pack M Auto",
+    "price": {
+      "value": 29990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-pack-m-auto-ID8PkrnZ.html",
+    "address": {
+      "streetAddress": "Av. dos Bombeiros Volunt\u00e1rios, 922 - 2765-201 Cascais e Estoril, concelho Cascais (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 93750,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Line Modern Auto",
+    "price": {
+      "value": 24500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-line-modern-auto-ID8Ptd88.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 125, Areias de P&ecirc;ra - 8365-201 Alcantarilha e P\u00eara, concelho Silves (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Line Modern Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 156359,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Aut. Sport Line",
+    "price": {
+      "value": 25000,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-aut-sport-line-ID8PsG19.html",
+    "address": {
+      "streetAddress": "Estrada de Algares N 806 - 4905-222 Barroselas e Carvoeiro, concelho Viana do Castelo (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Aut. Sport Line",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 110505,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Pack M Auto",
+    "price": {
+      "value": 29500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-pack-m-auto-ID8Poe8Y.html",
+    "address": {
+      "streetAddress": "Avenida de Covelas n.116 Covelas. nacional 103 - 4830-121 Covelas, concelho P\u00f3voa de Lanhoso (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 159323,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Line Sport Auto",
+    "price": {
+      "value": 27500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-line-sport-auto-ID8PtWYg.html",
+    "address": {
+      "streetAddress": "RUA DA ESTREBUELA N\u00ba127 - 4580-091 Paredes, concelho Paredes (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Line Sport Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 90000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Pack M Auto",
+    "price": {
+      "value": 29500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-pack-m-auto-ID8PiG7O.html",
+    "address": {
+      "streetAddress": "Avenida Engenheiro Duarte Pacheco 1026 - 4445-416 Ermesinde, concelho Valongo (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 125000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320",
+    "price": {
+      "value": 25950,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-ID8Po7o8.html",
+    "address": {
+      "streetAddress": "Avenida General Humberto Delgado 39D - 2745-282 Queluz e Belas, concelho Sintra (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 121609,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d EfficientDynamics Navigation",
+    "price": {
+      "value": 18900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-efficientdynamics-navigation-ID8PrPGC.html",
+    "address": {
+      "streetAddress": "RUA CENTRAL 230 - LOUREIRA - 2495122 Santa Catarina da Serra e Chain\u00e7a, concelho Leiria (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d EfficientDynamics Navigation",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 170000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics",
+    "price": {
+      "value": 20900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-ID8PbbEZ.html",
+    "address": {
+      "streetAddress": "ESTRADA NACIONAL 249-4  N\u00ba3 e 4 - 2785-574 S\u00e3o Domingos de Rana, concelho Cascais (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 140000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Line Sport Auto",
+    "price": {
+      "value": 21750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-line-sport-auto-ID8PbJvz.html",
+    "address": {
+      "streetAddress": "R. ENG DUARTE PACHECO, 126 frte - 4470-174 Cidade da Maia, concelho Maia (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Line Sport Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 171104,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Advantage",
+    "price": {
+      "value": 28900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-advantage-ID8Pqd0H.html",
+    "address": {
+      "streetAddress": "ESTRADA NACIONAL 249-4  N\u00ba3 e 4 - 2785-574 S\u00e3o Domingos de Rana, concelho Cascais (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Advantage",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 117000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring xDrive Aut.",
+    "price": {
+      "value": 22900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-xdrive-aut-ID8PtUQU.html",
+    "address": {
+      "streetAddress": "Oliveira de Azem\u00e9is, Santiago de Riba-Ul, Ul, Macinhata da Seixa e Madail, concelho Oliveira de Azem\u00e9is"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring xDrive Aut.",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 127000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Pack M",
+    "price": {
+      "value": 25500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-pack-m-ID8PlNqe.html",
+    "address": {
+      "streetAddress": "Viseu, concelho Viseu"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Pack M",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 117000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Aut. M Sport",
+    "price": {
+      "value": 24999,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-aut-m-sport-ID8PsF6f.html",
+    "address": {
+      "streetAddress": "Rua da Ramoa Lote 3 Loja 1 Merelim S. Pedro - 4700-855 Merelim (S\u00e3o Pedro) e Frossos, concelho Braga (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Aut. M Sport",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 112713,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Line Sport Auto",
+    "price": {
+      "value": 29900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-line-sport-auto-ID8Prdbc.html",
+    "address": {
+      "streetAddress": "Sitio do Livramento 928-E - 8800-124 Luz de Tavira e Santo Est\u00eav\u00e3o, concelho Tavira (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Line Sport Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 98000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 1,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring",
+    "price": {
+      "value": 12350,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-ID8Pisy4.html",
+    "address": {
+      "streetAddress": "Avenidas Novas, concelho Lisboa"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 136010,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 177,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-ID8PrfOy.html",
+    "address": {
+      "streetAddress": "Queluz e Belas, concelho Sintra"
+    },
+    "car_details": {
+      "name": "BMW 320",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 110000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Auto Exclusive",
+    "price": {
+      "value": 19500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-auto-exclusive-ID8Pt3lc.html",
+    "address": {
+      "streetAddress": "Avenida Ant\u00f3nio Farinha Pereira 52 - 2200-024 Abrantes, concelho Abrantes (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Auto Exclusive",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 143000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d EfficientDynamics Auto Line Sport",
+    "price": {
+      "value": 26750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-efficientdynamics-auto-line-sport-ID8Pt3ek.html",
+    "address": {
+      "streetAddress": "Avenida Portas Do Minho nr 304 - 4760-706 Ribeir\u00e3o, concelho Vila Nova de Famalic\u00e3o (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d EfficientDynamics Auto Line Sport",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 163000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d EfficientDynamics Advantage",
+    "price": {
+      "value": 24990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-efficientdynamics-advantage-ID8Pogez.html",
+    "address": {
+      "streetAddress": "Rua Fern\u00e3o de Magalh\u00e3es, 191 - Rio Tinto, 4435-246 Gondomar"
+    },
+    "car_details": {
+      "name": "BMW 320 d EfficientDynamics Advantage",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 72563,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Pack M",
+    "price": {
+      "value": 24990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-pack-m-ID8PsLhv.html",
+    "address": {
+      "streetAddress": "Rua Frei Le\u00e3o de S\u00e3o Tom\u00e1s n.\u00ba 468 - 4785-154 Trofa, concelho Trofa (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Pack M",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 161044,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto Line Luxury",
+    "price": {
+      "value": 22800,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-line-luxury-ID8PqJGd.html",
+    "address": {
+      "streetAddress": "Rua Dom Jo\u00e3o Evangelista de Lima Vidal 259 - 3810-124 Santa Joana, concelho Aveiro (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto Line Luxury",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 140892,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320",
+    "price": {
+      "value": 12700,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-ID8Pkl5O.html",
+    "address": {
+      "streetAddress": "Seixal, Arrentela e Aldeia de Paio Pires, concelho Seixal"
+    },
+    "car_details": {
+      "name": "BMW 320",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 130800,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 177,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320",
+    "price": {
+      "value": 27990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-ID8PtfPN.html",
+    "address": {
+      "streetAddress": "Rua Frei Le\u00e3o de S\u00e3o Tom\u00e1s n.\u00ba 468 - 4785-154 Trofa, concelho Trofa (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 119349,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d ED Line Sport Auto",
+    "price": {
+      "value": 25550,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-ed-line-sport-auto-ID8PjUUu.html",
+    "address": {
+      "streetAddress": "Morada stand: Avenida 25 de Abril n\u00ba131 , 2735-419  Sintra"
+    },
+    "car_details": {
+      "name": "BMW 320 d ED Line Sport Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 148006,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto Pack M",
+    "price": {
+      "value": 23900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-pack-m-ID8PrAWM.html",
+    "address": {
+      "streetAddress": "frossos - 4700-152 Braga, concelho Braga (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto Pack M",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 163855,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Line Luxury Auto",
+    "price": {
+      "value": 23999,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-line-luxury-auto-ID8Ppryd.html",
+    "address": {
+      "streetAddress": "Rua da Gandara - Moure de Madalena - 3515-327 Abraveses, concelho Viseu (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Line Luxury Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 158996,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320",
+    "price": {
+      "value": 24990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-ID8PtfK2.html",
+    "address": {
+      "streetAddress": "Rua Frei Le\u00e3o de S\u00e3o Tom\u00e1s n.\u00ba 468 - 4785-154 Trofa, concelho Trofa (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 163911,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Pack M",
+    "price": {
+      "value": 23990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-pack-m-ID8Pt3fB.html",
+    "address": {
+      "streetAddress": "Rua Frei Le\u00e3o de S\u00e3o Tom\u00e1s n.\u00ba 468 - 4785-154 Trofa, concelho Trofa (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Pack M",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 153141,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Line Luxury",
+    "price": {
+      "value": 23790,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-line-luxury-ID8Pr5yO.html",
+    "address": {
+      "streetAddress": "Rua de Delfim Ferreira 638, 4100-199 Porto"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Line Luxury",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 131000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Line Sport",
+    "price": {
+      "value": 17900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-line-sport-ID8PsaRA.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 109 - N\u00ba1227 - 4405-953 Gulpilhares e Valadares, concelho Vila Nova de Gaia (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Line Sport",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 125000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto Line Sport",
+    "price": {
+      "value": 20500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-line-sport-ID8Pq1hw.html",
+    "address": {
+      "streetAddress": "Benavente, concelho Benavente"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto Line Sport",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 150000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320",
+    "price": {
+      "value": 14750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-ID8PtsNp.html",
+    "address": {
+      "streetAddress": "Leiria, Pousos, Barreira e Cortes, concelho Leiria"
+    },
+    "car_details": {
+      "name": "BMW 320",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 172000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 1,
+        "engineDisplacement": 1,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320",
+    "price": {
+      "value": 22900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-ID8Ppozf.html",
+    "address": {
+      "streetAddress": "Praceta Doutor Pereira Jardim 4A - 2685-888 Sacav\u00e9m e Prior Velho, concelho Loures (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 163000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Line Modern Auto",
+    "price": {
+      "value": 24500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-line-modern-auto-ID8Ptd88.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 125, Areias de P&ecirc;ra - 8365-201 Alcantarilha e P\u00eara, concelho Silves (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Line Modern Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 156359,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Pack M Auto",
+    "price": {
+      "value": 29990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-pack-m-auto-ID8PkrnZ.html",
+    "address": {
+      "streetAddress": "Av. dos Bombeiros Volunt\u00e1rios, 922 - 2765-201 Cascais e Estoril, concelho Cascais (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 93750,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto Line Sport",
+    "price": {
+      "value": 19900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-line-sport-ID8PricC.html",
+    "address": {
+      "streetAddress": "Torres Vedras (S\u00e3o Pedro, Santiago, Santa Maria do Castelo e S\u00e3o Miguel) e Matac, concelho Torres Vedras"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto Line Sport",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 143124,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Line Sport Auto",
+    "price": {
+      "value": 21750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-line-sport-auto-ID8PbJvz.html",
+    "address": {
+      "streetAddress": "R. ENG DUARTE PACHECO, 126 frte - 4470-174 Cidade da Maia, concelho Maia (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Line Sport Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 171104,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Line Modern Auto",
+    "price": {
+      "value": 24500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-line-modern-auto-ID8Ptd88.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 125, Areias de P&ecirc;ra - 8365-201 Alcantarilha e P\u00eara, concelho Silves (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Line Modern Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 156359,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Pack M Auto",
+    "price": {
+      "value": 29990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-pack-m-auto-ID8PkrnZ.html",
+    "address": {
+      "streetAddress": "Av. dos Bombeiros Volunt\u00e1rios, 922 - 2765-201 Cascais e Estoril, concelho Cascais (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 93750,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto Line Sport",
+    "price": {
+      "value": 19900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-line-sport-ID8PricC.html",
+    "address": {
+      "streetAddress": "Torres Vedras (S\u00e3o Pedro, Santiago, Santa Maria do Castelo e S\u00e3o Miguel) e Matac, concelho Torres Vedras"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto Line Sport",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 143124,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Line Sport Auto",
+    "price": {
+      "value": 21750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-line-sport-auto-ID8PbJvz.html",
+    "address": {
+      "streetAddress": "R. ENG DUARTE PACHECO, 126 frte - 4470-174 Cidade da Maia, concelho Maia (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Line Sport Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 171104,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto Pack M",
+    "price": {
+      "value": 22990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-pack-m-ID8PpiF5.html",
+    "address": {
+      "streetAddress": "Rua 37, N\u00ba 601 - 4500-329 Espinho, concelho Espinho (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto Pack M",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 170000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Pack M",
+    "price": {
+      "value": 21500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-pack-m-ID8PpcbA.html",
+    "address": {
+      "streetAddress": "Avenida S\u00e3o Louren\u00e7o n\u00ba 137 - 4705-444 Celeir\u00f3s, Aveleda e Vimieiro, concelho Braga (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Pack M",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 130000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Line Sport Auto",
+    "price": {
+      "value": 24500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-line-sport-auto-ID8PkP4o.html",
+    "address": {
+      "streetAddress": "Estrada Palmeiras N60 Queluz de Baixo , 2730-132 Oeiras"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Line Sport Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 160000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Edi\u00e7\u00e3o M",
+    "price": {
+      "value": 21900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-edio-m-ID8PrpPq.html",
+    "address": {
+      "streetAddress": "RUA NOVA DA ESTA\u00c7\u00c3O,226 - 4700-234 Braga (Maximinos, S\u00e9 e Cividade), concelho Braga (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Edi\u00e7\u00e3o M",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 148000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto Line Sport",
+    "price": {
+      "value": 21898,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-line-sport-ID8PpNcS.html",
+    "address": {
+      "streetAddress": "Pedroso e Seixezelo - 4415-000 Pedroso e Seixezelo, concelho Vila Nova de Gaia (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto Line Sport",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 130000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d",
+    "price": {
+      "value": 17000,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-ID8PtTAV.html",
+    "address": {
+      "streetAddress": "Arcozelo, concelho Vila Nova de Gaia"
+    },
+    "car_details": {
+      "name": "BMW 320 d",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 138000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 177,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto Line Sport",
+    "price": {
+      "value": 23750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-line-sport-ID8PqEXe.html",
+    "address": {
+      "streetAddress": "Quinta do Godinho Ponte do Boto - 3600-281 Castro Daire, concelho Castro Daire (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto Line Sport",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 148009,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d EfficientDynamics",
+    "price": {
+      "value": 23500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-efficientdynamics-ID8PsUu5.html",
+    "address": {
+      "streetAddress": "Travessa Santo Andr\u00e9 - 4520-280 Santa Maria da Feira, Travanca, Sanfins e Espargo, concelho Santa Maria da Feira (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d EfficientDynamics",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 102845,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320",
+    "price": {
+      "value": 18900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-ID8PqEXr.html",
+    "address": {
+      "streetAddress": "Quinta do Godinho Ponte do Boto - 3600-281 Castro Daire, concelho Castro Daire (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 170350,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d EfficientDynamics Line Sport",
+    "price": {
+      "value": 23750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-efficientdynamics-line-sport-ID8PlB77.html",
+    "address": {
+      "streetAddress": "Avenida 9 de Julho 1055A, Vila Nova de Famalic\u00e3o, - 4760-102 Vila Nova de Famalic\u00e3o e Calend\u00e1rio, concelho Vila Nova de Famalic\u00e3o (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d EfficientDynamics Line Sport",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 140545,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring",
+    "price": {
+      "value": 20900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-ID8PlV6t.html",
+    "address": {
+      "streetAddress": "Rua Arneiro de Baixo Lote 24 - 2140-011 Chamusca, concelho Chamusca (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 141886,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring ED Line Sport Shadow Auto",
+    "price": {
+      "value": 29750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-ed-line-sport-shadow-auto-ID8PrdnB.html",
+    "address": {
+      "streetAddress": "Estrada de Manique 232 a - 2645 131 Alcabideche, concelho Cascais (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring ED Line Sport Shadow Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2019",
+      "mileage": {
+        "value": 124000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 i Coup\u00e9",
+    "price": {
+      "value": 11500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-i-coup-ID8PoNYi.html",
+    "address": {
+      "streetAddress": "Queluz e Belas, concelho Sintra"
+    },
+    "car_details": {
+      "name": "BMW 320 i Coup\u00e9",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "1992",
+      "mileage": {
+        "value": 162000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 150,
+        "engineDisplacement": 1990,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Pack M Auto",
+    "price": {
+      "value": 29990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-pack-m-auto-ID8PiDa1.html",
+    "address": {
+      "streetAddress": "Rua Rodrigo Sarmento de Beires, n\u00ba13 - 2840-068 Seixal, Arrentela e Aldeia de Paio Pires, concelho Seixal (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 134067,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring ED Line Luxury Auto",
+    "price": {
+      "value": 28750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-ed-line-luxury-auto-ID8PmzHa.html",
+    "address": {
+      "streetAddress": "Rua Ernesto Gon\u00e7alves, 1043 ( EN1) - 4415-933 Pedroso e Seixezelo, concelho Vila Nova de Gaia (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring ED Line Luxury Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 117608,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Advantage Auto",
+    "price": {
+      "value": 28990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-advantage-auto-ID8PoLhV.html",
+    "address": {
+      "streetAddress": "Edif\u00edcio J.M.P\u00f3voa, km 33, 2580-347 Alenquer"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Advantage Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 65151,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320",
+    "price": {
+      "value": 28990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-ID8PtepJ.html",
+    "address": {
+      "streetAddress": "Rua Frei Le\u00e3o de S\u00e3o Tom\u00e1s n.\u00ba 468 - 4785-154 Trofa, concelho Trofa (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 151141,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Advantage",
+    "price": {
+      "value": 23950,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-advantage-ID8PqeZt.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 1 n\u00ba450, 4535-214 Santa Maria da Feira"
+    },
+    "car_details": {
+      "name": "BMW 320 d Advantage",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 168030,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 i",
+    "price": {
+      "value": 18490,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-i-ID8PsXlk.html",
+    "address": {
+      "streetAddress": "Rua 19, N\u00ba1555 - Anta - 4500-047 Espinho, concelho Espinho (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 i",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2007",
+      "mileage": {
+        "value": 112562,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 170,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Line Sport Auto",
+    "price": {
+      "value": 27900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-line-sport-auto-ID8PnCvR.html",
+    "address": {
+      "streetAddress": "E.N 125 , Quinta da Saude - 8200-564 Albufeira, concelho Albufeira (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Line Sport Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 99953,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Pack M Auto",
+    "price": {
+      "value": 29990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-pack-m-auto-ID8Ps9fz.html",
+    "address": {
+      "streetAddress": "Rua Doutor Edgardo S\u00e1 Malheiro n\u00ba39 - 4705-267 Ferreiros e Gondizalves, concelho Braga (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2019",
+      "mileage": {
+        "value": 155000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Dynamic",
+    "price": {
+      "value": 10999,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-dynamic-ID8PlEa1.html",
+    "address": {
+      "streetAddress": "estrada n250 Junto Do Hospital Beatriz Angelo - 2674-514 Loures, concelho Loures (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Dynamic",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 163568,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 177,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Auto Pack M",
+    "price": {
+      "value": 26990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-auto-pack-m-ID8PtxnO.html",
+    "address": {
+      "streetAddress": "Quinta do Godinho Ponte do Boto - 3600-281 Castro Daire, concelho Castro Daire (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Auto Pack M",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 74029,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring ED Line Sport",
+    "price": {
+      "value": 22900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-ed-line-sport-ID8PtdTK.html",
+    "address": {
+      "streetAddress": "Estrada Nacional n.\u00ba 2494 Km 3.2, 2635 Sintra"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring ED Line Sport",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 153000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Line Luxury",
+    "price": {
+      "value": 27000,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-line-luxury-ID8PrMz0.html",
+    "address": {
+      "streetAddress": "Alameda Dos Oceanos, Lt. 4.62.02, 1990-392 Lisboa"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Line Luxury",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 62500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320",
+    "price": {
+      "value": 28950,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-ID8PsV73.html",
+    "address": {
+      "streetAddress": "Rua Professor Bernardo Correia De Almeida Lote 7 - 2460-015 Alcoba\u00e7a e Vestiaria, concelho Alcoba\u00e7a (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 92000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring ED Advantage",
+    "price": {
+      "value": 21990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-ed-advantage-ID8PtacW.html",
+    "address": {
+      "streetAddress": "Rua de Delfim Ferreira 638, 4100-199 Porto"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring ED Advantage",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 145043,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto Line Luxury",
+    "price": {
+      "value": 23490,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-line-luxury-ID8PpoM5.html",
+    "address": {
+      "streetAddress": "Rua de Delfim Ferreira 638, 4100-199 Porto"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto Line Luxury",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 84200,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d",
+    "price": {
+      "value": 18500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-ID8PsmpK.html",
+    "address": {
+      "streetAddress": "Parque das Na\u00e7\u00f5es, concelho Lisboa"
+    },
+    "car_details": {
+      "name": "BMW 320 d",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 120000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 177,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Pack M",
+    "price": {
+      "value": 17250,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-pack-m-ID8PlUwn.html",
+    "address": {
+      "streetAddress": "EN 105 - 4825-136 Santo Tirso, Couto (Santa Cristina e S\u00e3o Miguel) e Burg\u00e3es, concelho Santo Tirso (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Pack M",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 139000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320",
+    "price": {
+      "value": 23500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-ID8PsPX3.html",
+    "address": {
+      "streetAddress": "Rua Central de Travanca - N\u00ba696 - 4605-467 Travanca, concelho Amarante (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 160000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320",
+    "price": {
+      "value": 16750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-ID8PmtVu.html",
+    "address": {
+      "streetAddress": "RUA DE PAIN\u00c7\u00c3ES, , BLOCO 2 LOJA 7,8 - 4760-173 Vila Nova de Famalic\u00e3o e Calend\u00e1rio, concelho Vila Nova de Famalic\u00e3o (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 172000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto Line Sport",
+    "price": {
+      "value": 19900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-line-sport-ID8PricC.html",
+    "address": {
+      "streetAddress": "Torres Vedras (S\u00e3o Pedro, Santiago, Santa Maria do Castelo e S\u00e3o Miguel) e Matac, concelho Torres Vedras"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto Line Sport",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 143124,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Line Modern Auto",
+    "price": {
+      "value": 24500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-line-modern-auto-ID8Ptd88.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 125, Areias de P&ecirc;ra - 8365-201 Alcantarilha e P\u00eara, concelho Silves (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Line Modern Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 156359,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Pack M Auto",
+    "price": {
+      "value": 29990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-pack-m-auto-ID8PkrnZ.html",
+    "address": {
+      "streetAddress": "Av. dos Bombeiros Volunt\u00e1rios, 922 - 2765-201 Cascais e Estoril, concelho Cascais (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 93750,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Line Sport Auto",
+    "price": {
+      "value": 21750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-line-sport-auto-ID8PbJvz.html",
+    "address": {
+      "streetAddress": "R. ENG DUARTE PACHECO, 126 frte - 4470-174 Cidade da Maia, concelho Maia (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Line Sport Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 171104,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto Line Sport",
+    "price": {
+      "value": 19900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-line-sport-ID8PricC.html",
+    "address": {
+      "streetAddress": "Torres Vedras (S\u00e3o Pedro, Santiago, Santa Maria do Castelo e S\u00e3o Miguel) e Matac, concelho Torres Vedras"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto Line Sport",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 143124,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Line Modern Auto",
+    "price": {
+      "value": 24500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-line-modern-auto-ID8Ptd88.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 125, Areias de P&ecirc;ra - 8365-201 Alcantarilha e P\u00eara, concelho Silves (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Line Modern Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 156359,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Pack M Auto",
+    "price": {
+      "value": 29990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-pack-m-auto-ID8PkrnZ.html",
+    "address": {
+      "streetAddress": "Av. dos Bombeiros Volunt\u00e1rios, 922 - 2765-201 Cascais e Estoril, concelho Cascais (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 93750,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Line Sport Auto",
+    "price": {
+      "value": 21750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-line-sport-auto-ID8PbJvz.html",
+    "address": {
+      "streetAddress": "R. ENG DUARTE PACHECO, 126 frte - 4470-174 Cidade da Maia, concelho Maia (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Line Sport Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 171104,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Auto",
+    "price": {
+      "value": 25000,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-auto-ID8PnqVH.html",
+    "address": {
+      "streetAddress": "Rio Maior, concelho Rio Maior"
+    },
+    "car_details": {
+      "name": "BMW 320 d Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 128000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Compact",
+    "price": {
+      "value": 10500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-compact-ID8PtPpS.html",
+    "address": {
+      "streetAddress": "Canelas, concelho Vila Nova de Gaia"
+    },
+    "car_details": {
+      "name": "BMW 320 d Compact",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2005",
+      "mileage": {
+        "value": 68146,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 150,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Auto",
+    "price": {
+      "value": 23600,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-auto-ID8PqghF.html",
+    "address": {
+      "streetAddress": "Rua Casal de Nossa Senhora - \u00c0guas Belas - 2240-205 Ferreira do Z\u00eazere, concelho Ferreira do Z\u00eazere (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 121000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Edi\u00e7\u00e3o M",
+    "price": {
+      "value": 18250,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-edio-m-ID8PsLgU.html",
+    "address": {
+      "streetAddress": "Avenida da Conduta - N\u00ba 324 - 4510-523 F\u00e2nzeres e S\u00e3o Pedro da Cova, concelho Gondomar (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Edi\u00e7\u00e3o M",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 147000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 Ci Cabrio",
+    "price": {
+      "value": 12999,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-ci-cabrio-ID8Pn12H.html",
+    "address": {
+      "streetAddress": "Cust\u00f3ias - 4450-117 Cust\u00f3ias, Le\u00e7a do Balio e Guif\u00f5es, concelho Matosinhos (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 Ci Cabrio",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2001",
+      "mileage": {
+        "value": 158000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 170,
+        "engineDisplacement": 2171,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d",
+    "price": {
+      "value": 20990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-ID8PmXA1.html",
+    "address": {
+      "streetAddress": "RUA DO RIO TORTO 12 - 4700-155 Merelim (S\u00e3o Pedro) e Frossos, concelho Braga (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 147950,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 177,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Advantage Auto",
+    "price": {
+      "value": 25500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-advantage-auto-ID8Pt0ux.html",
+    "address": {
+      "streetAddress": "Alvalade, concelho Lisboa"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Advantage Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 94000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 i Auto",
+    "price": {
+      "value": 14800,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-i-auto-ID8Pr5qr.html",
+    "address": {
+      "streetAddress": "Av. Sacadura Cabral,24A - 1000-275 Lisboa, concelho Lisboa (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 i Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2007",
+      "mileage": {
+        "value": 163072,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 170,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d EfficientDynamics Line Sport",
+    "price": {
+      "value": 18310,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-efficientdynamics-line-sport-ID8JsKGO.html",
+    "address": {
+      "streetAddress": "AV. Carolina Michaelis - N\u00ba4-A - 2795-046 Alg\u00e9s, Linda-A-Velha e Cruz Quebrada-Dafundo, concelho Oeiras (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d EfficientDynamics Line Sport",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 104236,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring",
+    "price": {
+      "value": 28500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-ID8PsaUU.html",
+    "address": {
+      "streetAddress": "Alameda Dos Oceanos, Lt. 4.62.02, 1990-392 Lisboa"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 73000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320",
+    "price": {
+      "value": 17900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-ID8PsQeZ.html",
+    "address": {
+      "streetAddress": "ESTRADA DA BOCA - 4795 Vilarinho, concelho Santo Tirso (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 141000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Aut. Luxury Line",
+    "price": {
+      "value": 18650,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-aut-luxury-line-ID8PsAPL.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 1, Km 130 - Boavista - 2420-399 Leiria, concelho Leiria (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Aut. Luxury Line",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 125000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Line Sport Auto",
+    "price": {
+      "value": 25950,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-line-sport-auto-ID8P6T7p.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 109, n\u00ba84 - Quint\u00e3 - 3840-507 Vagos e Santo Ant\u00f3nio, concelho Vagos (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Line Sport Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 162000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Auto Line Sport",
+    "price": {
+      "value": 21900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-auto-line-sport-ID8PtNyN.html",
+    "address": {
+      "streetAddress": "Rua dos Marceneiros n\u00ba7 - 7800-009 Beja (Santiago Maior e S\u00e3o Jo\u00e3o Baptista), concelho Beja (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Auto Line Sport",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 100000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto",
+    "price": {
+      "value": 29200,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-ID8PpU5h.html",
+    "address": {
+      "streetAddress": "Estrada dos Arneiros, N\u00ba 20-A - 1500-050 Benfica, concelho Lisboa (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 40000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320",
+    "price": {
+      "value": 6999,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-ID8PowwC.html",
+    "address": {
+      "streetAddress": "Carcavelos e Parede, concelho Cascais"
+    },
+    "car_details": {
+      "name": "BMW 320",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2000",
+      "mileage": {
+        "value": 169500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 136,
+        "engineDisplacement": 1951,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320",
+    "price": {
+      "value": 29990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-ID8PivEV.html",
+    "address": {
+      "streetAddress": "Rua Frei Le\u00e3o de S\u00e3o Tom\u00e1s n.\u00ba 468 - 4785-154 Trofa, concelho Trofa (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 139915,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320",
+    "price": {
+      "value": 14750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-ID8Ptnfg.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 109 - N\u00ba1227 - 4405-953 Gulpilhares e Valadares, concelho Vila Nova de Gaia (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 175000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 177,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring ED Advantage",
+    "price": {
+      "value": 27250,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-ed-advantage-ID8PeNFX.html",
+    "address": {
+      "streetAddress": "E.N 109 Lugar da Pardala - 3880-728 Ovar, S\u00e3o Jo\u00e3o, Arada e S\u00e3o Vicente de Pereira Jus\u00e3, concelho Ovar (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring ED Advantage",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 151755,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 i Cabriolet Exclusive",
+    "price": {
+      "value": 19500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-i-cabriolet-exclusive-ID8Pi7bg.html",
+    "address": {
+      "streetAddress": "Rua Major De Dinis, 270 - 4780-366 Santo Tirso, Couto (Santa Cristina e S\u00e3o Miguel) e Burg\u00e3es, concelho Santo Tirso (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 i Cabriolet Exclusive",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "1997",
+      "mileage": {
+        "value": 40600,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 150,
+        "engineDisplacement": 1990,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Pack M Auto",
+    "price": {
+      "value": 26900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-pack-m-auto-ID8PpZgZ.html",
+    "address": {
+      "streetAddress": "Odivelas, concelho Odivelas"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 130000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320",
+    "price": {
+      "value": 14999,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-ID8PiiUg.html",
+    "address": {
+      "streetAddress": "Rua Agostinho Ribeiro Moura - 4835-400 Creixomil, concelho Guimar\u00e3es (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 152321,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Pack M Auto",
+    "price": {
+      "value": 28990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-pack-m-auto-ID8Pr3Xn.html",
+    "address": {
+      "streetAddress": "Rua Damiana Maria da Silva N\u00ba6 - 4705-087 Ferreiros e Gondizalves, concelho Braga (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 140000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto Pack M",
+    "price": {
+      "value": 29990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-pack-m-ID8PjUMZ.html",
+    "address": {
+      "streetAddress": "Rua Frei Le\u00e3o de S\u00e3o Tom\u00e1s n.\u00ba 468 - 4785-154 Trofa, concelho Trofa (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto Pack M",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 158542,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320",
+    "price": {
+      "value": 21500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-ID8PsztN.html",
+    "address": {
+      "streetAddress": "Fafe, concelho Fafe"
+    },
+    "car_details": {
+      "name": "BMW 320",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 146000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring ED Advantage",
+    "price": {
+      "value": 21990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-ed-advantage-ID8Pr1Ex.html",
+    "address": {
+      "streetAddress": "Zona Ind. da Abrunheira R.Thilo Krassman FRAC\u00c7\u00c3O F, 2710-141 Sintra"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring ED Advantage",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 94402,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Sport-Aut. Efficient Dynamics Edition Sport Line",
+    "price": {
+      "value": 22989,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-sport-aut-efficient-dynamics-edition-sport-line-ID8Psdde.html",
+    "address": {
+      "streetAddress": "AVEIRO - 3800 Aveiro, concelho Aveiro (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Sport-Aut. Efficient Dynamics Edition Sport Line",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 100000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Pack M Auto",
+    "price": {
+      "value": 27000,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-pack-m-auto-ID8PrUIC.html",
+    "address": {
+      "streetAddress": "Rua De Santa Eulalia N.2284 - 4800-090 Ferment\u00f5es, concelho Guimar\u00e3es (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 172000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Line Modern",
+    "price": {
+      "value": 17900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-line-modern-ID8PrBDD.html",
+    "address": {
+      "streetAddress": "Rua Belo Monte 27 Mafamude, 4430-029 Vila Nova de Gaia"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Line Modern",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 130000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320",
+    "price": {
+      "value": 13850,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-ID8PishW.html",
+    "address": {
+      "streetAddress": "Vila Nova de Gaia, concelho Vila Nova de Gaia"
+    },
+    "car_details": {
+      "name": "BMW 320",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 165000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Advantage Auto",
+    "price": {
+      "value": 29950,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-advantage-auto-ID8Ppinj.html",
+    "address": {
+      "streetAddress": "Rua de Augusto Lessa 145, Paranhos - 4200-348 Paranhos, concelho Porto (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Advantage Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 135000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d",
+    "price": {
+      "value": 17000,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-ID8PrVYo.html",
+    "address": {
+      "streetAddress": "Santa Catarina da Serra e Chain\u00e7a, concelho Leiria"
+    },
+    "car_details": {
+      "name": "BMW 320 d",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 94771,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Line Sport Auto",
+    "price": {
+      "value": 21750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-line-sport-auto-ID8PbJvz.html",
+    "address": {
+      "streetAddress": "R. ENG DUARTE PACHECO, 126 frte - 4470-174 Cidade da Maia, concelho Maia (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Line Sport Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 171104,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto Line Sport",
+    "price": {
+      "value": 19900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-line-sport-ID8PricC.html",
+    "address": {
+      "streetAddress": "Torres Vedras (S\u00e3o Pedro, Santiago, Santa Maria do Castelo e S\u00e3o Miguel) e Matac, concelho Torres Vedras"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto Line Sport",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 143124,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Line Modern Auto",
+    "price": {
+      "value": 24500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-line-modern-auto-ID8Ptd88.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 125, Areias de P&ecirc;ra - 8365-201 Alcantarilha e P\u00eara, concelho Silves (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Line Modern Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 156359,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Pack M Auto",
+    "price": {
+      "value": 29990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-pack-m-auto-ID8PkrnZ.html",
+    "address": {
+      "streetAddress": "Av. dos Bombeiros Volunt\u00e1rios, 922 - 2765-201 Cascais e Estoril, concelho Cascais (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 93750,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Line Sport Auto",
+    "price": {
+      "value": 21750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-line-sport-auto-ID8PbJvz.html",
+    "address": {
+      "streetAddress": "R. ENG DUARTE PACHECO, 126 frte - 4470-174 Cidade da Maia, concelho Maia (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Line Sport Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 171104,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto Line Sport",
+    "price": {
+      "value": 19900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-line-sport-ID8PricC.html",
+    "address": {
+      "streetAddress": "Torres Vedras (S\u00e3o Pedro, Santiago, Santa Maria do Castelo e S\u00e3o Miguel) e Matac, concelho Torres Vedras"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto Line Sport",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 143124,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Line Modern Auto",
+    "price": {
+      "value": 24500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-line-modern-auto-ID8Ptd88.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 125, Areias de P&ecirc;ra - 8365-201 Alcantarilha e P\u00eara, concelho Silves (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Line Modern Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 156359,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Pack M Auto",
+    "price": {
+      "value": 29990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-pack-m-auto-ID8PkrnZ.html",
+    "address": {
+      "streetAddress": "Av. dos Bombeiros Volunt\u00e1rios, 922 - 2765-201 Cascais e Estoril, concelho Cascais (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Pack M Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 93750,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring",
+    "price": {
+      "value": 27500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-ID8PsjlE.html",
+    "address": {
+      "streetAddress": "Avenida da Rep\u00fablica - Lan\u00e7ada, 2870-507 Montijo"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 97000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Auto Line Modern",
+    "price": {
+      "value": 20499,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-auto-line-modern-ID8PsUde.html",
+    "address": {
+      "streetAddress": "Charneca de Caparica e Sobreda, concelho Almada"
+    },
+    "car_details": {
+      "name": "BMW 320 d Auto Line Modern",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 109000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Auto Pack M",
+    "price": {
+      "value": 24000,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-auto-pack-m-ID8PtBvJ.html",
+    "address": {
+      "streetAddress": "Loures, concelho Loures"
+    },
+    "car_details": {
+      "name": "BMW 320 d Auto Pack M",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 141000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto Line Modern",
+    "price": {
+      "value": 20000,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-line-modern-ID8PtC5h.html",
+    "address": {
+      "streetAddress": "Oeiras e S\u00e3o Juli\u00e3o da Barra, Pa\u00e7o de Arcos e Caxias, concelho Oeiras"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto Line Modern",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 150000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto Pack M",
+    "price": {
+      "value": 21000,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-pack-m-ID8Pqpm1.html",
+    "address": {
+      "streetAddress": "Antas e Abade de Vermoim, concelho Vila Nova de Famalic\u00e3o"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto Pack M",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 175000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Advantage Auto",
+    "price": {
+      "value": 25900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-advantage-auto-ID8PsVaH.html",
+    "address": {
+      "streetAddress": "Cascais e Estoril, concelho Cascais"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Advantage Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 58000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 1,
+        "engineDisplacement": 1,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Line Sport Auto",
+    "price": {
+      "value": 24250,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-line-sport-auto-ID8PeMiX.html",
+    "address": {
+      "streetAddress": "Coruche, Fajarda e Erra, concelho Coruche"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Line Sport Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 160000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Auto",
+    "price": {
+      "value": 15400,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-auto-ID8PoFtX.html",
+    "address": {
+      "streetAddress": "Mafamude e Vilar do Para\u00edso, concelho Vila Nova de Gaia"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 150000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Sport",
+    "price": {
+      "value": 11900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-sport-ID8Psst6.html",
+    "address": {
+      "streetAddress": "Quinta do Conde - 2975 Quinta do Conde, concelho Sesimbra (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Sport",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 149000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 177,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring Line Modern",
+    "price": {
+      "value": 18500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-line-modern-ID8PmM2A.html",
+    "address": {
+      "streetAddress": "Rua Gon\u00e7alves Crespo 14 - 1150-185 Lisboa, concelho Lisboa (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring Line Modern",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 160000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring ED Line Luxury Auto",
+    "price": {
+      "value": 23600,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-ed-line-luxury-auto-ID8PbSCP.html",
+    "address": {
+      "streetAddress": "Rua General Humberto Delgado Loja 2esq - 2625-423 P\u00f3voa de Santa Iria e Forte da Casa, concelho Vila Franca de Xira (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring ED Line Luxury Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 133000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring ED Advantage Auto",
+    "price": {
+      "value": 24499,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-ed-advantage-auto-ID8PpX6t.html",
+    "address": {
+      "streetAddress": "Rua Am\u00e2ndio Ferreira da Silva N\u00ba 65, Trofa - 4785-420 Trofa, concelho Trofa (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring ED Advantage Auto",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 135257,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 320 d Touring EfficientDynamics Navigation",
+    "price": {
+      "value": 15250,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/anuncio/bmw-320-d-touring-efficientdynamics-navigation-ID8Ptkbl.html",
+    "address": {
+      "streetAddress": "Rua Serpa Pinto - 2870-363 Montijo e Afonsoeiro, concelho Montijo (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 320 d Touring EfficientDynamics Navigation",
+      "manufacturer": "BMW",
+      "model": "320",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 163095,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1
+      }
+    }
+  }
+]
