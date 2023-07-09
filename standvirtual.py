@@ -4,17 +4,17 @@ import json
 from urllib.parse import urljoin
 
 brand = 'bmw'
-model = 'serie-3'
-sub_model = '320'
+model = ''
+sub_model = ''
 initial_year = '2000'
-final_year = '2023'
-initial_km = '10000'
+final_year = ''
+initial_km = '100000'
 final_km = '175000'
-initial_power = '50'
-final_power = '294'
+initial_power = '150'
+final_power = '300'
 power_type = 'hp'
 price_from = '1500'
-price_to = '30000'
+price_to = '15000'
 
 base_url = 'https://www.standvirtual.com'
 
@@ -36,15 +36,49 @@ current_page = 1
 
 car_details = []
 
+# List of search filters and their corresponding values
+search_filters = [
+    (brand, f'/{brand}'),
+    (sub_model, f'/{sub_model}'),
+    (initial_year, f'/desde-{initial_year}?'),
+    (model, f'search%5Bfilter_enum_engine_code%5D={model}&'),
+    (initial_power, f'search%5Bfilter_float_engine_power%3Afrom%5D={initial_power}&'),
+    (final_power, f'search%5Bfilter_float_engine_power%3Ato%5D={final_power}&'),
+    (final_year, f'search%5Bfilter_float_first_registration_year%3Ato%5D={final_year}&'),
+    (initial_km, f'search%5Bfilter_float_mileage%3Afrom%5D={initial_km}&'),
+    (final_km, f'search%5Bfilter_float_mileage%3Ato%5D={final_km}&'),
+    (price_from, f'search%5Bfilter_float_price%3Afrom%5D={price_from}&'),
+    (price_to, f'search%5Bfilter_float_price%3Ato%5D={price_to}&')
+]
+
 while True:
+    # Construct the URL with the dynamic variables and current page
+    url = f'{base_url}/carros'
+
+    # Flag to keep track of whether a '?' has been added
+    question_mark_added = False
+
+    # Iterate over the search filters and add them to the URL if the value is not empty
+    for filter_value, filter_url in search_filters:
+        if filter_value:
+            if filter_value == initial_year:
+                question_mark_added = True
+            if 'search' in filter_url and not question_mark_added:
+                url += '?'
+                question_mark_added = True
+            url += filter_url
+
+    url += f'search%5Badvanced_search_expanded%5D=true&page={current_page}'
 
     # Construct the URL with the dynamic variables and current page
-    url = f'{base_url}/carros/{brand}/{sub_model}/desde-?{initial_year}?search%5Bfilter_enum_engine_code%5D={model}&search%5Bfilter_float_engine_power%3Afrom%5D={initial_power}&search%5Bfilter_float_engine_power%3Ato%5D={final_power}&search%5Bfilter_float_first_registration_year%3Ato%5D={final_year}&search%5Bfilter_float_mileage%3Afrom%5D={initial_km}&search%5Bfilter_float_mileage%3Ato%5D={final_km}&search%5Bfilter_float_price%3Afrom%5D={price_from}&search%5Bfilter_float_price%3Ato%5D={price_to}&search%5Bfilter_enum_engine_code%5D={model}&page={current_page}&search%5Badvanced_search_expanded%5D=true'
+    # url = f'{base_url}/carros/{brand}/{sub_model}/desde-?{initial_year}?search%5Bfilter_enum_engine_code%5D={model}&search%5Bfilter_float_engine_power%3Afrom%5D={initial_power}&search%5Bfilter_float_engine_power%3Ato%5D={final_power}&search%5Bfilter_float_first_registration_year%3Ato%5D={final_year}&search%5Bfilter_float_mileage%3Afrom%5D={initial_km}&search%5Bfilter_float_mileage%3Ato%5D={final_km}&search%5Bfilter_float_price%3Afrom%5D={price_from}&search%5Bfilter_float_price%3Ato%5D={price_to}&search%5Bfilter_enum_engine_code%5D={model}&page={current_page}&search%5Badvanced_search_expanded%5D=true'
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
     # Find all the h2 elements with the specified class
     h2_elements = soup.find_all(
         'h2', attrs={'data-testid': 'ad-title'})
+    
+    print(url)
 
     # Extract the href attribute from the <a> elements and store them in the car_links array
     car_links = []
@@ -58,29 +92,31 @@ while True:
         car_soup = BeautifulSoup(car_response.content, 'html.parser')
         script_tag = car_soup.find('script', type='application/ld+json')
 
-        # Find the ul element
-        ul_element = car_soup.select_one('#parameters > ul:nth-child(1)')
-
         engine_power = "-1"
         displacement = "-1"
         emissions_co2 = "-1"
 
-        # Find the li element containing "Potência" span
-        for li_element in ul_element.find_all('li'):
-            span_element = li_element.find('span')
-            if span_element and span_element.get_text(strip=True) == 'Cilindrada':
-                displacement_element = li_element.find(
-                    class_='offer-params__value')
-                displacement = displacement_element.get_text(strip=True)
-            if span_element and span_element.get_text(strip=True) == 'Potência':
-                engine_power_element = li_element.find(
-                    class_='offer-params__value')
-                engine_power = engine_power_element.get_text(strip=True)
-            if span_element and span_element.get_text(strip=True) == 'Emissões CO2':
-                emissions_element = li_element.find(
-                    class_='offer-params__value')
-                emissions_co2 = emissions_element.get_text(strip=True)
-                break
+        # Find all ul elements with class "offer-params__list"
+        ul_elements = car_soup.select('.offer-params__list')
+
+        # Iterate over the ul elements
+        for ul_element in ul_elements:
+            # Find the li elements within the current ul element
+            li_elements = ul_element.find_all('li')
+
+            # Search for the desired information within the li elements
+            for li_element in li_elements:
+                span_element = li_element.find('span')
+                if span_element and span_element.get_text(strip=True) == 'Cilindrada':
+                    displacement_element = li_element.find(class_='offer-params__value')
+                    displacement = displacement_element.get_text(strip=True)
+                if span_element and span_element.get_text(strip=True) == 'Potência':
+                    engine_power_element = li_element.find(class_='offer-params__value')
+                    engine_power = engine_power_element.get_text(strip=True)
+                if span_element and span_element.get_text(strip=True) == 'Emissões CO2':
+                    emissions_element = li_element.find(class_='offer-params__value')
+                    emissions_co2 = emissions_element.get_text(strip=True)
+                    break
 
         address = car_soup.select_one(
             '#seller-bottom-info > div > section > section.seller-bottom-info__map.collapsible.active > div > article > a')
@@ -126,11 +162,14 @@ while True:
 
     # Check if there are more pages
     next_page_button = soup.find('li', {'title': 'Next Page'})
-
-    pagination = next_page_button.get('aria-disabled', 'false')
-    if pagination == 'true':
-        # If the next page button is disabled, it means we are on the last page
+    if next_page_button is None:
         break
+    else:
+        # Check if the next page button is disabled
+        pagination = next_page_button.get('aria-disabled', 'false')
+        if pagination == 'true':
+            # If the next page button is disabled, it means we are on the last page
+            break
 
     # Move to the next page
     current_page += 1

@@ -1,80 +1,188 @@
 [
   {
     "brand": "BMW",
-    "name": "BMW de \u20ac 24\u202f490,-",
+    "name": "BMW de \u20ac 33\u202f499,-",
     "price": {
-      "value": 24490,
+      "value": 33499,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-xdrive-530d-luxury-toit-ouvrant-diesel-bleu-3b773ab6-c426-46c0-b6c9-d6d6aed237c3",
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-190ch-edition-sport-diesel-968a7f74-2742-477c-8191-0702b6885aed",
     "address": {
-      "streetAddress": "ZA de la Prade"
+      "streetAddress": "12 rue Emile Mathis"
     },
     "car_details": {
-      "name": "BMW 530",
+      "name": "BMW 120",
       "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2015",
+      "model": "120",
+      "productionDate": "2021",
       "mileage": {
-        "value": 115600,
-        "unitCode": null
+        "value": 32097,
+        "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 258,
-        "engineDisplacement": 2993,
-        "emissionsCO2": 152
+        "enginePower": 193,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 130
       }
     }
   },
   {
     "brand": "BMW",
-    "name": "BMW de \u20ac 39\u202f990,-",
+    "name": "BMW de \u20ac 35\u202f900,-",
     "price": {
-      "value": 39990,
+      "value": 35900,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-serie-5-f07-lci-xdrive-258-ch-m-sport-a-diesel-gris-3ce8c601-aec8-43ad-96bb-ac6235f72869",
+    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-f40-05-2019-xdrive-190-ch-bva8-m-sport-diesel-gris-9c2aaed1-72ad-4e3a-9fba-bdbc4e07c052",
     "address": {
-      "streetAddress": "6 RUE DES ESSARDS"
+      "streetAddress": "120 IMPASSE DES ORANGERS"
     },
     "car_details": {
-      "name": "BMW 530",
+      "name": "BMW 120",
       "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2017",
+      "model": "120",
+      "productionDate": "2020",
       "mileage": {
-        "value": 104843,
-        "unitCode": null
+        "value": 37500,
+        "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 258,
-        "engineDisplacement": 2993,
-        "emissionsCO2": 163
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 116
       }
     }
   },
   {
     "brand": "BMW",
-    "name": "BMW de \u20ac 27\u202f990,-",
+    "name": "BMW de \u20ac 16\u202f900,-",
     "price": {
-      "value": 27990,
+      "value": 16900,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-bmw-530i-x-drive-essence-gris-f494a9a4-bd29-4dd8-afc1-9ae0f5a4a36b",
+    "url": "https://www.autoscout24.fr/offres/bmw-120-pack-m-edition-diesel-bleu-02be99d4-e126-469d-8248-7644babd6fbe",
     "address": {
-      "streetAddress": "110 avenue des alpes"
+      "streetAddress": "33 boulevard mar\u00e9chal juin"
     },
     "car_details": {
-      "name": "BMW 530",
+      "name": "BMW 120",
       "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2017",
+      "model": "120",
+      "productionDate": "2012",
       "mileage": {
-        "value": 166000,
-        "unitCode": null
+        "value": 81000,
+        "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 252,
+        "enginePower": 177,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 124
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 25\u202f499,-",
+    "price": {
+      "value": 25499,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-190ch-m-sport-5p-gps-diesel-44bcf1c0-1824-433f-bdf4-dab1acb94d17",
+    "address": {
+      "streetAddress": "122 rue du ladhof"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 75000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 193,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 121
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 23\u202f990,-",
+    "price": {
+      "value": 23990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-f20-lci2-184-ch-bva8-m-sport-ultimate-essence-blanc-62a43fba-9a35-4cd7-8922-63c664ca8a96",
+    "address": {
+      "streetAddress": "ZA de Lavaleresse , Rue C\u00e9sar Dewasmes"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2019",
+      "mileage": {
+        "value": 47628,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 137
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 38\u202f999,-",
+    "price": {
+      "value": 38999,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-178ch-m-sport-dkg7-9cv-essence-d22232ac-1a84-4331-87f0-05079f71a313",
+    "address": {
+      "streetAddress": "156 AVENUE D'ALSACE"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2022",
+      "mileage": {
+        "value": 19634,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 181,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 142
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 26\u202f990,-",
+    "price": {
+      "value": 26990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-m-sport-120ia-184ch-full-led-cuir-sport-chauff-tel-essence-blanc-8630dc80-e808-41e3-8250-c7749b07bd45",
+    "address": {
+      "streetAddress": "4 Rue des R\u00e9mouleurs Parc d'activit\u00e9s La Maladrerie"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2019",
+      "mileage": {
+        "value": 13950,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
         "engineDisplacement": null,
         "emissionsCO2": null
       }
@@ -82,107 +190,80 @@
   },
   {
     "brand": "BMW",
-    "name": "BMW de \u20ac 39\u202f980,-",
+    "name": "BMW de \u20ac 35\u202f890,-",
     "price": {
-      "value": 39980,
+      "value": 35890,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-e-iperformance-limousine-m-sportpaket-hifi-electrique-essence-noir-7aaab6d1-478c-47a6-81e6-21a40d9a0437",
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-178ch-edition-sport-dkg7-9cv-essence-6b43db2b-b1ef-41ea-9782-b090d17dd0ca",
     "address": {
-      "streetAddress": "Allmendweg 79268 B\u00f6tzingen Allemagne"
+      "streetAddress": "2 Bis Rue Tabart"
     },
     "car_details": {
-      "name": "BMW 530",
+      "name": "BMW 120",
       "manufacturer": "BMW",
-      "model": "530",
+      "model": "120",
+      "productionDate": "2021",
+      "mileage": {
+        "value": 13305,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 181,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 139
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 33\u202f876,-",
+    "price": {
+      "value": 33876,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-xdrive-190ch-m-sport-diesel-8a5be77f-1e98-4bde-b22e-7c61cd82c98f",
+    "address": {
+      "streetAddress": "151 BOULEVARD MICHELET"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
       "productionDate": "2020",
       "mileage": {
-        "value": 28527,
-        "unitCode": null
+        "value": 11978,
+        "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 252,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 36
+        "enginePower": 193,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 147
       }
     }
   },
   {
     "brand": "BMW",
-    "name": "BMW de \u20ac 34\u202f900,-",
+    "name": "BMW de \u20ac 38\u202f740,-",
     "price": {
-      "value": 34900,
+      "value": 38740,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-serie-530-e-iperformance-252-ch-bva8-m-sport-autres-blanc-af53990f-c12a-4521-a46b-97373405bf34",
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-178ch-m-sport-dkg7-9cv-essence-11f5e4bf-8d7d-4651-b3a0-2a388ee21cdc",
     "address": {
-      "streetAddress": "zi de goulat"
+      "streetAddress": "396 Route de Paris"
     },
     "car_details": {
-      "name": "BMW 530",
+      "name": "BMW 120",
       "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2018",
+      "model": "120",
+      "productionDate": "2022",
       "mileage": {
-        "value": 75000,
-        "unitCode": null
+        "value": 19956,
+        "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 184,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 49
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 15\u202f400,-",
-    "price": {
-      "value": 15400,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-e61-530ia-272ch-luxe-essence-56419912-dd3c-404b-8609-44e338487737",
-    "address": {
-      "streetAddress": "560 rue Les Portes Domitienne"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2008",
-      "mileage": {
-        "value": 146881,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 276,
-        "engineDisplacement": 2996,
-        "emissionsCO2": 184
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 25\u202f490,-",
-    "price": {
-      "value": 25490,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-g30-530ia-xdrive-252ch-business-steptronic-essence-4e5c7cd1-0300-4cf1-ae73-f695a772cd2b",
-    "address": {
-      "streetAddress": null
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2017",
-      "mileage": {
-        "value": 157400,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 256,
+        "enginePower": 181,
         "engineDisplacement": 1998,
         "emissionsCO2": 137
       }
@@ -195,1211 +276,212 @@
       "value": 31900,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-g30-530ia-252ch-business-steptronic-essence-f3876a7a-e546-4563-a2fe-4718cbd27df3",
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-xdrive-190ch-luxury-diesel-7a0a589c-39ed-4f2e-9c8a-14cfa08e6276",
     "address": {
-      "streetAddress": "560 rue Les Portes Domitienne"
+      "streetAddress": "680 avenue de l'Europe"
     },
     "car_details": {
-      "name": "BMW 530",
+      "name": "BMW 120",
       "manufacturer": "BMW",
-      "model": "530",
+      "model": "120",
+      "productionDate": "2020",
+      "mileage": {
+        "value": 81425,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 193,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 116
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 28\u202f900,-",
+    "price": {
+      "value": 28900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-xdrive-190ch-m-sport-3p-diesel-2dea8e4e-66b5-4dd3-8417-40f123bb0604",
+    "address": {
+      "streetAddress": "155 CHEMIN DE FONT GRAISSAN"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
       "productionDate": "2017",
       "mileage": {
-        "value": 52187,
-        "unitCode": null
+        "value": 23500,
+        "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 256,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 132
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 20\u202f990,-",
-    "price": {
-      "value": 20990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-f10-530da-xdrive-258ch-luxury-diesel-6fe472dd-9b12-4da0-9691-2f960ab819b1",
-    "address": {
-      "streetAddress": "100 Route de Limoges"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2014",
-      "mileage": {
-        "value": 154000,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 262,
-        "engineDisplacement": 2993,
-        "emissionsCO2": 147
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 36\u202f490,-",
-    "price": {
-      "value": 36490,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-e-m-sport-ambient-camera-wireless-charge-electrique-essence-blanc-8acfa4ca-afe1-44ea-b135-0d4df6a9c70e",
-    "address": {
-      "streetAddress": "Uniquement sur rendez-vous"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2019",
-      "mileage": {
-        "value": 42484,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 184,
-        "engineDisplacement": 1998,
-        "emissionsCO2": null
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 23\u202f990,-",
-    "price": {
-      "value": 23990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-d-245-ch-gran-turismo-luxe-a-diesel-bleu-6f44a41b-c26b-e407-e053-e250040ac668",
-    "address": {
-      "streetAddress": "4 AVENUE EDOUARD VII"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2010",
-      "mileage": {
-        "value": 166000,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 245,
-        "engineDisplacement": 2993,
-        "emissionsCO2": 173
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 38\u202f500,-",
-    "price": {
-      "value": 38500,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530d-xdrive-265-ch-bva8-m-sport-diesel-blanc-2a75df77-739a-4aa5-b11d-38c820e25d92",
-    "address": {
-      "streetAddress": null
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2017",
-      "mileage": {
-        "value": 105000,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 265,
-        "engineDisplacement": 2993,
-        "emissionsCO2": null
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 36\u202f975,-",
-    "price": {
-      "value": 36975,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530da-xdrive-265ch-business-euro6c-diesel-78a5475f-fec2-4a3e-975e-22c2a62dda3c",
-    "address": {
-      "streetAddress": "5 rue Joseph Cugnot Za du Petit Guelen"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2018",
-      "mileage": {
-        "value": 94942,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 269,
-        "engineDisplacement": 2993,
-        "emissionsCO2": 148
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 29\u202f710,-",
-    "price": {
-      "value": 29710,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-d-xdrive-touring-gestiksteuerung-head-up-led-diesel-noir-b5703e51-3bf1-42f7-93fb-ae7f76f1cdba",
-    "address": {
-      "streetAddress": "Allmendweg 79268 B\u00f6tzingen Allemagne"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2018",
-      "mileage": {
-        "value": 130263,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 265,
-        "engineDisplacement": 2993,
-        "emissionsCO2": 139
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 30\u202f990,-",
-    "price": {
-      "value": 30990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-e-iperformance-hud-360-memory-electrique-essence-noir-b291f5bb-13c1-4e35-b3cd-a8aa41012a7c",
-    "address": {
-      "streetAddress": "Uniquement sur rendez-vous"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2018",
-      "mileage": {
-        "value": 77507,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 252,
-        "engineDisplacement": 1998,
-        "emissionsCO2": null
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 31\u202f985,-",
-    "price": {
-      "value": 31985,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530da-xdrive-265ch-luxury-steptronic-diesel-0e4de198-ed63-42ec-9f06-29a7e02e1030",
-    "address": {
-      "streetAddress": "53 RUE DE LA JOMINIERE BP 90225"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2017",
-      "mileage": {
-        "value": 121265,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 269,
-        "engineDisplacement": 2993,
-        "emissionsCO2": 132
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 24\u202f750,-",
-    "price": {
-      "value": 24750,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-gran-turismo-530d-xdrive-258-ch-luxury-a-diesel-noir-59edb35f-3848-4c7b-ad81-a3770cc9de3e",
-    "address": {
-      "streetAddress": null
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2014",
-      "mileage": {
-        "value": 149000,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 258,
-        "engineDisplacement": 2993,
-        "emissionsCO2": null
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 39\u202f990,-",
-    "price": {
-      "value": 39990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-das-xdrive-pack-m-head-up-distro-soft-close-diesel-noir-be434bde-f3c5-455d-8c24-550b7fb86717",
-    "address": {
-      "streetAddress": "Uniquement sur rendez-vous en Belgique"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2017",
-      "mileage": {
-        "value": 94500,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 265,
-        "engineDisplacement": 2993,
-        "emissionsCO2": null
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 31\u202f890,-",
-    "price": {
-      "value": 31890,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-ea-phev-berline-navi-pro-virtual-cruise-cuir-essence-noir-79c5a948-2e37-49be-94a8-01880c20f098",
-    "address": {
-      "streetAddress": "rue Georges Delhaye 1"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2018",
-      "mileage": {
-        "value": 77000,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 252,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 47
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 29\u202f900,-",
-    "price": {
-      "value": 29900,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-serie-5-g30-10-2016-265-ch-bva8-m-sport-diesel-gris-0fca6875-8425-4817-b79d-dd530886abeb",
-    "address": {
-      "streetAddress": "ZAC de la Belle Fontaine"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2017",
-      "mileage": {
-        "value": 149900,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 265,
-        "engineDisplacement": 2993,
+        "enginePower": 193,
+        "engineDisplacement": 1995,
         "emissionsCO2": 124
       }
     }
   },
   {
     "brand": "BMW",
-    "name": "BMW de \u20ac 35\u202f490,-",
+    "name": "BMW de \u20ac 23\u202f710,-",
     "price": {
-      "value": 35490,
+      "value": 23710,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530ea-252ch-luxury-euro6d-t-autres-46c17cdb-8faf-4eee-aa48-317c2b6cae62",
-    "address": {
-      "streetAddress": "10 BOULEVARD DE L EUROPE"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2019",
-      "mileage": {
-        "value": 75403,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 186,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 47
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 34\u202f000,-",
-    "price": {
-      "value": 34000,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530e-aut-electrique-essence-gris-b1caacdb-e6e5-4d18-871c-6b1a26cfe074",
-    "address": {
-      "streetAddress": null
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2019",
-      "mileage": {
-        "value": 13000,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 252,
-        "engineDisplacement": 1998,
-        "emissionsCO2": null
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 39\u202f500,-",
-    "price": {
-      "value": 39500,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-e-mpack-open-dak-adapt-led-aero-shadowline-1j-grnt-essence-gris-432bffe3-0870-4589-9453-8e47f2943eb4",
-    "address": {
-      "streetAddress": "Uniquement sur rendez-vous en Belgique"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2018",
-      "mileage": {
-        "value": 49800,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 184,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 46
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 38\u202f500,-",
-    "price": {
-      "value": 38500,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530ea-252ch-luxury-euro6d-t-autres-eebe7e0f-df3a-441f-a0b1-640291e5346b",
-    "address": {
-      "streetAddress": "101 ROUTE DE REVEL"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2019",
-      "mileage": {
-        "value": 59900,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 186,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 47
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 16\u202f500,-",
-    "price": {
-      "value": 16500,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-bmw-serie-530-da-f11-diesel-bleu-f56236d8-8669-4c17-9886-b6e41230e805",
-    "address": {
-      "streetAddress": null
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2011",
-      "mileage": {
-        "value": 164200,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 245,
-        "engineDisplacement": 2993,
-        "emissionsCO2": 165
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 37\u202f900,-",
-    "price": {
-      "value": 37900,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530da-xdrive-265ch-luxury-euro6d-t-diesel-02871ed0-f6e9-41ee-a7d5-0e0e1b6783cc",
-    "address": {
-      "streetAddress": null
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2019",
-      "mileage": {
-        "value": 117400,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 269,
-        "engineDisplacement": 2993,
-        "emissionsCO2": 143
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 26\u202f400,-",
-    "price": {
-      "value": 26400,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530ea-phev-performance-essence-bleu-b74c58ec-bc73-4baa-9089-d9f82382714e",
-    "address": {
-      "streetAddress": "Uniquement sur rendez-vous en Belgique"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2018",
-      "mileage": {
-        "value": 156465,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 184,
-        "engineDisplacement": 1998,
-        "emissionsCO2": null
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 32\u202f900,-",
-    "price": {
-      "value": 32900,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-g30-530ea-iperformance-252ch-business-electrique-essence-b0ed87c0-c877-4784-8568-64e165c155d6",
-    "address": {
-      "streetAddress": "13 15 AVE MORANGIS"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2017",
-      "mileage": {
-        "value": 39223,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 256,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 44
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 29\u202f995,-",
-    "price": {
-      "value": 29995,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-e-phev-performance-leder-interieur-electrique-essence-gris-371a293e-fd67-4d25-b9e8-62e6a4359024",
-    "address": {
-      "streetAddress": "Uniquement sur rendez-vous en Belgique"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2017",
-      "mileage": {
-        "value": 66000,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 184,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 44
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 19\u202f950,-",
-    "price": {
-      "value": 19950,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-serie-5-f10-530xd-258ch-sport-design-a-diesel-gris-a971e7f1-8c3f-4ea1-b773-c8c3f193202e",
-    "address": {
-      "streetAddress": null
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2014",
-      "mileage": {
-        "value": 169000,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 258,
-        "engineDisplacement": 2993,
-        "emissionsCO2": 145
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 21\u202f900,-",
-    "price": {
-      "value": 21900,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530d-258-cv-luxury-a-diesel-f1a43610-9601-40db-a368-6d60b032030b",
-    "address": {
-      "streetAddress": "48 avenue d aubiere"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2014",
-      "mileage": {
-        "value": 141590,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 258,
-        "engineDisplacement": 2993,
-        "emissionsCO2": null
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 37\u202f700,-",
-    "price": {
-      "value": 37700,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-serie-5-touring-g31-xdrive-bva8-sport-diesel-blanc-376823fb-a810-4d74-a08d-1d63a75c634a",
-    "address": {
-      "streetAddress": null
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2018",
-      "mileage": {
-        "value": 97000,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 265,
-        "engineDisplacement": 2993,
-        "emissionsCO2": 139
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 34\u202f390,-",
-    "price": {
-      "value": 34390,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530ea-phev-luxuryline-cuir-nappa-toe-camera-navi-electrique-essence-gris-d7072679-3050-4756-936d-99165c722a50",
-    "address": {
-      "streetAddress": "rue Georges Delhaye 1"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2018",
-      "mileage": {
-        "value": 47000,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 252,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 44
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 35\u202f700,-",
-    "price": {
-      "value": 35700,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530ea-iperformance-252ch-luxury-autres-9fa072c8-f30a-4e6c-846b-728ca29ab1f1",
-    "address": {
-      "streetAddress": "48 Bis Route de Bergues"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2017",
-      "mileage": {
-        "value": 59700,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 186,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 44
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 31\u202f499,-",
-    "price": {
-      "value": 31499,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530da-258ch-luxury-gps-sieges-chauf-diesel-2535ec81-ab04-4c77-bb65-b7afe5b0f8d8",
-    "address": {
-      "streetAddress": "20 Parc Activit\u00e9s du Beau Vallon"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2016",
-      "mileage": {
-        "value": 78463,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 262,
-        "engineDisplacement": 2993,
-        "emissionsCO2": 144
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 27\u202f990,-",
-    "price": {
-      "value": 27990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-serie-5-f07-lci-07-2017-xdrive-258-ch-luxury-a-diesel-gris-092393fd-900d-4473-88e7-1c483a2efe2c",
-    "address": {
-      "streetAddress": null
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2017",
-      "mileage": {
-        "value": 151000,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 258,
-        "engineDisplacement": 2993,
-        "emissionsCO2": 163
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 34\u202f990,-",
-    "price": {
-      "value": 34990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-g31-530da-xdrive-265ch-luxury-steptronic-diesel-7eac296f-4d6d-40e5-b8bb-8b5a471a8532",
-    "address": {
-      "streetAddress": null
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2017",
-      "mileage": {
-        "value": 94244,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 269,
-        "engineDisplacement": 2993,
-        "emissionsCO2": 139
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 35\u202f990,-",
-    "price": {
-      "value": 35990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530d-265-ch-bva8-luxury-diesel-noir-c9de2893-4839-48ff-beb1-834e0a84b71b",
-    "address": {
-      "streetAddress": "4 rue du Leon"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2017",
-      "mileage": {
-        "value": 78800,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 265,
-        "engineDisplacement": 2993,
-        "emissionsCO2": null
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 34\u202f900,-",
-    "price": {
-      "value": 34900,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-e-iperformance-252-ch-business-1-main-electrique-essence-gris-df94fe1e-4ff9-4c3a-96cc-8528775b9fd9",
-    "address": {
-      "streetAddress": "Uniquement sur Rendez-vous"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2019",
-      "mileage": {
-        "value": 76000,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 252,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 49
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 32\u202f495,-",
-    "price": {
-      "value": 32495,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-e-iperformance-leder-navi-pdc-topstaat-electrique-essence-gris-51cb50ed-5b73-421b-9f1c-b53c69d40b57",
-    "address": {
-      "streetAddress": "Sur rendez-vous"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2019",
-      "mileage": {
-        "value": 54359,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 184,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 46
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 13\u202f990,-",
-    "price": {
-      "value": 13990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-da-235ch-luxe-diesel-noir-c80ca0ea-ece4-48f1-a264-4fc02d25dd86",
-    "address": {
-      "streetAddress": "92 Avenue Fernand Lobbedez"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2008",
-      "mileage": {
-        "value": 161900,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 235,
-        "engineDisplacement": 2993,
-        "emissionsCO2": null
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 31\u202f770,-",
-    "price": {
-      "value": 31770,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-e-iperformance-limousine-head-up-hifi-led-electrique-essence-gris-4738f5ff-e413-4c15-958e-0a2aa4e55c7d",
+    "url": "https://www.autoscout24.fr/offres/bmw-120-d-xdrive-sport-line-led-pdc-shz-navi-leder-diesel-noir-2ff9e9ab-c40f-45a1-8bf7-1b838fc70dd2",
     "address": {
       "streetAddress": "Allmendweg 79268 B\u00f6tzingen Allemagne"
     },
     "car_details": {
-      "name": "BMW 530",
+      "name": "BMW 120",
       "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2019",
+      "model": "120",
+      "productionDate": "2017",
       "mileage": {
-        "value": 74328,
-        "unitCode": null
+        "value": 68738,
+        "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 252,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 41
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 119
       }
     }
   },
   {
     "brand": "BMW",
-    "name": "BMW de \u20ac 36\u202f900,-",
+    "name": "BMW de \u20ac 38\u202f790,-",
     "price": {
-      "value": 36900,
+      "value": 38790,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530da-xdrive-265ch-business-design-euro6d-t-153g-diesel-ff310317-239b-4689-bacb-57293bb498de",
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-178ch-m-sport-dkg7-9cv-essence-3d883104-120e-4fef-8f03-292ac9706e2f",
     "address": {
-      "streetAddress": "ZONE INDUSTRIELLE DE SEYSSUEL ROUTE DE CHASSE"
+      "streetAddress": "2 RUE EMILE MATHIS"
     },
     "car_details": {
-      "name": "BMW 530",
+      "name": "BMW 120",
       "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2019",
+      "model": "120",
+      "productionDate": "2022",
       "mileage": {
-        "value": 133693,
-        "unitCode": null
+        "value": 14103,
+        "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 269,
-        "engineDisplacement": 2993,
-        "emissionsCO2": 153
+        "enginePower": 181,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 137
       }
     }
   },
   {
     "brand": "BMW",
-    "name": "BMW de \u20ac 30\u202f990,-",
+    "name": "BMW de \u20ac 24\u202f500,-",
     "price": {
-      "value": 30990,
+      "value": 24500,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-serie-5-g30-iperformance-bva8-m-sport-electrique-essence-blanc-2452cf70-c858-46b9-b3a2-48509c0ee13b",
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120d-xdrive-bva-diesel-noir-51dbef0b-0f0e-4893-b608-5ae749f1c51b",
     "address": {
       "streetAddress": null
     },
     "car_details": {
-      "name": "BMW 530",
+      "name": "BMW 120",
       "manufacturer": "BMW",
-      "model": "530",
+      "model": "120",
       "productionDate": "2019",
       "mileage": {
-        "value": 75085,
-        "unitCode": null
+        "value": 59561,
+        "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 184,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 36
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 167
       }
     }
   },
   {
     "brand": "BMW",
-    "name": "BMW de \u20ac 27\u202f990,-",
+    "name": "BMW de \u20ac 16\u202f400,-",
     "price": {
-      "value": 27990,
+      "value": 16400,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-g31-touring-530ia-xdrive-252-lounge-essence-0e78f438-2f43-43ed-89e1-aac5689ffe3a",
-    "address": {
-      "streetAddress": "12, Rue Raymond Souday"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2018",
-      "mileage": {
-        "value": 119800,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 256,
-        "engineDisplacement": 1998,
-        "emissionsCO2": null
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 39\u202f990,-",
-    "price": {
-      "value": 39990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-ea-phev-performance-m-sport-camera-360-hud-navipro-electrique-essence-gris-93dfd41c-d36d-4726-8c18-df7e886d364c",
-    "address": {
-      "streetAddress": "rue Georges Delhaye 1"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2019",
-      "mileage": {
-        "value": 68000,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 184,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 52
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 22\u202f500,-",
-    "price": {
-      "value": 22500,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530d-gran-turismo-aut-luxury-line-diesel-beige-ec9d2cb3-8fbd-44b9-b793-710242289eb4",
+    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-f20-07-2011-03-2015-184-ch-m-sport-a-diesel-noir-89ef9a75-991d-49a1-af96-4a4b20e300a8",
     "address": {
       "streetAddress": null
     },
     "car_details": {
-      "name": "BMW 530",
+      "name": "BMW 120",
       "manufacturer": "BMW",
-      "model": "530",
+      "model": "120",
       "productionDate": "2014",
       "mileage": {
-        "value": 149850,
-        "unitCode": null
+        "value": 155000,
+        "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 258,
-        "engineDisplacement": 2993,
-        "emissionsCO2": 153
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 116
       }
     }
   },
   {
     "brand": "BMW",
-    "name": "BMW de \u20ac 33\u202f690,-",
+    "name": "BMW de \u20ac 33\u202f790,-",
     "price": {
-      "value": 33690,
+      "value": 33790,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530ea-iperformance-252ch-luxury-steptronic-autres-bbf39d81-ea14-458b-b709-5a5acc32fe04",
-    "address": {
-      "streetAddress": "42-46 Rue des Docteurs Muller"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2017",
-      "mileage": {
-        "value": 68900,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 186,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 44
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 34\u202f990,-",
-    "price": {
-      "value": 34990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530ea-iperformance-252ch-executive-autres-b267ef9c-8e28-4f4c-98a6-5268e83fa657",
-    "address": {
-      "streetAddress": "RUE JACQUELINE AURIOL ZAC LES RIBES OUEST"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2017",
-      "mileage": {
-        "value": 55837,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 186,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 44
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 19\u202f250,-",
-    "price": {
-      "value": 19250,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530d-xdrive-luxury-line-diesel-noir-fc221e5d-b6f7-4457-92e5-61d44b1f6756",
+    "url": "https://www.autoscout24.fr/offres/bmw-120-f40-120da-xdrive-190ch-edition-sport-diesel-4ff74750-112f-4418-9ef3-4e92a3edc3ad",
     "address": {
       "streetAddress": null
     },
     "car_details": {
-      "name": "BMW 530",
+      "name": "BMW 120",
       "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2013",
+      "model": "120",
+      "productionDate": "2020",
       "mileage": {
-        "value": 168000,
-        "unitCode": null
+        "value": 34888,
+        "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 258,
-        "engineDisplacement": null,
-        "emissionsCO2": null
+        "enginePower": 193,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 138
       }
     }
   },
   {
     "brand": "BMW",
-    "name": "BMW de \u20ac 35\u202f000,-",
+    "name": "BMW de \u20ac 17\u202f990,-",
     "price": {
-      "value": 35000,
+      "value": 17990,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-serie-5-g30-iperformance-252-ch-bva8-m-sport-electrique-essence-gris-ec0cadeb-e015-4dbb-b1c4-9c44ddb4fb34",
+    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-f21-lci-184-ch-sport-a-essence-noir-ce53ea9c-95b0-444b-bd90-ecb012da1322",
     "address": {
-      "streetAddress": null
+      "streetAddress": "4 AVENUE EDOUARD VII"
     },
     "car_details": {
-      "name": "BMW 530",
+      "name": "BMW 120",
       "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2018",
+      "model": "120",
+      "productionDate": "2017",
       "mileage": {
-        "value": 76749,
-        "unitCode": null
+        "value": 102000,
+        "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 252,
+        "enginePower": 184,
         "engineDisplacement": 1998,
-        "emissionsCO2": 36
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 38\u202f990,-",
-    "price": {
-      "value": 38990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530da-xdrive-265ch-m-sport-steptronic-euro6d-t-153-diesel-564f4915-4e9c-4da8-bf93-d6f516488299",
-    "address": {
-      "streetAddress": "RUE JACQUELINE AURIOL ZAC LES RIBES OUEST"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2019",
-      "mileage": {
-        "value": 118550,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 269,
-        "engineDisplacement": 2993,
-        "emissionsCO2": 153
+        "emissionsCO2": 133
       }
     }
   },
@@ -1410,347 +492,104 @@
       "value": 36490,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530da-xdrive-265ch-luxury-diesel-8effce79-8991-438a-821d-b34ac33ae3bf",
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-178ch-m-sport-dkg7-9cv-essence-be95d120-8b7b-410d-bb80-b7085bc652ad",
     "address": {
-      "streetAddress": "8 Rue Amedee Gordini   Zone Artisanale Landreau"
+      "streetAddress": "20 ROUTE DE CHARMEIL"
     },
     "car_details": {
-      "name": "BMW 530",
+      "name": "BMW 120",
       "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2017",
+      "model": "120",
+      "productionDate": "2021",
       "mileage": {
-        "value": 113051,
-        "unitCode": null
+        "value": 29828,
+        "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 269,
-        "engineDisplacement": 2993,
-        "emissionsCO2": 139
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 35\u202f590,-",
-    "price": {
-      "value": 35590,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-ea-phev-berline-navi-pro-virtual-camera-cuir-electrique-essence-gris-db57b335-a8ce-4ace-a54f-4d1ff5728ae2",
-    "address": {
-      "streetAddress": "rue Georges Delhaye 1"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2019",
-      "mileage": {
-        "value": 76000,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 252,
+        "enginePower": 181,
         "engineDisplacement": 1998,
-        "emissionsCO2": 41
+        "emissionsCO2": 137
       }
     }
   },
   {
     "brand": "BMW",
-    "name": "BMW de \u20ac 36\u202f960,-",
+    "name": "BMW de \u20ac 24\u202f990,-",
     "price": {
-      "value": 36960,
+      "value": 24990,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530da-xdrive-265ch-luxury-diesel-62c05f6e-c152-4bfa-865a-6578e2f92b57",
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-xdrive-190ch-urbanchic-5p-euro6c-diesel-d6c8c7e4-5891-4433-9f6f-ce00c9775103",
     "address": {
-      "streetAddress": "316 RUE SAINT MALO"
+      "streetAddress": "ROUTE DE PARIS"
     },
     "car_details": {
-      "name": "BMW 530",
+      "name": "BMW 120",
       "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2017",
-      "mileage": {
-        "value": 87727,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 269,
-        "engineDisplacement": 2993,
-        "emissionsCO2": 132
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 39\u202f900,-",
-    "price": {
-      "value": 39900,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530ea-252ch-m-sport-steptronic-euro6d-t-autres-52717a94-c5ba-482d-9926-dd905cee92ea",
-    "address": {
-      "streetAddress": "8 Rue Amedee Gordini   Zone Artisanale Landreau"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2019",
-      "mileage": {
-        "value": 86000,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 186,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 47
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 39\u202f900,-",
-    "price": {
-      "value": 39900,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530ea-252ch-business-design-euro6d-t-36g-autres-cf172c4c-8a1d-4d6a-b864-4720ee7cb4a7",
-    "address": {
-      "streetAddress": "LIEU DIT PLACE DE CANTERBURY"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2020",
-      "mileage": {
-        "value": 40729,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 186,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 36
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 36\u202f900,-",
-    "price": {
-      "value": 36900,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530da-xdrive-265ch-luxury-euro6c-diesel-e195eb3d-9650-417f-a1fc-ec829e74824d",
-    "address": {
-      "streetAddress": "8 Rue Amedee Gordini   Zone Artisanale Landreau"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
+      "model": "120",
       "productionDate": "2018",
       "mileage": {
-        "value": 104200,
-        "unitCode": null
+        "value": 85626,
+        "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 269,
-        "engineDisplacement": 2993,
-        "emissionsCO2": 144
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 35\u202f999,-",
-    "price": {
-      "value": 35999,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530ea-252ch-business-design-euro6d-t-autres-8a048300-c975-4474-b0e6-88e043819f3f",
-    "address": {
-      "streetAddress": "1 boulevard de l'Europe"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2019",
-      "mileage": {
-        "value": 81705,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 186,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 47
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 28\u202f490,-",
-    "price": {
-      "value": 28490,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-serie-5-g30-xdrive-iperformance-252-ch-bva8-luxury-electrique-essence-noir-76045a27-3416-4a15-a18b-e985bd10a564",
-    "address": {
-      "streetAddress": null
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2019",
-      "mileage": {
-        "value": 121890,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 184,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 45
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 39\u202f800,-",
-    "price": {
-      "value": 39800,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530ea-252ch-business-design-euro6d-t-36g-autres-90e49137-19d4-44e8-8eee-20fb6aa1958c",
-    "address": {
-      "streetAddress": "CARREFOUR DE L'EUROPE"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2020",
-      "mileage": {
-        "value": 67894,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 186,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 36
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 36\u202f000,-",
-    "price": {
-      "value": 36000,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-serie-5-touring-g31-xdrive-252-ch-bva8-sport-essence-noir-153a9e90-8239-4e50-b663-49f9184ea85e",
-    "address": {
-      "streetAddress": "zone industrielle 4"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2019",
-      "mileage": {
-        "value": 77600,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 252,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 156
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 38\u202f780,-",
-    "price": {
-      "value": 38780,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530ea-iperformance-252ch-luxury-autres-f513701d-cee6-4864-adf0-e4d1bdfe8a0e",
-    "address": {
-      "streetAddress": "53 RUE DE LA JOMINIERE BP 90225"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2018",
-      "mileage": {
-        "value": 49785,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 186,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 44
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 26\u202f900,-",
-    "price": {
-      "value": 26900,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530da-xdrive-258ch-m-sport-diesel-371788d1-90cd-4930-b46d-b4540877075d",
-    "address": {
-      "streetAddress": "1 rue francois Toullec"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2015",
-      "mileage": {
-        "value": 128765,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 262,
-        "engineDisplacement": 2993,
-        "emissionsCO2": 154
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 33\u202f900,-",
-    "price": {
-      "value": 33900,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-e-xdrive-phev-m-sport-navi-dab-hud-led-pdc-full-electrique-essence-noir-37f3658d-171e-44dd-a60a-934cbf3022e2",
-    "address": {
-      "streetAddress": "Uniquement sur rendez vous"
-    },
-    "car_details": {
-      "name": "BMW 530",
-      "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2019",
-      "mileage": {
-        "value": 147293,
-        "unitCode": null
-      },
-      "engineDetails": {
-        "enginePower": 252,
+        "enginePower": 193,
         "engineDisplacement": 1995,
-        "emissionsCO2": null
+        "emissionsCO2": 138
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 34\u202f990,-",
+    "price": {
+      "value": 34990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-178ch-edition-sport-dkg7-9cv-essence-6fb55568-afcd-4a7d-9a1a-8ad624aaace0",
+    "address": {
+      "streetAddress": "Parc des Propyl\u00e9es"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2022",
+      "mileage": {
+        "value": 14962,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 181,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 137
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 34\u202f500,-",
+    "price": {
+      "value": 34500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-178ch-edition-sport-dkg7-9cv-essence-280ec757-e1a9-4c60-adc6-d226070c6a66",
+    "address": {
+      "streetAddress": "Cit\u00e9 de l'Automobile ZAC de la Croix Blandin"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2021",
+      "mileage": {
+        "value": 21882,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 181,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 137
       }
     }
   },
@@ -1761,50 +600,1670 @@
       "value": 32990,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-g30-530ea-iperformance-252ch-luxury-electrique-essence-4793ba53-a8ce-404e-a02b-e787d36d98fa",
+    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-f40-120d-190-ch-bva8-m-sport-diesel-blanc-940c8f94-db66-4e3d-9a5b-4f98c3e3c39e",
     "address": {
-      "streetAddress": "141 RN34"
+      "streetAddress": "ZI les Mimosas C12B Route de la F\u00e9nerie"
     },
     "car_details": {
-      "name": "BMW 530",
+      "name": "BMW 120",
       "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2018",
+      "model": "120",
+      "productionDate": "2020",
       "mileage": {
-        "value": 90492,
-        "unitCode": null
+        "value": 43000,
+        "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 186,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 44
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 139
       }
     }
   },
   {
     "brand": "BMW",
-    "name": "BMW de \u20ac 34\u202f999,-",
+    "name": "BMW de \u20ac 32\u202f990,-",
     "price": {
-      "value": 34999,
+      "value": 32990,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-530-530ea-iperformance-252ch-luxury-tpano-cuir-sieges-autres-4bb30993-7506-43e7-a280-9c93aa2ad45e",
+    "url": "https://www.autoscout24.fr/offres/bmw-120-f40-120ia-178ch-lounge-dkg7-essence-47449688-6c73-4e83-aba5-3077724731c6",
     "address": {
-      "streetAddress": "15, rue des Alli\u00e9es"
+      "streetAddress": "12 RUE GEORGES RICHARD"
     },
     "car_details": {
-      "name": "BMW 530",
+      "name": "BMW 120",
       "manufacturer": "BMW",
-      "model": "530",
-      "productionDate": "2018",
+      "model": "120",
+      "productionDate": "2021",
       "mileage": {
-        "value": 76998,
-        "unitCode": null
+        "value": 36990,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 181,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 137
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 29\u202f999,-",
+    "price": {
+      "value": 29999,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-f20-184-ch-bva8-m-sport-ultimate-essence-blanc-99234826-3bea-4a72-98be-36cddb8cea1a",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2019",
+      "mileage": {
+        "value": 51000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 137
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 34\u202f990,-",
+    "price": {
+      "value": 34990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-xdrive-190ch-m-sport-diesel-bcd0cf61-1c58-47c9-9c88-b676fca9f3c2",
+    "address": {
+      "streetAddress": "145 RUE NICOLAS VAUQUELIN"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2019",
+      "mileage": {
+        "value": 58080,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 193,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 116
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 34\u202f990,-",
+    "price": {
+      "value": 34990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-xdrive-190ch-m-sport-diesel-014ed460-d1cc-4582-81af-4a50ab3aa8fc",
+    "address": {
+      "streetAddress": "RUE JACQUELINE AURIOL ZAC LES RIBES OUEST"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2020",
+      "mileage": {
+        "value": 68385,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 193,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 138
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 38\u202f790,-",
+    "price": {
+      "value": 38790,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-178ch-edition-m-design-dkg7-9cv-essence-908477c2-4052-4e3e-b7ce-8675b8aadd47",
+    "address": {
+      "streetAddress": "10 RUE DES FRERES L ET E BERTRAND"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2022",
+      "mileage": {
+        "value": 10220,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 181,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 139
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 37\u202f888,-",
+    "price": {
+      "value": 37888,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-178ch-m-sport-dkg7-9cv-essence-56771733-972a-462a-9237-e9c8a8d10507",
+    "address": {
+      "streetAddress": "53 RUE DE LA JOMINIERE BP 90225"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2021",
+      "mileage": {
+        "value": 15903,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 181,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 143
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 17\u202f990,-",
+    "price": {
+      "value": 17990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-d-pack-m-shadow-line-diesel-blanc-2a8f4e38-deb6-4ad2-ae21-ea8860957142",
+    "address": {
+      "streetAddress": "Sur Rendez-Vous"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 99858,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 114
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 38\u202f950,-",
+    "price": {
+      "value": 38950,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-xdrive-190ch-m-sport-diesel-abbaa819-b3ec-4626-86eb-eb65dcc3cc8a",
+    "address": {
+      "streetAddress": "PORTE DE SAUTRON AVENUE DES LIONS"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2020",
+      "mileage": {
+        "value": 50045,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 193,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 116
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 21\u202f490,-",
+    "price": {
+      "value": 21490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-120d-190-ch-msport-garantie-6-mois-diesel-bleu-81a0655b-9a2a-485c-b4f3-03cfb9479540",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 76932,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 114
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 16\u202f400,-",
+    "price": {
+      "value": 16400,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120d-m-sport-diesel-blanc-62027681-1ba6-493e-b58c-95ff1c7ed1d0",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 148000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 114
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 34\u202f900,-",
+    "price": {
+      "value": 34900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-190ch-m-sport-diesel-9b760f18-dc59-4e68-9f33-c91fbc42348d",
+    "address": {
+      "streetAddress": "155 CHEMIN DE FONT GRAISSAN"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2021",
+      "mileage": {
+        "value": 69900,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 193,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 129
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 15\u202f990,-",
+    "price": {
+      "value": 15990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-xdrive-184-ch-m-sport-5p-toit-ouvrant-diesel-blanc-fe86961c-66b2-4b6a-96d8-7e8295f239b0",
+    "address": {
+      "streetAddress": "119, avenue Simone Veil"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 152000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 126
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 26\u202f990,-",
+    "price": {
+      "value": 26990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-184ch-m-sport-5p-essence-7a474d3a-61f0-4d6a-a625-34fdc21612a2",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 75552,
+        "unitCode": "KMT"
       },
       "engineDetails": {
         "enginePower": 186,
         "engineDisplacement": 1998,
-        "emissionsCO2": 44
+        "emissionsCO2": 135
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 32\u202f995,-",
+    "price": {
+      "value": 32995,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-xdrive-190ch-m-sport-diesel-036f0178-085a-4114-8f31-d4d45322a260",
+    "address": {
+      "streetAddress": "53 RUE DE LA JOMINIERE BP 90225"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2020",
+      "mileage": {
+        "value": 64420,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 193,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 116
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 26\u202f490,-",
+    "price": {
+      "value": 26490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120d-190ch-m-sport-3p-diesel-bdca2124-1f8b-49c3-a14a-9809aee88e02",
+    "address": {
+      "streetAddress": "Rue du 8 Mai 1945"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 61161,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 193,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 118
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 29\u202f900,-",
+    "price": {
+      "value": 29900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-170ch-120ah-edition-windmill-atelier-electrique-b9eaf382-4362-4757-9bc5-5d709346724f",
+    "address": {
+      "streetAddress": "15 ROUTE DE NANTES"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2021",
+      "mileage": {
+        "value": 31479,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 173,
+        "engineDisplacement": null,
+        "emissionsCO2": 0
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 40\u202f000,-",
+    "price": {
+      "value": 40000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-178ch-edition-m-sport-pro-dkg7-9cv-tourvant-essence-3407d8e8-1655-4742-be19-f86ba3627a57",
+    "address": {
+      "streetAddress": "25 ROUTE D\u00c9PARTEMENTALE 201"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2022",
+      "mileage": {
+        "value": 15235,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 181,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 142
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 7\u202f900,-",
+    "price": {
+      "value": 7900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120d-177-luxe-diesel-noir-189180fa-24c2-4830-8486-c18f45f2e848",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 154600,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 177,
+        "engineDisplacement": 1995,
+        "emissionsCO2": null
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 28\u202f490,-",
+    "price": {
+      "value": 28490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-190ch-m-sport-ultimate-5p-euro6d-t-diesel-3472081a-b542-4546-9b78-559ced97f170",
+    "address": {
+      "streetAddress": "840, C\u00f4te de la Justice"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 35058,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 193,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 120
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 14\u202f850,-",
+    "price": {
+      "value": 14850,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-f20-184ch-executive-diesel-noir-444cf8bf-fc1a-4359-ac8e-a264bf941882",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 115000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 116
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 8\u202f900,-",
+    "price": {
+      "value": 8900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120d-177-ch-sp-design-a-diesel-d1a288f1-fb07-4b72-af1a-d75a9c7e6468",
+    "address": {
+      "streetAddress": "48 avenue d aubiere"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 162699,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 177,
+        "engineDisplacement": 1995,
+        "emissionsCO2": null
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 35\u202f995,-",
+    "price": {
+      "value": 35995,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-f40-120da-xdrive-190ch-m-sport-diesel-bf65519a-89ef-496e-a6e4-efba6c2742ee",
+    "address": {
+      "streetAddress": "4 bis Chemin canal"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2020",
+      "mileage": {
+        "value": 49221,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 193,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 138
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 36\u202f900,-",
+    "price": {
+      "value": 36900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-xdrive-190ch-m-sport-diesel-a50a7530-2e1e-4875-a195-15047de0d22e",
+    "address": {
+      "streetAddress": "1 RUE DE PRESSENSE"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2020",
+      "mileage": {
+        "value": 78688,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 193,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 152
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 15\u202f490,-",
+    "price": {
+      "value": 15490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-d-177-ch-edition-luxe-3-diesel-gris-8a65e171-131d-4658-9013-da4296560f1e",
+    "address": {
+      "streetAddress": "26 Rue Sainte Victoire"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 53000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 177,
+        "engineDisplacement": 1995,
+        "emissionsCO2": null
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 34\u202f990,-",
+    "price": {
+      "value": 34990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-190ch-m-sport-diesel-600e01be-44fc-43e2-9a20-1356fc4ce64f",
+    "address": {
+      "streetAddress": "40 RUE GAY LUSSAC"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2020",
+      "mileage": {
+        "value": 43542,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 193,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 129
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 15\u202f990,-",
+    "price": {
+      "value": 15990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-f20-120-d-120d-184-a-m-sport-to-cam-diesel-4ac16b0b-7d7b-4968-acf3-2a7a15771120",
+    "address": {
+      "streetAddress": "9 Impasse le Mirabeau, Avenue Etienne Rabattu"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 127220,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1995,
+        "emissionsCO2": null
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 20\u202f900,-",
+    "price": {
+      "value": 20900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-d-m-sport-190-diesel-gris-b360027e-ee4b-4175-a087-2bac13e4ba79",
+    "address": {
+      "streetAddress": "Voir commentaire pour information de contact"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 103000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 118
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 18\u202f900,-",
+    "price": {
+      "value": 18900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120i-170ch-luxe-essence-7232d46c-91ed-472a-8393-59c5f625a0c6",
+    "address": {
+      "streetAddress": "8 Rue Amedee Gordini   Zone Artisanale Landreau"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 69000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 173,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 158
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 20\u202f499,-",
+    "price": {
+      "value": 20499,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-xdrive-190ch-m-sport-5p-sieges-chauf-gps-diesel-5ed62295-7ff1-4023-a48a-e1a50d408dff",
+    "address": {
+      "streetAddress": "12 rue Emile Mathis"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 116800,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 193,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 124
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 36\u202f900,-",
+    "price": {
+      "value": 36900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-178ch-edition-sport-dkg7-9cv-essence-9a981eb8-07e2-4f08-b2a0-34fe722b53e9",
+    "address": {
+      "streetAddress": "1 RUE DE PRESSENSE"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2022",
+      "mileage": {
+        "value": 29460,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 181,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 137
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 19\u202f550,-",
+    "price": {
+      "value": 19550,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-d-sport-line-diesel-gris-6ea4328a-b21a-4e97-b935-cf48facb6433",
+    "address": {
+      "streetAddress": "Voir commentaire pour information de contact"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 111720,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 121
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 14\u202f990,-",
+    "price": {
+      "value": 14990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-f21-f20-120da-184ch-business-5p-diesel-7bd6dce1-0540-4519-b04a-ab7b56a4ddf4",
+    "address": {
+      "streetAddress": "141 RN34"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 132268,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 186,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 110
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 39\u202f490,-",
+    "price": {
+      "value": 39490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-xdrive-190ch-m-sport-diesel-1dce98e4-37b3-4947-b5ce-a37fcf968453",
+    "address": {
+      "streetAddress": "RUE RENE PANHARD"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2020",
+      "mileage": {
+        "value": 59800,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 193,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 116
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 22\u202f490,-",
+    "price": {
+      "value": 22490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120d-190ch-bva-advantage-diesel-fd93e706-cd0c-4789-b8ec-e3004f7d527a",
+    "address": {
+      "streetAddress": "37  Grande Rue"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 39135,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 193,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 120
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 26\u202f900,-",
+    "price": {
+      "value": 26900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-f20-lci2-184-ch-bva8-pack-m-sport-shadow-essence-blanc-5d17003f-3a78-4be9-ad33-bbcf50b9dd89",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2019",
+      "mileage": {
+        "value": 75000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 135
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 15\u202f500,-",
+    "price": {
+      "value": 15500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120i-cabrio-edition-sport-essence-bleu-8811ed04-1072-4554-9d54-9f6715052b45",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 98000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 170,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 163
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 24\u202f499,-",
+    "price": {
+      "value": 24499,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-184ch-m-sport-5p-siege-chauf-gps-radar-av-ar-essence-c5063901-6907-4895-95c6-e81c3b2b61e7",
+    "address": {
+      "streetAddress": "8 Rue Des Ardennes"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 80922,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 186,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 135
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 12\u202f800,-",
+    "price": {
+      "value": 12800,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-bmw-120-d-coupe-diesel-bleu-f0aedfd1-101b-4f24-be31-2e7ff98260be",
+    "address": {
+      "streetAddress": "Voir commentaire pour information de contact"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 99850,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 177,
+        "engineDisplacement": 1995,
+        "emissionsCO2": null
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 21\u202f500,-",
+    "price": {
+      "value": 21500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120d-aut-m-sport-diesel-gris-285af511-a761-431b-82b7-33226869529a",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 113000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": null
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 13\u202f990,-",
+    "price": {
+      "value": 13990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-f21-f20-120d-xdrive-184ch-executive-5p-diesel-e867165f-f3a1-4ed4-9e8c-08eaa0b66e6b",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 130000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 186,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 123
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 39\u202f205,-",
+    "price": {
+      "value": 39205,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-d-sport-line-head-up-dab-led-wlan-pano-dach-diesel-argent-ba130438-e675-45d2-9da6-d6845f217a19",
+    "address": {
+      "streetAddress": "Voir commentaire pour information de contact"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2021",
+      "mileage": {
+        "value": 11861,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 123
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 11\u202f500,-",
+    "price": {
+      "value": 11500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-coupe-e82-177-ch-sport-design-diesel-bleu-acc89c26-9264-47d7-a1a1-bd48d8034af9",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 150000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 177,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 128
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 16\u202f900,-",
+    "price": {
+      "value": 16900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-f21-f20-120da-184ch-executive-5p-diesel-485b7df0-6a1b-48db-8fdb-5d867fb4c379",
+    "address": {
+      "streetAddress": "22 AVE PAUL ADAM"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 130150,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 186,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 116
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 17\u202f990,-",
+    "price": {
+      "value": 17990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-f20-lci-03-2015-06-2017-190-ch-lounge-diesel-noir-f1ba611e-8d19-4fb3-bf11-7c622e4104c4",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 117000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 108
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 24\u202f900,-",
+    "price": {
+      "value": 24900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-i-m-sport-paket-auto-navi-1-hand-essence-bleu-21448a29-2826-4c67-9eca-9fc1e6ffefbe",
+    "address": {
+      "streetAddress": "Voir commentaire pour information de contact"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 84900,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 133
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 11\u202f900,-",
+    "price": {
+      "value": 11900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-i-cuir-1-hand-leder-sport-essence-blanc-256524b7-398a-4f52-a92d-dc82a1d3c1fe",
+    "address": {
+      "streetAddress": "Voir commentaire pour information de contact"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 86900,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 150,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 152
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 23\u202f900,-",
+    "price": {
+      "value": 23900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-190ch-m-sport-5p-diesel-a5f4d251-245a-4115-83d7-2c97012ade49",
+    "address": {
+      "streetAddress": "8 Rue Amedee Gordini   Zone Artisanale Landreau"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 129000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 193,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 114
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 18\u202f497,-",
+    "price": {
+      "value": 18497,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-190ch-lounge-5p-euro6d-t-diesel-63ae3885-3745-4611-80c4-be8c4f878dde",
+    "address": {
+      "streetAddress": "54 ROUTE NATIONALE 20"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 103946,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 193,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 120
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 17\u202f490,-",
+    "price": {
+      "value": 17490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120d-190-ch-m-sport-a-diesel-blanc-19c9224a-083d-4e95-a630-d77a1c83dd50",
+    "address": {
+      "streetAddress": "6 rue Camille de Gast"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 173000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": null
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 31\u202f899,-",
+    "price": {
+      "value": 31899,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-d-xdrive-m-sportpaket-diesel-blanc-bc5ea1f8-18b3-4032-8cd3-5769a513931e",
+    "address": {
+      "streetAddress": "Voir commentaire pour information de contact"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2020",
+      "mileage": {
+        "value": 47015,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 126
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 6\u202f990,-",
+    "price": {
+      "value": 6990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-e81-e87-120i-170ch-confort-5p-essence-7d7e51e5-e9bb-4df7-aafe-fc678e3e29fa",
+    "address": {
+      "streetAddress": "Route de Bayonne 84"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 170000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 173,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 153
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 9\u202f500,-",
+    "price": {
+      "value": 9500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120i-170-ch-luxe-essence-bleu-95cd385f-2647-4f37-9f21-933bb35d8d46",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 162000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 170,
+        "engineDisplacement": 1995,
+        "emissionsCO2": null
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 12\u202f900,-",
+    "price": {
+      "value": 12900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-d-sport-diesel-gris-96b54404-381f-9e1a-e053-1250030ad250",
+    "address": {
+      "streetAddress": "Rue Jacques Brel"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2006",
+      "mileage": {
+        "value": 128500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 152
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 24\u202f499,-",
+    "price": {
+      "value": 24499,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-190ch-m-sport-5p-siege-chauf-gps-radar-av-ar-diesel-b90d3771-1f1a-455f-9caf-4c4feb4b4a7d",
+    "address": {
+      "streetAddress": "26 rue de la Sapini\u00e8re"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 56276,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 193,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 114
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 12\u202f990,-",
+    "price": {
+      "value": 12990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-cabriolet-e88-pack-m-170-ch-sport-design-essence-noir-1372c290-a232-4cbc-b3e3-b8b612ec8541",
+    "address": {
+      "streetAddress": "445 rue des Meuniers"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 120990,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 170,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 163
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 26\u202f900,-",
+    "price": {
+      "value": 26900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-190ch-urbanchic-5p-diesel-15e3168e-eb19-4db4-ab44-4244ade600f5",
+    "address": {
+      "streetAddress": "11 RUE DE MELOU"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2019",
+      "mileage": {
+        "value": 34400,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 193,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 109
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 20\u202f999,-",
+    "price": {
+      "value": 20999,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-190ch-avantage-diesel-32873a07-72ce-4c04-82d4-ae0b969f5ad7",
+    "address": {
+      "streetAddress": "122 rue du ladhof"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 100579,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 193,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 103
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 28\u202f490,-",
+    "price": {
+      "value": 28490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-184ch-urbanchic-5p-euro6d-t-essence-b916be97-a809-4ea8-8ab7-f55244b7eebf",
+    "address": {
+      "streetAddress": "44 AVENUE EDOUARD VAILLANT"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2019",
+      "mileage": {
+        "value": 28362,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 186,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 132
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 31\u202f000,-",
+    "price": {
+      "value": 31000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-m-sport-bva8-diesel-bleu-93cef561-0667-4918-b0a4-9657bb9708f6",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2020",
+      "mileage": {
+        "value": 45500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 190,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 114
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 35\u202f700,-",
+    "price": {
+      "value": 35700,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-i01-s-184ch-120ah-ilife-loft-electrique-6c3dc3b1-6d6c-4ef7-9105-e67daee8afb3",
+    "address": {
+      "streetAddress": "295 Boulevard Raspail"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2019",
+      "mileage": {
+        "value": 22177,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 186,
+        "engineDisplacement": null,
+        "emissionsCO2": 0
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 27\u202f490,-",
+    "price": {
+      "value": 27490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-120-170ch-120ah-ilife-atelier-electrique-6ac6cc10-f77c-45c1-9030-a686b4f9033c",
+    "address": {
+      "streetAddress": "2 AVENUE ETTORE BUGATTI"
+    },
+    "car_details": {
+      "name": "BMW 120",
+      "manufacturer": "BMW",
+      "model": "120",
+      "productionDate": "2020",
+      "mileage": {
+        "value": 38000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 173,
+        "engineDisplacement": null,
+        "emissionsCO2": 0
       }
     }
   }

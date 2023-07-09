@@ -4,8 +4,8 @@ import json
 from urllib.parse import urljoin
 
 brand = 'bmw'
-model = '530'
-initial_year = '2000'
+model = '120'
+initial_year = ''
 final_year = '2023'
 initial_km = '10000'
 final_km = '175000'
@@ -22,10 +22,40 @@ current_page = 1
 
 car_details = []
 
-while True:
-    # Construct the URL with the dynamic variables and current page
-    url = f'{base_url}/lst/{brand}/{model}?atype=C&cy=F&desc=0&fregfrom={initial_year}&fregto={final_year}&kmfrom={initial_km}&kmto={final_km}&powerfrom={initial_power}&powerto={final_power}&powertype={power_type}&pricefrom={price_from}&priceto={price_to}&search_id=zlebw2rdlq&sort=standard&source=listpage_pagination&ustate=N%2CU&page={current_page}'
+search_filters = [
+    (brand, f'/{brand}'),
+    (model, f'/{model}'),
+    (initial_year, f'fregfrom={initial_year}&'),
+    (final_year, f'fregto={final_year}&'),
+    (initial_km, f'kmfrom={initial_km}&'),
+    (final_km, f'kmto={final_km}&'),
+    (initial_power, f'powerfrom={initial_power}&powertype={power_type}&'),
+    (final_power, f'powerto={final_power}&'),
+    (price_from, f'pricefrom={price_from}&'),
+    (price_to, f'priceto={price_to}&')
+]
 
+while True:
+    url = base_url + '/lst'
+
+    # Flag to keep track of whether a '?' has been added
+    sort_order_added = False
+    add_sort_order = False
+
+    for filter_value, filter_url in search_filters:
+        if filter_value is brand and not filter_value and not sort_order_added:
+            url += '?atype=C&cy=F&desc=0&'
+            sort_order_added = True
+        if filter_value is model and not sort_order_added:
+            add_sort_order = True
+        url += filter_url if filter_value else ''
+        if add_sort_order:
+            url += '?atype=C&cy=F&desc=0&'
+            add_sort_order = False
+
+    url += f'&search_id=zlebw2rdlq&sort=standard&source=listpage_pagination&ustate=N%2CU&page={current_page}'
+
+    print(url)
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
     car_links = soup.find_all(
