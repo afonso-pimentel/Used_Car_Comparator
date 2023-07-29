@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "name": "Import Cost Calculator",
+  "version": "1.0",
+  "description": "This extension shows the import cost of the car you are trying to import.",
+  "permissions": ["tabs", "activeTab", "storage"],
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["content_script.js"]
+    }
+  ],
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
