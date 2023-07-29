@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Import Cost Calculator",
   "version": "1.0",
   "description": "This extension shows the import cost of the car you are trying to import.",
@@ -10,7 +10,7 @@
       "js": ["content_script.js"]
     }
   ],
-  "browser_action": {
+  "action": {
     "default_popup": "popup.html",
     "default_icon": {
       "16": "icon16.png",
