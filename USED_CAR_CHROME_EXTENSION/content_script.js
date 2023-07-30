@@ -1,33 +1,33 @@
-function extractCarInformation() {
+async function extractCarInformation() {
   // Tax rates and discount tables
   const engineTaxRates = {
     normal: [
-      { maxDisplacement: 1000, rate: 0.99, parcel: 769.8 },
-      { maxDisplacement: 1250, rate: 1.07, parcel: 771.31 },
-      { maxDisplacement: Infinity, rate: 5.08, parcel: 5616.8 },
+      { maxDisplacement: 1000, rate: 1.04, parcel: 808.6 },
+      { maxDisplacement: 1250, rate: 1.12, parcel: 810.18 },
+      { maxDisplacement: Infinity, rate: 5.34, parcel: 5899.89 },
     ],
     cargoRvsOld: [
-      { maxDisplacement: 1250, rate: 4.81, parcel: 3020.78 },
-      { maxDisplacement: Infinity, rate: 11.41, parcel: 11005.76 },
+      { maxDisplacement: 1250, rate: 5.05, parcel: 3173.03 },
+      { maxDisplacement: Infinity, rate: 11.98, parcel: 11560.45 },
     ],
   };
 
   const co2TaxRates = {
     petrol: [
-      { maxEmissions: 99, rate: 4.19, parcel: 387.16 },
-      { maxEmissions: 115, rate: 7.33, parcel: 680.91 },
-      { maxEmissions: 145, rate: 47.65, parcel: 5353.01 },
-      { maxEmissions: 175, rate: 55.52, parcel: 6473.88 },
-      { maxEmissions: 195, rate: 141.42, parcel: 21422.47 },
-      { maxEmissions: Infinity, rate: 186.47, parcel: 30274.29 },
+      { maxEmissions: 99, rate: 4.4, parcel: 406.67 },
+      { maxEmissions: 115, rate: 7.7, parcel: 715.23 },
+      { maxEmissions: 145, rate: 50.06, parcel: 5622.8 },
+      { maxEmissions: 175, rate: 58.32, parcel: 6800.16 },
+      { maxEmissions: 195, rate: 148.54, parcel: 22502.16 },
+      { maxEmissions: Infinity, rate: 195.86, parcel: 31800.11 },
     ],
     diesel: [
-      { maxEmissions: 99, rate: 5.24, parcel: 398.07 },
-      { maxEmissions: 115, rate: 21.26, parcel: 1676.08 },
-      { maxEmissions: 145, rate: 71.83, parcel: 6524.16 },
-      { maxEmissions: 175, rate: 159.33, parcel: 17158.92 },
-      { maxEmissions: 195, rate: 177.19, parcel: 19694.01 },
-      { maxEmissions: Infinity, rate: 243.38, parcel: 30326.67 },
+      { maxEmissions: 79, rate: 5.5, parcel: 418.13 },
+      { maxEmissions: 95, rate: 22.33, parcel: 1760.55 },
+      { maxEmissions: 120, rate: 75.45, parcel: 6852.98 },
+      { maxEmissions: 140, rate: 167.36, parcel: 18023.73 },
+      { maxEmissions: 160, rate: 186.12, parcel: 20686.59 },
+      { maxEmissions: Infinity, rate: 255.64, parcel: 31855.14 },
     ],
   };
 
@@ -111,9 +111,9 @@ function extractCarInformation() {
       // Calculate Engine Displacement Tax based on the tables provided
       let engineDisplacementTax = 0;
       let taxRates = engineTaxRates.normal;
-      if (carFuelElement.textContent.trim().toLowerCase() === "diesel") {
-        taxRates = engineTaxRates.cargoRvsOld;
-      }
+      // if (carFuelElement.textContent.trim().toLowerCase() === "diesel") {
+      //   taxRates = engineTaxRates.cargoRvsOld;
+      // }
       for (const rate of taxRates) {
         if (engineDisplacement <= rate.maxDisplacement) {
           engineDisplacementTax = engineDisplacement * rate.rate - rate.parcel;
@@ -180,6 +180,8 @@ function extractCarInformation() {
     let carAge = currentYear - registrationYearNum;
     if (currentMonth < registrationMonth) {
       carAge--; // Adjust for months (if the current month is earlier than the registration month)
+    } else {
+      carAge++; // Adjust for months (if the current month is later than the registration month)
     }
 
     // Find the corresponding discount percentage from the discountTable

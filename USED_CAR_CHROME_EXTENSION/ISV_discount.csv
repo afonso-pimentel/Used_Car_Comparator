@@ -1,0 +1,5 @@
+type,percentageToPay,discountPercentage,conditions
+hybrids,60,40,Petrol or diesel hybrid or solar or electric; Battery Range 50km; CO2 Emissions <50g/km
+plugInHybrids,25,75,Petrol/Diesel and Electric Hybrid cars; Plug-in Battery Charge; Minimum Battery Range 50km; CO2 Emissions <50g/km
+naturalGas,40,60,Bifuel/dualfuel excluded
+seats7,40,60,Weight >2.500kg; Minimum 7 seats; 4x4 excluded
