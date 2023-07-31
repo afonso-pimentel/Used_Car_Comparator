@@ -18,6 +18,12 @@
       "128": "icon128.png"
     }
   },
+  "web_accessible_resources": [
+    {
+      "resources": ["isvJsonTables/*"],
+      "matches": ["*://*/*"]
+    }
+  ],
   "icons": {
     "16": "icon16.png",
     "48": "icon48.png",

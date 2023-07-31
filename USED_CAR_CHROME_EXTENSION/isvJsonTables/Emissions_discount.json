@@ -1,0 +1,13 @@
+[
+  { "maxAge": 2, "discountPercentage": 10 },
+  { "maxAge": 4, "discountPercentage": 20 },
+  { "maxAge": 6, "discountPercentage": 28 },
+  { "maxAge": 7, "discountPercentage": 35 },
+  { "maxAge": 9, "discountPercentage": 43 },
+  { "maxAge": 10, "discountPercentage": 52 },
+  { "maxAge": 12, "discountPercentage": 60 },
+  { "maxAge": 13, "discountPercentage": 65 },
+  { "maxAge": 14, "discountPercentage": 70 },
+  { "maxAge": 15, "discountPercentage": 75 },
+  { "maxAge": "infinity", "discountPercentage": 80 }
+]

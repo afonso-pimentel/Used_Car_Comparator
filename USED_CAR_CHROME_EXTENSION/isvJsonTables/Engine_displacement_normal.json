@@ -1,0 +1,5 @@
+[
+  { "maxDisplacement": 1000, "rate": 1.04, "parcel": 808.6 },
+  { "maxDisplacement": 1250, "rate": 1.12, "parcel": 810.18 },
+  { "maxDisplacement": "infinity", "rate": 5.34, "parcel": 5899.89 }
+]

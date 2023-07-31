@@ -1,0 +1,26 @@
+[
+  {
+    "type": "hybrids",
+    "percentageToPay": 60,
+    "discountPercentage": 40,
+    "conditions": "Petrol or diesel hybrid or solar or electric; Battery Range 50km; CO2 Emissions <50g/km"
+  },
+  {
+    "type": "plugInHybrids",
+    "percentageToPay": 25,
+    "discountPercentage": 75,
+    "conditions": "Petrol/Diesel and Electric Hybrid cars; Plug-in Battery Charge; Minimum Battery Range 50km; CO2 Emissions <50g/km"
+  },
+  {
+    "type": "naturalGas",
+    "percentageToPay": 40,
+    "discountPercentage": 60,
+    "conditions": "Bifuel/dualfuel excluded"
+  },
+  {
+    "type": "seats7",
+    "percentageToPay": 40,
+    "discountPercentage": 60,
+    "conditions": "Weight >2.500kg; Minimum 7 seats; 4x4 excluded"
+  }
+]

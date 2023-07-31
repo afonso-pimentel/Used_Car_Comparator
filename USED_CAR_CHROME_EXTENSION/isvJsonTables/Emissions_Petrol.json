@@ -1,0 +1,8 @@
+[
+  { "maxEmissions": 99, "rate": 4.4, "parcel": 406.67 },
+  { "maxEmissions": 115, "rate": 7.7, "parcel": 715.23 },
+  { "maxEmissions": 145, "rate": 50.06, "parcel": 5622.8 },
+  { "maxEmissions": 175, "rate": 58.32, "parcel": 6800.16 },
+  { "maxEmissions": 195, "rate": 148.54, "parcel": 22502.16 },
+  { "maxEmissions": "infinity", "rate": 195.86, "parcel": 31800.11 }
+]
