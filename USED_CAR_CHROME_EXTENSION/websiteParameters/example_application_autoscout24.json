@@ -1,0 +1,66 @@
+{
+  "@context": "https:\u002F\u002Fschema.org",
+  "@type": "Product",
+  "brand": { "@type": "Brand", "name": "BMW" },
+  "image": "https:\u002F\u002Fprod.pictures.autoscout24.net\u002Flisting-images\u002F217378fb-7ef0-4956-8f2f-676cae897505_5efe801d-7771-41c7-9195-1a3f47bdcb0a.jpg\u002F1280x960.webp",
+  "name": "BMW de € 38 490,-",
+  "description": "Trouvez votre BMW € 38 490,- – sur AutoScout24, le plus grand marché automobile en ligne d'Europe.",
+  "offers": {
+    "@type": "Offer",
+    "price": 38490,
+    "priceCurrency": "EUR",
+    "itemCondition": "UsedCondition",
+    "url": "https:\u002F\u002Fwww.autoscout24.fr\u002Foffres\u002Fbmw-120-120ia-178ch-m-sport-dkg7-essence-217378fb-7ef0-4956-8f2f-676cae897505",
+    "availability": "InStock",
+    "offeredBy": {
+      "@type": "AutoDealer",
+      "telephone": "+33 (0)4 - 77250047",
+      "@id": "https:\u002F\u002Fwww.autoscout24.fr\u002Fgarages\u002Faltitude-42\u002Fa-propos-de-nous",
+      "name": "Altitude 42",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "42-46 Rue des Docteurs Muller",
+        "addressLocality": "Saint Etienne",
+        "postalCode": "42000",
+        "addressCountry": "FR"
+      }
+    },
+    "itemOffered": {
+      "@type": "Car",
+      "name": "BMW 120",
+      "image": "https:\u002F\u002Fprod.pictures.autoscout24.net\u002Flisting-images\u002F217378fb-7ef0-4956-8f2f-676cae897505_5efe801d-7771-41c7-9195-1a3f47bdcb0a.jpg\u002F1280x960.webp",
+      "manufacturer": "BMW",
+      "model": "120",
+      "bodyType": "Berline",
+      "identifier": "217378fb-7ef0-4956-8f2f-676cae897505",
+      "productionDate": "2022-11-01",
+      "numberOfDoors": 5,
+      "seatingCapacity": 5,
+      "mileageFromOdometer": {
+        "@type": "QuantitativeValue",
+        "value": 13621,
+        "unitText": "KMT"
+      },
+      "hasEnergyConsumptionDetails": {
+        "@type": "EnergyConsumptionDetails",
+        "energyEfficiencyScaleMax": "Euro 6d",
+        "energyEfficiencyScaleMin": "Euro 1"
+      },
+      "vehicleEngine": [
+        {
+          "@type": "EngineSpecification",
+          "enginePower": [
+            { "@type": "QuantitativeValue", "value": 181, "unitCode": "BHP" },
+            { "@type": "QuantitativeValue", "value": 133, "unitCode": "KWT" }
+          ],
+          "engineDisplacement": {
+            "@type": "QuantitativeValue",
+            "value": 1998,
+            "unitCode": "CMQ"
+          }
+        }
+      ],
+      "emissionsCO2": 137
+    }
+  }
+}

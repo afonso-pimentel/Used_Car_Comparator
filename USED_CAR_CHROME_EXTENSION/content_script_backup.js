@@ -21,39 +21,16 @@ let carTotalPrice = 0;
 let carTotalPriceFormatted = "0";
 
 // Function to fetch JSON data from the corresponding files
-async function fetchJsonFile(filePath) {
+async function fetchJsonFile(filename) {
   try {
-    const response = await fetch(chrome.runtime.getURL(filePath));
+    const response = await fetch(
+      chrome.runtime.getURL("isvJsonTables/" + filename)
+    );
     const jsonData = await response.json();
 
     return jsonData;
   } catch (error) {
     console.log(error);
-    return null;
-  }
-}
-
-// Function to load website parameters from the JSON file
-async function loadWebsiteParameters() {
-  try {
-    const websiteParameters = await fetchJsonFile(
-      "websiteParameters/websiteParameters.json"
-    );
-    const currentUrl = window.location.href;
-
-    // Find the parameters for the current website
-    const currentWebsiteParams = websiteParameters.find(params =>
-      currentUrl.includes(params.website)
-    );
-
-    if (currentWebsiteParams) {
-      return currentWebsiteParams;
-    } else {
-      console.log("Website not supported.");
-      return null;
-    }
-  } catch (error) {
-    console.error("Error loading website parameters:", error);
     return null;
   }
 }
@@ -70,13 +47,13 @@ async function loadJsonData() {
       emissionsDiscount,
       carTypeDiscount,
     ] = await Promise.all([
-      fetchJsonFile("isvJsonTables/Engine_displacement_normal.json"),
-      fetchJsonFile("isvJsonTables/Engine_displacement_carg_RV_Old.json"),
-      fetchJsonFile("isvJsonTables/Emissions_Petrol.json"),
-      fetchJsonFile("isvJsonTables/Emissions_Diesel.json"),
-      fetchJsonFile("isvJsonTables/Engine_displacement_discount.json"),
-      fetchJsonFile("isvJsonTables/Emissions_discount.json"),
-      fetchJsonFile("isvJsonTables/ISV_discount.json"),
+      fetchJsonFile("Engine_displacement_normal.json"),
+      fetchJsonFile("Engine_displacement_carg_RV_Old.json"),
+      fetchJsonFile("Emissions_Petrol.json"),
+      fetchJsonFile("Emissions_Diesel.json"),
+      fetchJsonFile("Engine_displacement_discount.json"),
+      fetchJsonFile("Emissions_discount.json"),
+      fetchJsonFile("ISV_discount.json"),
     ]);
 
     engineTaxRates.normal = normal;
@@ -95,25 +72,16 @@ async function loadJsonData() {
 
 // Function to extract car information from the website
 async function extractCarInformation() {
-  // Function to extract car information from the website
-  async function extractDataForCurrentWebsite(websiteParams) {
+  // Function to extract data for mobile.de
+  async function extractMobileDeData() {
     const carPriceElement = document.querySelector(
-      websiteParams.carPriceElement.includes("#")
-        ? websiteParams.carPriceElement
-        : `[data-testid=${websiteParams.carPriceElement}]`
+      '[data-testid="prime-price"]'
     );
-    const carYearElement = document.querySelector(websiteParams.carYearElement);
-    const carEngineElement = document.querySelector(
-      websiteParams.carEngineElement
-    );
-    const carEmissionsElement = document.querySelector(
-      websiteParams.carEmissionsElement
-    );
-    const carFuelElement = document.querySelector(websiteParams.carFuelElement);
-    const carSeatsElement = document.querySelector(
-      websiteParams.carSeatsElement
-    );
-
+    const carYearElement = document.querySelector("#firstRegistration-v");
+    const carEngineElement = document.querySelector("#cubicCapacity-v");
+    const carEmissionsElement = document.querySelector("#envkv\\.emission-v");
+    const carFuelElement = document.querySelector("#fuel-v");
+    const carSeatsElement = document.querySelector("#numSeats-v");
     const missingElements = [];
     let errorMessage = "";
 
@@ -201,12 +169,7 @@ async function extractCarInformation() {
       const isv = engineDisplacementTax + co2EmissionTax;
 
       // Apply additional discounts based on car type (hybrids, plug-in hybrids, etc.)
-      isvWithDiscount = applyCarTypeDiscount(
-        isv,
-        carType,
-        carSeats,
-        websiteParams.carType
-      );
+      isvWithDiscount = applyCarTypeDiscount(isv, carType, carSeats);
 
       carTotalPrice = parseFloat(carPrice.replace(".", "")) + isvWithDiscount;
 
@@ -221,7 +184,7 @@ async function extractCarInformation() {
       console.log("CO2 Emission Tax:", co2EmissionTax);
       console.log("ISV with Discounts:", isvWithDiscount);
       console.log("Car Total Price:", carTotalPriceFormatted);
-      return [carTotalPriceFormatted, websiteParams.totalPriceElement];
+      return carTotalPriceFormatted;
     }
   }
 
@@ -260,11 +223,9 @@ async function extractCarInformation() {
   }
 
   // Function to apply additional discounts based on car type (hybrids, plug-in hybrids, etc.)
-  function applyCarTypeDiscount(isv, carFuel, carSeats, carTypeList) {
-    const carTypeKey = getCarTypeKey(carFuel, carSeats, carTypeList);
-    console.log("Car Type:", carTypeKey);
+  function applyCarTypeDiscount(isv, carFuel, carSeats) {
     const carType = carTypeDiscountTable.find(item => {
-      return item.type === carTypeKey;
+      return item.type === getCarTypeKey(carFuel, carSeats);
     });
 
     if (carType) {
@@ -276,42 +237,45 @@ async function extractCarInformation() {
   }
 
   // Function to get the car type key from the car fuel and number of seats
-  function getCarTypeKey(carFuel, carSeats, carTypeList) {
-    // Iterate through the carTypeList to find a matching car type key based on carFuel and carSeats
-    for (const [carTypeKey, carTypeValue] of Object.entries(carTypeList)) {
-      // Check if the car fuel matches any of the values in carTypeValue
-      if (
-        typeof carTypeValue === "string" &&
-        carFuel.toLowerCase().includes(carTypeValue)
-      ) {
-        if (!carTypeKey.includes("plugInHybrids") && carSeats >= 7) {
-          return "seats7";
-        }
-        return carTypeKey;
-      } else if (Array.isArray(carTypeValue)) {
-        // Check if the car fuel matches any of the values in the array
-        if (
-          carTypeValue.some(typeValue =>
-            carFuel.toLowerCase().includes(typeValue)
-          )
-        ) {
-          return carTypeKey;
-        }
-      }
-    }
+  function getCarTypeKey(carFuel, carSeats) {
+    const carTypeMap = {
+      diesel: "diesel",
+      benzin: "benzin",
+      elektro: "elektro",
+      "ethanol (ffv, e85 etc.)": "other",
+      hybrids: "hybrids",
+      plugInHybrids: "plugInHybrids",
+      naturalGas: "naturalGas",
+      seats7: "seats7",
+      wasserstoff: "other",
+      andere: "other",
+    };
 
-    // If no match is found, return a default value (you can choose whatever makes sense for your case)
-    return "other";
-  }
-
-  const websiteParams = await loadWebsiteParameters();
-  if (!websiteParams) {
-    // Return early if website is not supported
-    return null;
+    const carTypeKey = carFuel.toLowerCase().includes("plug-in-hybrid")
+      ? "plugInHybrids"
+      : carSeats >= 7
+      ? "seats7"
+      : carFuel.toLowerCase().includes("Autogas")
+      ? "naturalGas"
+      : carFuel.toLowerCase().includes("hybrid")
+      ? "hybrids"
+      : carFuel.toLowerCase().trim();
+    return carTypeMap[carTypeKey];
   }
 
   // Function to determine the website and call the appropriate extraction function
-  return await extractDataForCurrentWebsite(websiteParams);
+  function determineWebsiteAndExtractData() {
+    const currentUrl = window.location.href;
+    if (currentUrl.includes("mobile.de")) {
+      return extractMobileDeData();
+      // Add more cases for other websites if needed
+    } else {
+      console.log("Website not supported.");
+      // Implement a fallback option or show a message to the user for unsupported websites.
+    }
+  }
+
+  return determineWebsiteAndExtractData();
 }
 
 // Function to convert the string "infinity" to Infinity
@@ -326,9 +290,11 @@ function convertInfinity(data) {
 }
 
 // Function to display the total price on the website
-function displayTotalPrice(totalPrice, priceDivElement) {
+function displayTotalPrice(totalPrice) {
   // Identify the element where you want to display the total price
-  const carPriceElement = document.querySelector(priceDivElement);
+  const carPriceElement = document.querySelector(
+    "#main-cta-box-price-row > div.main-price-and-rating-row"
+  );
   if (carPriceElement) {
     // Create a new element to display the total price
     const totalPriceElement = document.createElement("span");
@@ -375,7 +341,7 @@ async function main() {
   // Now the variables should have Infinity instead of the string "infinity"
 
   // Call the function to extract car information when the content script is executed.
-  [carTotalPriceFormatted, totalPriceElement] = await extractCarInformation();
+  carTotalPriceFormatted = await extractCarInformation();
   if (
     carTotalPriceFormatted &&
     carTotalPriceFormatted.includes("Missing elements")
@@ -383,7 +349,7 @@ async function main() {
     console.error("Error extracting car information:", carTotalPriceFormatted);
   }
 
-  displayTotalPrice(carTotalPriceFormatted, totalPriceElement);
+  displayTotalPrice(carTotalPriceFormatted);
 }
 
 main();
