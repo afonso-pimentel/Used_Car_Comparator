@@ -1,0 +1,76 @@
+[
+  {
+    "website": "mobile.de",
+    "carPriceElement": {
+      "parent": "prime-price",
+      "identifier": null
+    },
+    "carYearElement": {
+      "parent": "#firstRegistration-v",
+      "identifier": null
+    },
+    "carEngineElement": {
+      "parent": "#cubicCapacity-v",
+      "identifier": null
+    },
+    "carEmissionsElement": {
+      "parent": "#envkv\\.emission-v",
+      "identifier": null
+    },
+    "carFuelElement": {
+      "parent": "#fuel-v",
+      "identifier": null
+    },
+    "carSeatsElement": {
+      "parent": "#numSeats-v",
+      "identifier": null
+    },
+    "totalPriceElement": "#main-cta-box-price-row > div.main-price-and-rating-row",
+    "carType": {
+      "plugInHybrids": "plug-in-hybrid",
+      "hybrids": "hybrid",
+      "electric": "elektro",
+      "diesel": "diesel",
+      "petrol": "benzin",
+      "naturalGas": "Autogas",
+      "other": ["ethanol (ffv, e85 etc.)", "wasserstoff", "andere"]
+    }
+  },
+  {
+    "website": "autoscout24.fr",
+    "carPriceElement": {
+      "parent": "#__next > div > div > main > div.StageArea_container__YuNIp > div.StageArea_informationContainer__VaFP8 > div.Price_mainPriceContainer__syzQE > div:nth-child(1) > div > span",
+      "identifier": null
+    },
+    "carYearElement": {
+      "parent": "[data-cy=listing-history-section]",
+      "identifier": "Ann\u00e9e"
+    },
+    "carFuelElement": {
+      "parent": "[data-cy=environment-details-section]",
+      "identifier": "Carburant"
+    },
+    "carEmissionsElement": {
+      "parent": "[data-cy=environment-details-section]",
+      "identifier": "\u00c9missions de CO2"
+    },
+    "carSeatsElement": {
+      "parent": "[data-cy=basic-details-section]",
+      "identifier": "Si\u00e8ges"
+    },
+    "carEngineElement": {
+      "parent": "[data-cy=technical-details-section]",
+      "identifier": "Cylindr\u00e9e"
+    },
+    "totalPriceElement": "#__next > div > div > main > div.StageArea_container__YuNIp > div.StageArea_informationContainer__VaFP8 > div.Price_environmentBadge__SPije",
+    "carType": {
+      "plugInHybrids": "électrique/",
+      "hybrids": "électrique/",
+      "electric": "electrique",
+      "diesel": "diesel",
+      "petrol": "essence",
+      "naturalGas": "GNL",
+      "other": ["autres"]
+    }
+  }
+]
