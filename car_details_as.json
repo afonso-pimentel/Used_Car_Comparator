@@ -1,2269 +1,3557 @@
 [
   {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 33\u202f499,-",
+    "brand": "Audi",
+    "name": "Audi de \u20ac 11\u202f990,-",
     "price": {
-      "value": 33499,
+      "value": 11990,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-190ch-edition-sport-diesel-968a7f74-2742-477c-8191-0702b6885aed",
-    "address": {
-      "streetAddress": "12 rue Emile Mathis"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2021",
-      "mileage": {
-        "value": 32097,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 130
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 35\u202f900,-",
-    "price": {
-      "value": 35900,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-f40-05-2019-xdrive-190-ch-bva8-m-sport-diesel-gris-9c2aaed1-72ad-4e3a-9fba-bdbc4e07c052",
-    "address": {
-      "streetAddress": "120 IMPASSE DES ORANGERS"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2020",
-      "mileage": {
-        "value": 37500,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 190,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 116
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 16\u202f900,-",
-    "price": {
-      "value": 16900,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-pack-m-edition-diesel-bleu-02be99d4-e126-469d-8248-7644babd6fbe",
-    "address": {
-      "streetAddress": "33 boulevard mar\u00e9chal juin"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2012",
-      "mileage": {
-        "value": 81000,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 177,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 124
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 25\u202f499,-",
-    "price": {
-      "value": 25499,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-190ch-m-sport-5p-gps-diesel-44bcf1c0-1824-433f-bdf4-dab1acb94d17",
-    "address": {
-      "streetAddress": "122 rue du ladhof"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2018",
-      "mileage": {
-        "value": 75000,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 121
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 23\u202f990,-",
-    "price": {
-      "value": 23990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-f20-lci2-184-ch-bva8-m-sport-ultimate-essence-blanc-62a43fba-9a35-4cd7-8922-63c664ca8a96",
-    "address": {
-      "streetAddress": "ZA de Lavaleresse , Rue C\u00e9sar Dewasmes"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2019",
-      "mileage": {
-        "value": 47628,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 184,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 137
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 38\u202f999,-",
-    "price": {
-      "value": 38999,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-178ch-m-sport-dkg7-9cv-essence-d22232ac-1a84-4331-87f0-05079f71a313",
-    "address": {
-      "streetAddress": "156 AVENUE D'ALSACE"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2022",
-      "mileage": {
-        "value": 19634,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 181,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 142
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 26\u202f990,-",
-    "price": {
-      "value": 26990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-m-sport-120ia-184ch-full-led-cuir-sport-chauff-tel-essence-blanc-8630dc80-e808-41e3-8250-c7749b07bd45",
-    "address": {
-      "streetAddress": "4 Rue des R\u00e9mouleurs Parc d'activit\u00e9s La Maladrerie"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2019",
-      "mileage": {
-        "value": 13950,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 184,
-        "engineDisplacement": null,
-        "emissionsCO2": null
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 35\u202f890,-",
-    "price": {
-      "value": 35890,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-178ch-edition-sport-dkg7-9cv-essence-6b43db2b-b1ef-41ea-9782-b090d17dd0ca",
-    "address": {
-      "streetAddress": "2 Bis Rue Tabart"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2021",
-      "mileage": {
-        "value": 13305,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 181,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 139
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 33\u202f876,-",
-    "price": {
-      "value": 33876,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-xdrive-190ch-m-sport-diesel-8a5be77f-1e98-4bde-b22e-7c61cd82c98f",
-    "address": {
-      "streetAddress": "151 BOULEVARD MICHELET"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2020",
-      "mileage": {
-        "value": 11978,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 147
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 38\u202f740,-",
-    "price": {
-      "value": 38740,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-178ch-m-sport-dkg7-9cv-essence-11f5e4bf-8d7d-4651-b3a0-2a388ee21cdc",
-    "address": {
-      "streetAddress": "396 Route de Paris"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2022",
-      "mileage": {
-        "value": 19956,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 181,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 137
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 31\u202f900,-",
-    "price": {
-      "value": 31900,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-xdrive-190ch-luxury-diesel-7a0a589c-39ed-4f2e-9c8a-14cfa08e6276",
-    "address": {
-      "streetAddress": "680 avenue de l'Europe"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2020",
-      "mileage": {
-        "value": 81425,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 116
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 28\u202f900,-",
-    "price": {
-      "value": 28900,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-xdrive-190ch-m-sport-3p-diesel-2dea8e4e-66b5-4dd3-8417-40f123bb0604",
-    "address": {
-      "streetAddress": "155 CHEMIN DE FONT GRAISSAN"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2017",
-      "mileage": {
-        "value": 23500,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 124
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 23\u202f710,-",
-    "price": {
-      "value": 23710,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-d-xdrive-sport-line-led-pdc-shz-navi-leder-diesel-noir-2ff9e9ab-c40f-45a1-8bf7-1b838fc70dd2",
-    "address": {
-      "streetAddress": "Allmendweg 79268 B\u00f6tzingen Allemagne"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2017",
-      "mileage": {
-        "value": 68738,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 190,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 119
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 38\u202f790,-",
-    "price": {
-      "value": 38790,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-178ch-m-sport-dkg7-9cv-essence-3d883104-120e-4fef-8f03-292ac9706e2f",
-    "address": {
-      "streetAddress": "2 RUE EMILE MATHIS"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2022",
-      "mileage": {
-        "value": 14103,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 181,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 137
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 24\u202f500,-",
-    "price": {
-      "value": 24500,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120d-xdrive-bva-diesel-noir-51dbef0b-0f0e-4893-b608-5ae749f1c51b",
-    "address": {
-      "streetAddress": null
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2019",
-      "mileage": {
-        "value": 59561,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 190,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 167
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 16\u202f400,-",
-    "price": {
-      "value": 16400,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-f20-07-2011-03-2015-184-ch-m-sport-a-diesel-noir-89ef9a75-991d-49a1-af96-4a4b20e300a8",
-    "address": {
-      "streetAddress": null
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2014",
-      "mileage": {
-        "value": 155000,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 184,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 116
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 33\u202f790,-",
-    "price": {
-      "value": 33790,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-f40-120da-xdrive-190ch-edition-sport-diesel-4ff74750-112f-4418-9ef3-4e92a3edc3ad",
-    "address": {
-      "streetAddress": null
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2020",
-      "mileage": {
-        "value": 34888,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 138
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 17\u202f990,-",
-    "price": {
-      "value": 17990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-f21-lci-184-ch-sport-a-essence-noir-ce53ea9c-95b0-444b-bd90-ecb012da1322",
-    "address": {
-      "streetAddress": "4 AVENUE EDOUARD VII"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2017",
-      "mileage": {
-        "value": 102000,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 184,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 133
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 36\u202f490,-",
-    "price": {
-      "value": 36490,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-178ch-m-sport-dkg7-9cv-essence-be95d120-8b7b-410d-bb80-b7085bc652ad",
-    "address": {
-      "streetAddress": "20 ROUTE DE CHARMEIL"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2021",
-      "mileage": {
-        "value": 29828,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 181,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 137
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 24\u202f990,-",
-    "price": {
-      "value": 24990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-xdrive-190ch-urbanchic-5p-euro6c-diesel-d6c8c7e4-5891-4433-9f6f-ce00c9775103",
-    "address": {
-      "streetAddress": "ROUTE DE PARIS"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2018",
-      "mileage": {
-        "value": 85626,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 138
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 34\u202f990,-",
-    "price": {
-      "value": 34990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-178ch-edition-sport-dkg7-9cv-essence-6fb55568-afcd-4a7d-9a1a-8ad624aaace0",
-    "address": {
-      "streetAddress": "Parc des Propyl\u00e9es"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2022",
-      "mileage": {
-        "value": 14962,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 181,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 137
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 34\u202f500,-",
-    "price": {
-      "value": 34500,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-178ch-edition-sport-dkg7-9cv-essence-280ec757-e1a9-4c60-adc6-d226070c6a66",
-    "address": {
-      "streetAddress": "Cit\u00e9 de l'Automobile ZAC de la Croix Blandin"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2021",
-      "mileage": {
-        "value": 21882,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 181,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 137
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 32\u202f990,-",
-    "price": {
-      "value": 32990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-f40-120d-190-ch-bva8-m-sport-diesel-blanc-940c8f94-db66-4e3d-9a5b-4f98c3e3c39e",
-    "address": {
-      "streetAddress": "ZI les Mimosas C12B Route de la F\u00e9nerie"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2020",
-      "mileage": {
-        "value": 43000,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 190,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 139
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 32\u202f990,-",
-    "price": {
-      "value": 32990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-f40-120ia-178ch-lounge-dkg7-essence-47449688-6c73-4e83-aba5-3077724731c6",
-    "address": {
-      "streetAddress": "12 RUE GEORGES RICHARD"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2021",
-      "mileage": {
-        "value": 36990,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 181,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 137
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 29\u202f999,-",
-    "price": {
-      "value": 29999,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-f20-184-ch-bva8-m-sport-ultimate-essence-blanc-99234826-3bea-4a72-98be-36cddb8cea1a",
-    "address": {
-      "streetAddress": null
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2019",
-      "mileage": {
-        "value": 51000,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 184,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 137
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 34\u202f990,-",
-    "price": {
-      "value": 34990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-xdrive-190ch-m-sport-diesel-bcd0cf61-1c58-47c9-9c88-b676fca9f3c2",
-    "address": {
-      "streetAddress": "145 RUE NICOLAS VAUQUELIN"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2019",
-      "mileage": {
-        "value": 58080,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 116
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 34\u202f990,-",
-    "price": {
-      "value": 34990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-xdrive-190ch-m-sport-diesel-014ed460-d1cc-4582-81af-4a50ab3aa8fc",
-    "address": {
-      "streetAddress": "RUE JACQUELINE AURIOL ZAC LES RIBES OUEST"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2020",
-      "mileage": {
-        "value": 68385,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 138
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 38\u202f790,-",
-    "price": {
-      "value": 38790,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-178ch-edition-m-design-dkg7-9cv-essence-908477c2-4052-4e3e-b7ce-8675b8aadd47",
-    "address": {
-      "streetAddress": "10 RUE DES FRERES L ET E BERTRAND"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2022",
-      "mileage": {
-        "value": 10220,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 181,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 139
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 37\u202f888,-",
-    "price": {
-      "value": 37888,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-178ch-m-sport-dkg7-9cv-essence-56771733-972a-462a-9237-e9c8a8d10507",
-    "address": {
-      "streetAddress": "53 RUE DE LA JOMINIERE BP 90225"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2021",
-      "mileage": {
-        "value": 15903,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 181,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 143
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 17\u202f990,-",
-    "price": {
-      "value": 17990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-d-pack-m-shadow-line-diesel-blanc-2a8f4e38-deb6-4ad2-ae21-ea8860957142",
-    "address": {
-      "streetAddress": "Sur Rendez-Vous"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2016",
-      "mileage": {
-        "value": 99858,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 190,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 114
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 38\u202f950,-",
-    "price": {
-      "value": 38950,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-xdrive-190ch-m-sport-diesel-abbaa819-b3ec-4626-86eb-eb65dcc3cc8a",
-    "address": {
-      "streetAddress": "PORTE DE SAUTRON AVENUE DES LIONS"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2020",
-      "mileage": {
-        "value": 50045,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 116
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 21\u202f490,-",
-    "price": {
-      "value": 21490,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-120d-190-ch-msport-garantie-6-mois-diesel-bleu-81a0655b-9a2a-485c-b4f3-03cfb9479540",
-    "address": {
-      "streetAddress": null
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2015",
-      "mileage": {
-        "value": 76932,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 190,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 114
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 16\u202f400,-",
-    "price": {
-      "value": 16400,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120d-m-sport-diesel-blanc-62027681-1ba6-493e-b58c-95ff1c7ed1d0",
-    "address": {
-      "streetAddress": null
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2017",
-      "mileage": {
-        "value": 148000,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 190,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 114
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 34\u202f900,-",
-    "price": {
-      "value": 34900,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-190ch-m-sport-diesel-9b760f18-dc59-4e68-9f33-c91fbc42348d",
-    "address": {
-      "streetAddress": "155 CHEMIN DE FONT GRAISSAN"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2021",
-      "mileage": {
-        "value": 69900,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 129
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 15\u202f990,-",
-    "price": {
-      "value": 15990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-xdrive-184-ch-m-sport-5p-toit-ouvrant-diesel-blanc-fe86961c-66b2-4b6a-96d8-7e8295f239b0",
+    "url": "https://www.autoscout24.fr/offres/audi-a6-v6-2-8-fsi-220-business-line-multitronic-a-essence-gris-183e1bc5-66c7-4a02-87ca-dd026477a647",
     "address": {
       "streetAddress": "119, avenue Simone Veil"
     },
     "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2014",
+      "name": "Audi A6",
+      "manufacturer": "Audi",
+      "model": "A6",
+      "productionDate": "2010",
       "mileage": {
-        "value": 152000,
+        "value": 143000,
         "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 184,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 126
+        "enginePower": 220,
+        "engineDisplacement": 2773,
+        "emissionsCO2": 197,
+        "fuelType": "petrol"
       }
     }
   },
   {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 26\u202f990,-",
-    "price": {
-      "value": 26990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-184ch-m-sport-5p-essence-7a474d3a-61f0-4d6a-a625-34fdc21612a2",
-    "address": {
-      "streetAddress": null
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2017",
-      "mileage": {
-        "value": 75552,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 186,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 135
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 32\u202f995,-",
-    "price": {
-      "value": 32995,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-xdrive-190ch-m-sport-diesel-036f0178-085a-4114-8f31-d4d45322a260",
-    "address": {
-      "streetAddress": "53 RUE DE LA JOMINIERE BP 90225"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2020",
-      "mileage": {
-        "value": 64420,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 116
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 26\u202f490,-",
-    "price": {
-      "value": 26490,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120d-190ch-m-sport-3p-diesel-bdca2124-1f8b-49c3-a14a-9809aee88e02",
-    "address": {
-      "streetAddress": "Rue du 8 Mai 1945"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2017",
-      "mileage": {
-        "value": 61161,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 118
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 29\u202f900,-",
-    "price": {
-      "value": 29900,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-170ch-120ah-edition-windmill-atelier-electrique-b9eaf382-4362-4757-9bc5-5d709346724f",
-    "address": {
-      "streetAddress": "15 ROUTE DE NANTES"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2021",
-      "mileage": {
-        "value": 31479,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 173,
-        "engineDisplacement": null,
-        "emissionsCO2": 0
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 40\u202f000,-",
-    "price": {
-      "value": 40000,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-178ch-edition-m-sport-pro-dkg7-9cv-tourvant-essence-3407d8e8-1655-4742-be19-f86ba3627a57",
-    "address": {
-      "streetAddress": "25 ROUTE D\u00c9PARTEMENTALE 201"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2022",
-      "mileage": {
-        "value": 15235,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 181,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 142
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 7\u202f900,-",
-    "price": {
-      "value": 7900,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120d-177-luxe-diesel-noir-189180fa-24c2-4830-8486-c18f45f2e848",
-    "address": {
-      "streetAddress": null
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2009",
-      "mileage": {
-        "value": 154600,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 177,
-        "engineDisplacement": 1995,
-        "emissionsCO2": null
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 28\u202f490,-",
-    "price": {
-      "value": 28490,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-190ch-m-sport-ultimate-5p-euro6d-t-diesel-3472081a-b542-4546-9b78-559ced97f170",
-    "address": {
-      "streetAddress": "840, C\u00f4te de la Justice"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2018",
-      "mileage": {
-        "value": 35058,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 120
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 14\u202f850,-",
-    "price": {
-      "value": 14850,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-f20-184ch-executive-diesel-noir-444cf8bf-fc1a-4359-ac8e-a264bf941882",
-    "address": {
-      "streetAddress": null
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2014",
-      "mileage": {
-        "value": 115000,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 184,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 116
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 8\u202f900,-",
-    "price": {
-      "value": 8900,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120d-177-ch-sp-design-a-diesel-d1a288f1-fb07-4b72-af1a-d75a9c7e6468",
-    "address": {
-      "streetAddress": "48 avenue d aubiere"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2012",
-      "mileage": {
-        "value": 162699,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 177,
-        "engineDisplacement": 1995,
-        "emissionsCO2": null
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 35\u202f995,-",
-    "price": {
-      "value": 35995,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-f40-120da-xdrive-190ch-m-sport-diesel-bf65519a-89ef-496e-a6e4-efba6c2742ee",
-    "address": {
-      "streetAddress": "4 bis Chemin canal"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2020",
-      "mileage": {
-        "value": 49221,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 138
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 36\u202f900,-",
-    "price": {
-      "value": 36900,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-xdrive-190ch-m-sport-diesel-a50a7530-2e1e-4875-a195-15047de0d22e",
-    "address": {
-      "streetAddress": "1 RUE DE PRESSENSE"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2020",
-      "mileage": {
-        "value": 78688,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 152
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 15\u202f490,-",
-    "price": {
-      "value": 15490,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-d-177-ch-edition-luxe-3-diesel-gris-8a65e171-131d-4658-9013-da4296560f1e",
-    "address": {
-      "streetAddress": "26 Rue Sainte Victoire"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2012",
-      "mileage": {
-        "value": 53000,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 177,
-        "engineDisplacement": 1995,
-        "emissionsCO2": null
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 34\u202f990,-",
-    "price": {
-      "value": 34990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-190ch-m-sport-diesel-600e01be-44fc-43e2-9a20-1356fc4ce64f",
-    "address": {
-      "streetAddress": "40 RUE GAY LUSSAC"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2020",
-      "mileage": {
-        "value": 43542,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 129
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 15\u202f990,-",
-    "price": {
-      "value": 15990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-f20-120-d-120d-184-a-m-sport-to-cam-diesel-4ac16b0b-7d7b-4968-acf3-2a7a15771120",
-    "address": {
-      "streetAddress": "9 Impasse le Mirabeau, Avenue Etienne Rabattu"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2011",
-      "mileage": {
-        "value": 127220,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 184,
-        "engineDisplacement": 1995,
-        "emissionsCO2": null
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 20\u202f900,-",
-    "price": {
-      "value": 20900,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-d-m-sport-190-diesel-gris-b360027e-ee4b-4175-a087-2bac13e4ba79",
-    "address": {
-      "streetAddress": "Voir commentaire pour information de contact"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2017",
-      "mileage": {
-        "value": 103000,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 190,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 118
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 18\u202f900,-",
-    "price": {
-      "value": 18900,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120i-170ch-luxe-essence-7232d46c-91ed-472a-8393-59c5f625a0c6",
-    "address": {
-      "streetAddress": "8 Rue Amedee Gordini   Zone Artisanale Landreau"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2012",
-      "mileage": {
-        "value": 69000,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 173,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 158
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 20\u202f499,-",
-    "price": {
-      "value": 20499,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-xdrive-190ch-m-sport-5p-sieges-chauf-gps-diesel-5ed62295-7ff1-4023-a48a-e1a50d408dff",
-    "address": {
-      "streetAddress": "12 rue Emile Mathis"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2015",
-      "mileage": {
-        "value": 116800,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 124
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 36\u202f900,-",
-    "price": {
-      "value": 36900,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-178ch-edition-sport-dkg7-9cv-essence-9a981eb8-07e2-4f08-b2a0-34fe722b53e9",
-    "address": {
-      "streetAddress": "1 RUE DE PRESSENSE"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2022",
-      "mileage": {
-        "value": 29460,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 181,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 137
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 19\u202f550,-",
-    "price": {
-      "value": 19550,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-d-sport-line-diesel-gris-6ea4328a-b21a-4e97-b935-cf48facb6433",
-    "address": {
-      "streetAddress": "Voir commentaire pour information de contact"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2018",
-      "mileage": {
-        "value": 111720,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 190,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 121
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 14\u202f990,-",
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f990,-",
     "price": {
       "value": 14990,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-f21-f20-120da-184ch-business-5p-diesel-7bd6dce1-0540-4519-b04a-ab7b56a4ddf4",
+    "url": "https://www.autoscout24.fr/offres/audi-a3-sportback-quattro-2-0-tdi-150-8v-sportback-ambi-diesel-blanc-103c722c-d20b-43e5-9b26-dbbfcfee8d48",
     "address": {
-      "streetAddress": "141 RN34"
+      "streetAddress": "1 bis av de la riante borie"
     },
     "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
       "productionDate": "2013",
       "mileage": {
-        "value": 132268,
+        "value": 131190,
         "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 186,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 110
+        "enginePower": 150,
+        "engineDisplacement": 1968,
+        "emissionsCO2": 122,
+        "fuelType": "diesel"
       }
     }
   },
   {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 39\u202f490,-",
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f990,-",
     "price": {
-      "value": 39490,
+      "value": 13990,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-xdrive-190ch-m-sport-diesel-1dce98e4-37b3-4947-b5ce-a37fcf968453",
+    "url": "https://www.autoscout24.fr/offres/audi-a3-2-0-tdi-150-quattro-ambiente-diesel-blanc-a39685ca-de71-47c6-92e4-45b4d2b90acd",
     "address": {
-      "streetAddress": "RUE RENE PANHARD"
+      "streetAddress": "268 rue du galet de gargantua"
     },
     "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2020",
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2013",
       "mileage": {
-        "value": 59800,
+        "value": 140300,
         "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 116
+        "enginePower": 150,
+        "engineDisplacement": 1968,
+        "emissionsCO2": 122,
+        "fuelType": "diesel"
       }
     }
   },
   {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 22\u202f490,-",
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f990,-",
     "price": {
-      "value": 22490,
+      "value": 14990,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120d-190ch-bva-advantage-diesel-fd93e706-cd0c-4789-b8ec-e3004f7d527a",
+    "url": "https://www.autoscout24.fr/offres/audi-tt-1-8-tfsi-160ch-essence-75953f47-c02d-47d6-aa29-f65ee0c09b32",
     "address": {
-      "streetAddress": "37  Grande Rue"
+      "streetAddress": "34 RUE CHAPTAL"
     },
     "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2018",
+      "name": "Audi TT",
+      "manufacturer": "Audi",
+      "model": "TT",
+      "productionDate": "2011",
       "mileage": {
-        "value": 39135,
+        "value": 104964,
         "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 120
+        "enginePower": 162,
+        "engineDisplacement": 1798,
+        "emissionsCO2": 152,
+        "fuelType": "petrol"
       }
     }
   },
   {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 26\u202f900,-",
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f490,-",
     "price": {
-      "value": 26900,
+      "value": 12490,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-f20-lci2-184-ch-bva8-pack-m-sport-shadow-essence-blanc-5d17003f-3a78-4be9-ad33-bbcf50b9dd89",
+    "url": "https://www.autoscout24.fr/offres/audi-a3-1-4-tfsi-122ch-business-line-essence-63daa843-b369-4fec-931c-69ec613b599e",
+    "address": {
+      "streetAddress": "69 avenue d'Alsace Lorraine"
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 149500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 124,
+        "engineDisplacement": 1395,
+        "emissionsCO2": 123,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f490,-",
+    "price": {
+      "value": 14490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-1-6-tdi-110ch-fap-business-line-diesel-8b1295ec-8999-44b6-98bf-0544118c3783",
     "address": {
       "streetAddress": null
     },
     "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2019",
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2015",
       "mileage": {
-        "value": 75000,
+        "value": 128953,
         "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 184,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 135
+        "enginePower": null,
+        "engineDisplacement": 1598,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
       }
     }
   },
   {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 15\u202f500,-",
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f490,-",
     "price": {
-      "value": 15500,
+      "value": 14490,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120i-cabrio-edition-sport-essence-bleu-8811ed04-1072-4554-9d54-9f6715052b45",
+    "url": "https://www.autoscout24.fr/offres/audi-a1-sportback-1-0-tfsi-82-business-line-essence-gris-3f5f1710-c649-4c71-a6ae-072106b4c8ad",
     "address": {
-      "streetAddress": null
+      "streetAddress": "4 RUE DES GALLOIS"
     },
     "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2013",
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2016",
       "mileage": {
-        "value": 98000,
+        "value": 67349,
         "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 170,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 163
+        "enginePower": 82,
+        "engineDisplacement": null,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
       }
     }
   },
   {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 24\u202f499,-",
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f990,-",
     "price": {
-      "value": 24499,
+      "value": 14990,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-184ch-m-sport-5p-siege-chauf-gps-radar-av-ar-essence-c5063901-6907-4895-95c6-e81c3b2b61e7",
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-6-tdi-116-ambition-luxe-diesel-noir-12cf3d49-71a6-41ab-b85d-8c295fb252ad",
     "address": {
-      "streetAddress": "8 Rue Des Ardennes"
+      "streetAddress": "18 boulevard Pierre Mend\u00e8s"
     },
     "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2018",
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2017",
       "mileage": {
-        "value": 80922,
+        "value": 92500,
         "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 186,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 135
+        "enginePower": 116,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 97,
+        "fuelType": "diesel"
       }
     }
   },
   {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 12\u202f800,-",
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f990,-",
     "price": {
-      "value": 12800,
+      "value": 12990,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-bmw-120-d-coupe-diesel-bleu-f0aedfd1-101b-4f24-be31-2e7ff98260be",
+    "url": "https://www.autoscout24.fr/offres/audi-a3-a3-2-0-tdi-140-dpf-diesel-gris-efda7dcd-ea19-4732-8a81-3a86fa32478c",
     "address": {
-      "streetAddress": "Voir commentaire pour information de contact"
+      "streetAddress": "34 Rue Abel Gody"
     },
     "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2012",
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2010",
       "mileage": {
         "value": 99850,
         "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 177,
-        "engineDisplacement": 1995,
-        "emissionsCO2": null
+        "enginePower": 140,
+        "engineDisplacement": 1968,
+        "emissionsCO2": 134,
+        "fuelType": "diesel"
       }
     }
   },
   {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 21\u202f500,-",
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f490,-",
     "price": {
-      "value": 21500,
+      "value": 12490,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120d-aut-m-sport-diesel-gris-285af511-a761-431b-82b7-33226869529a",
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-4-tfsi-185-cv-s-tronic-coupe-s-line-essence-blanc-235bbbb7-0702-40a4-a2a1-d6fa3d10a44d",
     "address": {
-      "streetAddress": null
+      "streetAddress": "461 av de garossos"
     },
     "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2016",
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2011",
       "mileage": {
-        "value": 113000,
+        "value": 139000,
         "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 190,
-        "engineDisplacement": 1995,
-        "emissionsCO2": null
+        "enginePower": 185,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
       }
     }
   },
   {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 13\u202f990,-",
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f000,-",
     "price": {
-      "value": 13990,
+      "value": 13000,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-f21-f20-120d-xdrive-184ch-executive-5p-diesel-e867165f-f3a1-4ed4-9e8c-08eaa0b66e6b",
+    "url": "https://www.autoscout24.fr/offres/audi-a3-iii-2-0-tdi-150-ambition-diesel-noir-78265620-81bc-4cc8-979b-a25c2c442e6b",
+    "address": {
+      "streetAddress": "3 Rue de Gramont"
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 103842,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 150,
+        "engineDisplacement": null,
+        "emissionsCO2": 108,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f700,-",
+    "price": {
+      "value": 14700,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-sportback-1-6-tdi-116-business-line-diesel-gris-2a43150f-9165-40a9-90f9-1b36240eee1e",
     "address": {
       "streetAddress": null
     },
     "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 127000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 116,
+        "engineDisplacement": 1598,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f950,-",
+    "price": {
+      "value": 14950,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a4-2-0-tdi-garantie-12m-xenon-gps-clim-cuir-etc-diesel-blanc-8e379639-ba6a-461a-83de-fb27f4343b9d",
+    "address": {
+      "streetAddress": "Sur Rendez-Vous"
+    },
+    "car_details": {
+      "name": "Audi A4",
+      "manufacturer": "Audi",
+      "model": "A4",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 109262,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 150,
+        "engineDisplacement": 1968,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f900,-",
+    "price": {
+      "value": 13900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-q3-2-0-tdi-140-ch-attraction-diesel-gris-a5b9be3d-5987-4d3b-bbc2-7defd4f1012c",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi Q3",
+      "manufacturer": "Audi",
+      "model": "Q3",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 100000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 140,
+        "engineDisplacement": 1968,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f590,-",
+    "price": {
+      "value": 14590,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-2-0-tdi-150-s-line-diesel-blanc-c8612fff-0610-48bd-b79d-0d746dc0f1de",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 145650,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 150,
+        "engineDisplacement": 1968,
+        "emissionsCO2": 106,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f900,-",
+    "price": {
+      "value": 13900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-cabriolet-2-0-tdi-140-dpf-ambition-luxe-s-tronic-a-diesel-blanc-a46f9917-7fe2-4cae-aa60-ca9b73308307",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 145000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 140,
+        "engineDisplacement": 1968,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f990,-",
+    "price": {
+      "value": 14990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-q5-2-0-tdi-170-quattro-luxe-s-tronic-7-vendu-diesel-gris-1aa731e4-bd6d-40b5-9b6c-479401211107",
+    "address": {
+      "streetAddress": "4 AVENUE EDOUARD VII"
+    },
+    "car_details": {
+      "name": "Audi Q5",
+      "manufacturer": "Audi",
+      "model": "Q5",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 125000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 170,
+        "engineDisplacement": 1968,
+        "emissionsCO2": 184,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f990,-",
+    "price": {
+      "value": 12990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-2-0-tdi-150-ambition-luxe-vendu-diesel-noir-d9d542f5-8687-4d4d-9ebc-f9a6eec560ac",
+    "address": {
+      "streetAddress": "4 AVENUE EDOUARD VII"
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
       "productionDate": "2013",
+      "mileage": {
+        "value": 128000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 150,
+        "engineDisplacement": 1968,
+        "emissionsCO2": 106,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f000,-",
+    "price": {
+      "value": 14000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a6-2-0-tdi-dpf-136-business-line-diesel-noir-0c5fdf2d-6450-4c4f-9d6f-0b7013e215d4",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A6",
+      "manufacturer": "Audi",
+      "model": "A6",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 135000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 136,
+        "engineDisplacement": 1968,
+        "emissionsCO2": 129,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f500,-",
+    "price": {
+      "value": 12500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a5-1-8-tfsi-essence-gris-7676fd33-5ce4-4096-a3a3-f6d30b963173",
+    "address": {
+      "streetAddress": "Uniquement sur rendez-vous"
+    },
+    "car_details": {
+      "name": "Audi A5",
+      "manufacturer": "Audi",
+      "model": "A5",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 141572,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 170,
+        "engineDisplacement": 1798,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f990,-",
+    "price": {
+      "value": 12990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-cabriolet-1-6-tdi-105-dpf-attraction-cabriolet-diesel-blanc-84bd60df-df08-49e3-bcfb-e5a5041ac6cc",
+    "address": {
+      "streetAddress": "24 Rue du Dronckaert"
+    },
+    "car_details": {
+      "name": "Audi Cabriolet",
+      "manufacturer": "Audi",
+      "model": "Cabriolet",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 118000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 105,
+        "engineDisplacement": 1598,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f990,-",
+    "price": {
+      "value": 12990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-4-tfsi-122-ambition-luxe-essence-fc3d60c6-d225-433d-9258-a626c66dcbbf",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 123000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 122,
+        "engineDisplacement": 1390,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f900,-",
+    "price": {
+      "value": 13900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-1-6-tdi-105-ch-ambition-toit-ouvrant-diesel-gris-1fc00310-cf73-44c6-986b-1f2ce7109051",
+    "address": {
+      "streetAddress": "65 place du 11 Novembre 1918"
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2014",
       "mileage": {
         "value": 130000,
         "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 186,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 123
+        "enginePower": 105,
+        "engineDisplacement": null,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
       }
     }
   },
   {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 39\u202f205,-",
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f990,-",
     "price": {
-      "value": 39205,
+      "value": 12990,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-d-sport-line-head-up-dab-led-wlan-pano-dach-diesel-argent-ba130438-e675-45d2-9da6-d6845f217a19",
+    "url": "https://www.autoscout24.fr/offres/audi-a5-1-8-tfsi-160-ambiente-essence-blanc-23f8fc4e-a912-4d44-abf0-155261fbc2f1",
     "address": {
-      "streetAddress": "Voir commentaire pour information de contact"
+      "streetAddress": "1658 route national 7"
     },
     "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2021",
+      "name": "Audi A5",
+      "manufacturer": "Audi",
+      "model": "A5",
+      "productionDate": "2011",
       "mileage": {
-        "value": 11861,
+        "value": 115000,
         "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 190,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 123
+        "enginePower": 160,
+        "engineDisplacement": 1798,
+        "emissionsCO2": 164,
+        "fuelType": "petrol"
       }
     }
   },
   {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 11\u202f500,-",
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f200,-",
     "price": {
-      "value": 11500,
+      "value": 14200,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-coupe-e82-177-ch-sport-design-diesel-bleu-acc89c26-9264-47d7-a1a1-bd48d8034af9",
+    "url": "https://www.autoscout24.fr/offres/audi-tt-coupe-1-8-tfsi-160-essence-noir-a3cbcbf3-b2bc-452c-bcfe-0ce3d327053c",
     "address": {
       "streetAddress": null
     },
     "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2008",
+      "name": "Audi TT",
+      "manufacturer": "Audi",
+      "model": "TT",
+      "productionDate": "2010",
       "mileage": {
-        "value": 150000,
+        "value": 124000,
         "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 177,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 128
+        "enginePower": 160,
+        "engineDisplacement": 1798,
+        "emissionsCO2": 155,
+        "fuelType": "petrol"
       }
     }
   },
   {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 16\u202f900,-",
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f990,-",
     "price": {
-      "value": 16900,
+      "value": 14990,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-f21-f20-120da-184ch-executive-5p-diesel-485b7df0-6a1b-48db-8fdb-5d867fb4c379",
+    "url": "https://www.autoscout24.fr/offres/audi-a3-1-6-tdi-ambition-s-tronic-48917-km-diesel-gris-b445beaf-c70d-4bc8-b1a6-23fd8ae89dea",
     "address": {
-      "streetAddress": "22 AVE PAUL ADAM"
+      "streetAddress": "Sur Rendez-Vous"
     },
     "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 48917,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 110,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 102,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f990,-",
+    "price": {
+      "value": 14990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-1-6-tdi-116cv-s-tronic-7-1ere-main-diesel-brun-6555ac52-58c2-47f2-95ac-2fb69c1316d4",
+    "address": {
+      "streetAddress": "1a, rue de Metz"
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 125000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 116,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 103,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 9\u202f700,-",
+    "price": {
+      "value": 9700,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-1-6-tdi-ultra-attraction-diesel-noir-f938c87e-d8dc-42fd-bf6c-3505017dbfb2",
+    "address": {
+      "streetAddress": "Uniquement sur rendez-vous"
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
       "productionDate": "2014",
       "mileage": {
-        "value": 130150,
+        "value": 100905,
         "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 186,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 116
+        "enginePower": 110,
+        "engineDisplacement": 1598,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
       }
     }
   },
   {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 17\u202f990,-",
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f490,-",
     "price": {
-      "value": 17990,
+      "value": 12490,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-f20-lci-03-2015-06-2017-190-ch-lounge-diesel-noir-f1ba611e-8d19-4fb3-bf11-7c622e4104c4",
+    "url": "https://www.autoscout24.fr/offres/audi-a4-avant-2-0-tdi-143ch-ambition-luxe-multitronic-parf-diesel-gris-30382322-64b8-4247-92ca-3b53b25836c8",
+    "address": {
+      "streetAddress": "16 Rue Jean Nicolas"
+    },
+    "car_details": {
+      "name": "Audi A4",
+      "manufacturer": "Audi",
+      "model": "A4",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 108500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 143,
+        "engineDisplacement": 1968,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f000,-",
+    "price": {
+      "value": 12000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-1-6-tdi-ambition-s-line-tronic-diesel-argent-2e7994c9-15aa-464a-bb31-cdb6ccc7bd90",
     "address": {
       "streetAddress": null
     },
     "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
       "productionDate": "2015",
+      "mileage": {
+        "value": 147400,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 110,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 102,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f490,-",
+    "price": {
+      "value": 12490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a4-2-0-tdi-143cv-ambition-luxe-1main-diesel-691bcfe8-d026-4ace-a294-be09bb73a8ae",
+    "address": {
+      "streetAddress": "808 Chemin de la Cassine"
+    },
+    "car_details": {
+      "name": "Audi A4",
+      "manufacturer": "Audi",
+      "model": "A4",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 138900,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 143,
+        "engineDisplacement": 1968,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f100,-",
+    "price": {
+      "value": 12100,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-tt-coupe-1-8-tfsi-160-essence-gris-2047cc07-c40c-4beb-8796-813141095c74",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi TT",
+      "manufacturer": "Audi",
+      "model": "TT",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 148000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 160,
+        "engineDisplacement": 1798,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 11\u202f990,-",
+    "price": {
+      "value": 11990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-6-tdi-105-s-line-sline-diesel-beige-8a06fb14-0b36-4034-afe0-df9c135bf6da",
+    "address": {
+      "streetAddress": "24 Rue du Dronckaert"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 149000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 105,
+        "engineDisplacement": 1598,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f995,-",
+    "price": {
+      "value": 14995,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a4-2-0tdi-multitronic-leder-navi-airco-trekha-diesel-gris-18b6311d-d15c-4200-af9f-901129674c46",
+    "address": {
+      "streetAddress": "Sur rendez-vous"
+    },
+    "car_details": {
+      "name": "Audi A4",
+      "manufacturer": "Audi",
+      "model": "A4",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 98241,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 136,
+        "engineDisplacement": 1968,
+        "emissionsCO2": 127,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f990,-",
+    "price": {
+      "value": 13990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-6-tdi-105-ambition-luxe-vendu-diesel-noir-ddbe7d31-121b-bd5a-e053-e350040a9997",
+    "address": {
+      "streetAddress": "4 AVENUE EDOUARD VII"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 99900,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 105,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 103,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f950,-",
+    "price": {
+      "value": 13950,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-1-4-tfsi-attraction-xenon-autom-airco-pdc-essence-gris-747d7ea3-76dc-4e21-bdab-ae38f9f60ad7",
+    "address": {
+      "streetAddress": "Sur rendez-vous"
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 91000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 125,
+        "engineDisplacement": 1395,
+        "emissionsCO2": 117,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f500,-",
+    "price": {
+      "value": 13500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-1-6-tdi-ambition-start-stop-dpf-diesel-blanc-be4fbdf0-7c3f-4213-b090-7bbfd1fbea59",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2013",
       "mileage": {
         "value": 117000,
         "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 190,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 108
+        "enginePower": 105,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 114,
+        "fuelType": "diesel"
       }
     }
   },
   {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 24\u202f900,-",
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f890,-",
     "price": {
-      "value": 24900,
+      "value": 13890,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-i-m-sport-paket-auto-navi-1-hand-essence-bleu-21448a29-2826-4c67-9eca-9fc1e6ffefbe",
+    "url": "https://www.autoscout24.fr/offres/audi-tt-1-8-tfsi-160ch-s-line-essence-27335ee0-8c7a-4154-b113-7e966696ec8b",
     "address": {
-      "streetAddress": "Voir commentaire pour information de contact"
+      "streetAddress": "141 RN34"
     },
     "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2017",
+      "name": "Audi TT",
+      "manufacturer": "Audi",
+      "model": "TT",
+      "productionDate": "2010",
       "mileage": {
-        "value": 84900,
+        "value": 139041,
         "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 184,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 133
+        "enginePower": 162,
+        "engineDisplacement": 1798,
+        "emissionsCO2": 149,
+        "fuelType": "petrol"
       }
     }
   },
   {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 11\u202f900,-",
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f999,-",
     "price": {
-      "value": 11900,
+      "value": 14999,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-i-cuir-1-hand-leder-sport-essence-blanc-256524b7-398a-4f52-a92d-dc82a1d3c1fe",
+    "url": "https://www.autoscout24.fr/offres/audi-a5-cabriolet-1-8-tfsi-160-ambiente-essence-beige-4ad33b18-c9bf-4018-adab-df722ac5db5e",
     "address": {
-      "streetAddress": "Voir commentaire pour information de contact"
+      "streetAddress": "1 PLACE DU MARCH\u00c9"
     },
     "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2009",
+      "name": "Audi A5",
+      "manufacturer": "Audi",
+      "model": "A5",
+      "productionDate": "2010",
       "mileage": {
-        "value": 86900,
+        "value": 129675,
         "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 150,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 152
+        "enginePower": 160,
+        "engineDisplacement": 1798,
+        "emissionsCO2": 172,
+        "fuelType": "petrol"
       }
     }
   },
   {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 23\u202f900,-",
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f500,-",
     "price": {
-      "value": 23900,
+      "value": 12500,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-190ch-m-sport-5p-diesel-a5f4d251-245a-4115-83d7-2c97012ade49",
-    "address": {
-      "streetAddress": "8 Rue Amedee Gordini   Zone Artisanale Landreau"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2016",
-      "mileage": {
-        "value": 129000,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 114
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 18\u202f497,-",
-    "price": {
-      "value": 18497,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-190ch-lounge-5p-euro6d-t-diesel-63ae3885-3745-4611-80c4-be8c4f878dde",
-    "address": {
-      "streetAddress": "54 ROUTE NATIONALE 20"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2018",
-      "mileage": {
-        "value": 103946,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 120
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 17\u202f490,-",
-    "price": {
-      "value": 17490,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120d-190-ch-m-sport-a-diesel-blanc-19c9224a-083d-4e95-a630-d77a1c83dd50",
-    "address": {
-      "streetAddress": "6 rue Camille de Gast"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2016",
-      "mileage": {
-        "value": 173000,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 190,
-        "engineDisplacement": 1995,
-        "emissionsCO2": null
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 31\u202f899,-",
-    "price": {
-      "value": 31899,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-d-xdrive-m-sportpaket-diesel-blanc-bc5ea1f8-18b3-4032-8cd3-5769a513931e",
-    "address": {
-      "streetAddress": "Voir commentaire pour information de contact"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2020",
-      "mileage": {
-        "value": 47015,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 190,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 126
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 6\u202f990,-",
-    "price": {
-      "value": 6990,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-e81-e87-120i-170ch-confort-5p-essence-7d7e51e5-e9bb-4df7-aafe-fc678e3e29fa",
-    "address": {
-      "streetAddress": "Route de Bayonne 84"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2009",
-      "mileage": {
-        "value": 170000,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 173,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 153
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 9\u202f500,-",
-    "price": {
-      "value": 9500,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120i-170-ch-luxe-essence-bleu-95cd385f-2647-4f37-9f21-933bb35d8d46",
+    "url": "https://www.autoscout24.fr/offres/audi-a3-cabriolet-2-0-tdi-140-dpf-ambiente-s-tronic-a-diesel-noir-8661a959-3d02-4fdd-a7fd-3ba96bbef60a",
     "address": {
       "streetAddress": null
     },
     "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2008",
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2011",
       "mileage": {
-        "value": 162000,
+        "value": 120000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 140,
+        "engineDisplacement": 1968,
+        "emissionsCO2": 134,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f700,-",
+    "price": {
+      "value": 14700,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-tt-coupe-2-0-tfsi-211-essence-gris-a3ea95c5-05ee-4158-b454-c55104ee4ee7",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi TT",
+      "manufacturer": "Audi",
+      "model": "TT",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 150000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 154,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 11\u202f490,-",
+    "price": {
+      "value": 11490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-6-tdi-116ch-ambition-diesel-ae97ac1f-77bc-48e8-a3da-8cf5dcf6d91f",
+    "address": {
+      "streetAddress": "395 Chemin du Verignas - RN7"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 132000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 118,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 92,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 10\u202f500,-",
+    "price": {
+      "value": 10500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-4-tfsi-122-ambition-essence-noir-be3aac7d-ac9b-49a8-bb36-5bde87656f4a",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 150000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 122,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 124,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 11\u202f999,-",
+    "price": {
+      "value": 11999,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-0-tfsi-ultra-95-essence-bleu-69650bba-30d1-427e-9411-42233a040b3e",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 68300,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 95,
+        "engineDisplacement": 999,
+        "emissionsCO2": 97,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f990,-",
+    "price": {
+      "value": 14990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-1-8-tfsi-180-s-line-essence-0e6448f5-f168-42ed-8330-ea01dbf11e84",
+    "address": {
+      "streetAddress": "19 Avenue d'Aubi\u00e8re"
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 147161,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 179,
+        "engineDisplacement": 1798,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 10\u202f450,-",
+    "price": {
+      "value": 10450,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-1-6tdi-cabriolet-leder-auto-airco-91-000km-diesel-noir-60e9f35b-d3bf-48e7-bfac-9b76f414edf7",
+    "address": {
+      "streetAddress": "Uniquement sur rendez-vous"
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 91000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 105,
+        "engineDisplacement": 1598,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 10\u202f990,-",
+    "price": {
+      "value": 10990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-4-tfsi-122ch-ambition-luxe-parfait-etat-essence-noir-654de059-1937-4490-a2c3-276c14f48a25",
+    "address": {
+      "streetAddress": "16 Rue Jean Nicolas"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 96300,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 122,
+        "engineDisplacement": 1390,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 10\u202f990,-",
+    "price": {
+      "value": 10990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-sportback-2-0-tdi-170-dpf-quattro-s-line-plus-diesel-noir-5a43ffb7-11b9-4c8c-a171-aca500b07d95",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 141000,
         "unitCode": "KMT"
       },
       "engineDetails": {
         "enginePower": 170,
-        "engineDisplacement": 1995,
-        "emissionsCO2": null
+        "engineDisplacement": 1968,
+        "emissionsCO2": 135,
+        "fuelType": "diesel"
       }
     }
   },
   {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 12\u202f900,-",
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f900,-",
     "price": {
-      "value": 12900,
+      "value": 14900,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-d-sport-diesel-gris-96b54404-381f-9e1a-e053-1250030ad250",
+    "url": "https://www.autoscout24.fr/offres/audi-a1-sportback-1-2-tfsi-86ch-ambition-essence-gris-067d062a-4693-4f4e-b3be-2213f00deddc",
     "address": {
-      "streetAddress": "Rue Jacques Brel"
+      "streetAddress": "ZA des Belles Vues"
     },
     "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2006",
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2014",
       "mileage": {
-        "value": 128500,
+        "value": 50381,
         "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 163,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 152
+        "enginePower": 87,
+        "engineDisplacement": 1197,
+        "emissionsCO2": 118,
+        "fuelType": "petrol"
       }
     }
   },
   {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 24\u202f499,-",
-    "price": {
-      "value": 24499,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-190ch-m-sport-5p-siege-chauf-gps-radar-av-ar-diesel-b90d3771-1f1a-455f-9caf-4c4feb4b4a7d",
-    "address": {
-      "streetAddress": "26 rue de la Sapini\u00e8re"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2017",
-      "mileage": {
-        "value": 56276,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 114
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 12\u202f990,-",
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f990,-",
     "price": {
       "value": 12990,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-serie-1-cabriolet-e88-pack-m-170-ch-sport-design-essence-noir-1372c290-a232-4cbc-b3e3-b8b612ec8541",
+    "url": "https://www.autoscout24.fr/offres/audi-a3-sb-2-0-tdi-140-ambition-luxe-107-000-kms-diesel-2da506ee-8b02-4f62-a331-dcafcb0a5597",
     "address": {
-      "streetAddress": "445 rue des Meuniers"
+      "streetAddress": "808 Chemin de la Cassine"
     },
     "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2008",
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2012",
       "mileage": {
-        "value": 120990,
+        "value": 107000,
         "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 170,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 163
+        "enginePower": 140,
+        "engineDisplacement": 1968,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
       }
     }
   },
   {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 26\u202f900,-",
+    "brand": "Audi",
+    "name": "Audi de \u20ac 9\u202f990,-",
     "price": {
-      "value": 26900,
+      "value": 9990,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-190ch-urbanchic-5p-diesel-15e3168e-eb19-4db4-ab44-4244ade600f5",
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-6-tdi-105-ambition-diesel-19cf5f34-03e2-4f00-ac7b-424ee41e094e",
     "address": {
-      "streetAddress": "11 RUE DE MELOU"
+      "streetAddress": "3 Rue de Gramont"
     },
     "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2019",
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2011",
       "mileage": {
-        "value": 34400,
+        "value": 109347,
         "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 109
+        "enginePower": 105,
+        "engineDisplacement": null,
+        "emissionsCO2": 103,
+        "fuelType": "diesel"
       }
     }
   },
   {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 20\u202f999,-",
+    "brand": "Audi",
+    "name": "Audi de \u20ac 11\u202f350,-",
     "price": {
-      "value": 20999,
+      "value": 11350,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120da-190ch-avantage-diesel-32873a07-72ce-4c04-82d4-ae0b969f5ad7",
-    "address": {
-      "streetAddress": "122 rue du ladhof"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2017",
-      "mileage": {
-        "value": 100579,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 193,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 103
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 28\u202f490,-",
-    "price": {
-      "value": 28490,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-120ia-184ch-urbanchic-5p-euro6d-t-essence-b916be97-a809-4ea8-8ab7-f55244b7eebf",
-    "address": {
-      "streetAddress": "44 AVENUE EDOUARD VAILLANT"
-    },
-    "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2019",
-      "mileage": {
-        "value": 28362,
-        "unitCode": "KMT"
-      },
-      "engineDetails": {
-        "enginePower": 186,
-        "engineDisplacement": 1998,
-        "emissionsCO2": 132
-      }
-    }
-  },
-  {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 31\u202f000,-",
-    "price": {
-      "value": 31000,
-      "currency": "EUR"
-    },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-m-sport-bva8-diesel-bleu-93cef561-0667-4918-b0a4-9657bb9708f6",
+    "url": "https://www.autoscout24.fr/offres/audi-a3-cabriolet-2-0-tdi-140-dpf-ambition-luxe-diesel-mauve-c235af61-9210-4510-b3c0-8f5c0700fbe3",
     "address": {
       "streetAddress": null
     },
     "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2020",
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2010",
       "mileage": {
-        "value": 45500,
+        "value": 139000,
         "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 190,
-        "engineDisplacement": 1995,
-        "emissionsCO2": 114
+        "enginePower": 140,
+        "engineDisplacement": 1968,
+        "emissionsCO2": 119,
+        "fuelType": "diesel"
       }
     }
   },
   {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 35\u202f700,-",
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f900,-",
     "price": {
-      "value": 35700,
+      "value": 14900,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-i01-s-184ch-120ah-ilife-loft-electrique-6c3dc3b1-6d6c-4ef7-9105-e67daee8afb3",
+    "url": "https://www.autoscout24.fr/offres/audi-a3-sportback-1-4-tfsi-125-ambition-s-tronic-7-essence-brun-5b619cfe-8c52-4299-b998-d82b369588ca",
     "address": {
-      "streetAddress": "295 Boulevard Raspail"
+      "streetAddress": null
     },
     "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2019",
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2014",
       "mileage": {
-        "value": 22177,
+        "value": 127900,
         "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 186,
-        "engineDisplacement": null,
-        "emissionsCO2": 0
+        "enginePower": 125,
+        "engineDisplacement": 1395,
+        "emissionsCO2": 114,
+        "fuelType": "petrol"
       }
     }
   },
   {
-    "brand": "BMW",
-    "name": "BMW de \u20ac 27\u202f490,-",
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f690,-",
     "price": {
-      "value": 27490,
+      "value": 12690,
       "currency": "EUR"
     },
-    "url": "https://www.autoscout24.fr/offres/bmw-120-170ch-120ah-ilife-atelier-electrique-6ac6cc10-f77c-45c1-9030-a686b4f9033c",
+    "url": "https://www.autoscout24.fr/offres/audi-a3-1-2-tfsi-105ch-start-stop-ambiente-s-tronic-7-essence-8d7e142a-8f8c-4ce8-91a3-85169498a490",
     "address": {
-      "streetAddress": "2 AVENUE ETTORE BUGATTI"
+      "streetAddress": "5 Rue H\u00e9ll\u00e9 Nice"
     },
     "car_details": {
-      "name": "BMW 120",
-      "manufacturer": "BMW",
-      "model": "120",
-      "productionDate": "2020",
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2011",
       "mileage": {
-        "value": 38000,
+        "value": 139246,
         "unitCode": "KMT"
       },
       "engineDetails": {
-        "enginePower": 173,
+        "enginePower": 106,
+        "engineDisplacement": 1197,
+        "emissionsCO2": 123,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f250,-",
+    "price": {
+      "value": 14250,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-1-6-tdi-navig-clim-bizone-regulateur-diesel-argent-2f978805-bedf-4144-a692-0dbeebdf7d3c",
+    "address": {
+      "streetAddress": "Uniquemet sur rendez-vous"
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 119000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 105,
+        "engineDisplacement": 1598,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f990,-",
+    "price": {
+      "value": 12990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a4-2-0-tdi-gps-cuir-xenon-airco-1er-prop-carnet-diesel-bleu-b258afec-0795-45e4-b34c-2f5301ffa0b0",
+    "address": {
+      "streetAddress": "Uniquement sur rendez-vous"
+    },
+    "car_details": {
+      "name": "Audi A4",
+      "manufacturer": "Audi",
+      "model": "A4",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 145000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 136,
+        "engineDisplacement": 1968,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f990,-",
+    "price": {
+      "value": 12990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-sportback-tdi-143-s-line-vendu-diesel-noir-afe097a7-b8ce-4cc7-a08e-dc8e59cfcbbd",
+    "address": {
+      "streetAddress": "4 AVENUE EDOUARD VII"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 120500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 143,
+        "engineDisplacement": 1968,
+        "emissionsCO2": 108,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f990,-",
+    "price": {
+      "value": 14990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-1-6-tdi-110-diesel-07b290db-29ca-436d-8e75-9163c15dd445",
+    "address": {
+      "streetAddress": "BLANZAC"
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 118805,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 110,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 99,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f490,-",
+    "price": {
+      "value": 13490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-1-6-tdi-ambition-s-line-garantie-12-mois-diesel-gris-7c155f79-27b0-4686-85d4-6c71e20a389f",
+    "address": {
+      "streetAddress": "Uniquement sur rendez-vous en Belgique"
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 150000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 110,
+        "engineDisplacement": 1598,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f500,-",
+    "price": {
+      "value": 13500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a4-avant-2-0-tfsi-180-ambition-luxe-multitronic-a-essence-argent-3b77ff4e-ab88-41e3-aaf3-f086dd459f71",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A4",
+      "manufacturer": "Audi",
+      "model": "A4",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 143500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 179,
+        "engineDisplacement": 1984,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 11\u202f890,-",
+    "price": {
+      "value": 11890,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-1-6-tdi-105ch-dpf-start-stop-ambiente-s-tronic-7-diesel-cb5c6a1b-f007-4fa9-8913-66166388da4d",
+    "address": {
+      "streetAddress": "5 Rue H\u00e9ll\u00e9 Nice"
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 137389,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 106,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 112,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f500,-",
+    "price": {
+      "value": 14500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-iv-1-2-tfsi-86-ambiente-essence-blanc-183310bd-c23f-47bc-8bc2-dafc7a780c25",
+    "address": {
+      "streetAddress": "3 Rue de Gramont"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 114484,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 86,
         "engineDisplacement": null,
-        "emissionsCO2": 0
+        "emissionsCO2": 118,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 8\u202f390,-",
+    "price": {
+      "value": 8390,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-2-0-tdi-140-dpf-s-line-diesel-noir-0016bc2a-3f28-4ad0-ac76-407906eddf77",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 149000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 140,
+        "engineDisplacement": 1968,
+        "emissionsCO2": 115,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 15\u202f000,-",
+    "price": {
+      "value": 15000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-sportback-1-4-tdi-90-ultra-s-line-diesel-gris-dfab6e67-1007-43b2-b0f1-bbc795573cf3",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 109000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 90,
+        "engineDisplacement": 1422,
+        "emissionsCO2": 98,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f950,-",
+    "price": {
+      "value": 13950,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-1-6-tdi-115-diesel-gris-8eb99ad0-5461-4f4d-a196-0e4a9b05e6b8",
+    "address": {
+      "streetAddress": "93 avenue Roger Salengro"
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 139800,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 110,
+        "engineDisplacement": null,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f490,-",
+    "price": {
+      "value": 12490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-1-4-tfsi-122-cv-8v-coupe-ambition-garantie-12-mois-essence-gris-de61337c-a089-4a09-a935-b751101d4016",
+    "address": {
+      "streetAddress": "461 av de garossos"
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 143500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 122,
+        "engineDisplacement": 1395,
+        "emissionsCO2": 120,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 9\u202f990,-",
+    "price": {
+      "value": 9990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-6-tdi-attraction-competition-line-garantie-diesel-blanc-dea1dfba-6a6c-499d-b6d6-06ad9eaf5b65",
+    "address": {
+      "streetAddress": "Sur Rendez-Vous"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 130000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 90,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 99,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f880,-",
+    "price": {
+      "value": 14880,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-sportback-1-4-tfsi-xenon-einparkhilfe-essence-blanc-27ee8456-8409-4a12-8556-5636081f6778",
+    "address": {
+      "streetAddress": "1 RUE DES CHENES"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 68631,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 122,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 128,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f950,-",
+    "price": {
+      "value": 12950,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a4-berline-2-0-tdi-comfort-edition-gps-clim-diesel-gris-59c02ffb-e818-4b16-99c1-6cecd7bc93c1",
+    "address": {
+      "streetAddress": "Uniquement sur rendez-vous en Belgique"
+    },
+    "car_details": {
+      "name": "Audi A4",
+      "manufacturer": "Audi",
+      "model": "A4",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 147560,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 136,
+        "engineDisplacement": 1968,
+        "emissionsCO2": 117,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f900,-",
+    "price": {
+      "value": 12900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-a1-1-0-tfsi-ultra-essence-rouge-3ce3877f-413a-48d2-a5c0-48f1410f9067",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 87966,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 95,
+        "engineDisplacement": 999,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 10\u202f900,-",
+    "price": {
+      "value": 10900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-1-4-tfsi-125-attraction-essence-noir-95553c0b-e177-46eb-a0e5-7c03012f34ba",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 88500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 125,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 132,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f990,-",
+    "price": {
+      "value": 14990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-6-tdi-ambiante-diesel-blanc-2047f3ab-16b6-48e2-a0aa-7c5ef017e4fc",
+    "address": {
+      "streetAddress": "Avenue de Sully"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 64000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 116,
+        "engineDisplacement": 1598,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f790,-",
+    "price": {
+      "value": 12790,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-0-tfsi-82-ultra-business-essence-008bf75a-1bf1-403b-960e-5d927f918ae2",
+    "address": {
+      "streetAddress": "3 Rue de Gramont"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 82064,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 82,
+        "engineDisplacement": null,
+        "emissionsCO2": 97,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 11\u202f999,-",
+    "price": {
+      "value": 11999,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-sportback-2-0-tdi-140ch-s-line-diesel-gris-99a4f6a7-9a46-40f6-8882-504bfc9f6f8d",
+    "address": {
+      "streetAddress": "26 Rue Sainte Victoire"
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 147850,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 140,
+        "engineDisplacement": 1968,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f590,-",
+    "price": {
+      "value": 14590,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-sportback-1-6-tdi-105-business-line-vendu-diesel-rouge-636f3424-4f33-514d-e053-e250040a3cfb",
+    "address": {
+      "streetAddress": "4 AVENUE EDOUARD VII"
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 138500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 105,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 99,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 11\u202f900,-",
+    "price": {
+      "value": 11900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-4-tdi-90-ultra-diesel-487132a3-7ff1-4380-a849-3d9a8aeb8a40",
+    "address": {
+      "streetAddress": "467 AVENUE JEAN MOULIN"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 112990,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 90,
+        "engineDisplacement": 1422,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f850,-",
+    "price": {
+      "value": 12850,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-2-tfsi-ambition-essence-gris-5e0db009-0ec6-42af-8516-98b2fe483285",
+    "address": {
+      "streetAddress": "Sur rendez-vous"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 69800,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 86,
+        "engineDisplacement": 1197,
+        "emissionsCO2": 116,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f990,-",
+    "price": {
+      "value": 14990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-1-6-tdi-110ch-diesel-b24f9ea2-c78b-4dd0-9126-2e37e73abe19",
+    "address": {
+      "streetAddress": "Route de Bayonne 84"
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 137000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 111,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 99,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f999,-",
+    "price": {
+      "value": 12999,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-1-2-tfsi-99000-km-cuir-gps-pdc-pack-sport-essence-mauve-180030c4-181c-4863-9f60-b8eaa15d270d",
+    "address": {
+      "streetAddress": "Uniquement sur rendez-vous (En Belgique)"
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 99564,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 105,
+        "engineDisplacement": 1197,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f460,-",
+    "price": {
+      "value": 14460,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-sportback-1-4-tdi-90-ultra-s-line-diesel-gris-740c5a99-cb1f-4435-847c-6f4aed467bd3",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 114000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 90,
+        "engineDisplacement": 1422,
+        "emissionsCO2": 98,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 11\u202f990,-",
+    "price": {
+      "value": 11990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-2-tfsi-86-ambition-essence-blanc-113c6788-6bb9-4202-a288-2a84812ca284",
+    "address": {
+      "streetAddress": "15 Route Nationale"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 76000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 86,
+        "engineDisplacement": 1197,
+        "emissionsCO2": 118,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f000,-",
+    "price": {
+      "value": 13000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-sportback-1-6-tdi-90-ambition-luxe-s-tronic-diesel-brun-5c887dc5-92d4-41c9-8e52-7fc96745eaf9",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 136000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 90,
+        "engineDisplacement": 1598,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 9\u202f850,-",
+    "price": {
+      "value": 9850,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-2-tfsi-86-s-line-essence-rouge-dc3317fd-fd2c-4883-8c09-e12937bdb32e",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 105000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 86,
+        "engineDisplacement": 1197,
+        "emissionsCO2": 118,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 10\u202f000,-",
+    "price": {
+      "value": 10000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-6-tdi-90-ambition-luxe-vendu-diesel-noir-e914b433-081f-4af5-846a-4de3e0e818aa",
+    "address": {
+      "streetAddress": "4 AVENUE EDOUARD VII"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 112000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 90,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 99,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 10\u202f990,-",
+    "price": {
+      "value": 10990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-6-tdi-ambition-clim-gps-pano-1er-propr-diesel-mauve-d669eaf9-610a-4198-a947-2eb32115d2a6",
+    "address": {
+      "streetAddress": "Uniquement sur rendez-vous en Belgique"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 112026,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 105,
+        "engineDisplacement": 1598,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 11\u202f000,-",
+    "price": {
+      "value": 11000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-sportback-1-6-tdi-105-ambition-diesel-noir-c858ebad-722f-4693-ac18-b0ce8389dfba",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 110000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 105,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 99,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f265,-",
+    "price": {
+      "value": 13265,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-n-a-1-0-tfsi-ultra-82-ambition-essence-noir-128befb4-a06b-441a-8d94-9c083bf92cd7",
+    "address": {
+      "streetAddress": "3 Rue de Gramont"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 75200,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 82,
+        "engineDisplacement": null,
+        "emissionsCO2": 97,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 11\u202f690,-",
+    "price": {
+      "value": 11690,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-6-tdi-105-ambition-diesel-beige-73373b2c-99c4-492f-ba38-f3c8657c1c7a",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 110650,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 105,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 99,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 9\u202f900,-",
+    "price": {
+      "value": 9900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-6-tdi-105-cv-151-700-kms-gps-diesel-db71af45-da43-4679-af8f-8b00c66dfc4f",
+    "address": {
+      "streetAddress": "48 avenue d aubiere"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 149000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 105,
+        "engineDisplacement": 1598,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 10\u202f800,-",
+    "price": {
+      "value": 10800,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-6-tdi-attraction-diesel-mauve-4e32c75b-7b4a-4c56-9d63-9f4e7504889a",
+    "address": {
+      "streetAddress": "Wettersesteenweg 23"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 88661,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 90,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 99,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f890,-",
+    "price": {
+      "value": 14890,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a4-1-8-tfsi-160ch-ambition-luxe-multitronic-essence-96d46ffe-5cfa-4f5f-a7ca-e731727e9f47",
+    "address": {
+      "streetAddress": "5 Rue H\u00e9ll\u00e9 Nice"
+    },
+    "car_details": {
+      "name": "Audi A4",
+      "manufacturer": "Audi",
+      "model": "A4",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 118420,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 162,
+        "engineDisplacement": 1798,
+        "emissionsCO2": 134,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f990,-",
+    "price": {
+      "value": 13990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-1-6-tdi-110ch-fap-business-line-diesel-abeba842-63a9-4cb2-8ea4-c5ff8ed697b6",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 145700,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 111,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 116,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f990,-",
+    "price": {
+      "value": 14990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-0-tfsi-95ch-ultra-essence-ec451b0b-edf5-4fbf-a0c2-a2e08ce78f65",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 74926,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 97,
+        "engineDisplacement": 999,
+        "emissionsCO2": 97,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f500,-",
+    "price": {
+      "value": 13500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-4-tfsi-122-ambition-sportback-essence-f9e09f9b-e374-4a2d-aa34-346796d63947",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 76673,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 124,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 126,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 9\u202f660,-",
+    "price": {
+      "value": 9660,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-n-a-1-2-tfsi-86-ambiente-essence-noir-ecb6e35e-3c27-4045-8485-84b0ed5ca7cb",
+    "address": {
+      "streetAddress": "3 Rue de Gramont"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 133226,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 86,
+        "engineDisplacement": null,
+        "emissionsCO2": 118,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 11\u202f480,-",
+    "price": {
+      "value": 11480,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-6-tdi-90-ambiente-s-tronic-diesel-blanc-58c23151-1644-413b-aeff-7790a48b9b88",
+    "address": {
+      "streetAddress": "23 rue du chemin vert"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 140500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 90,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 110,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f550,-",
+    "price": {
+      "value": 14550,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-sportback-1-4-tdi-90-ultra-ambiente-diesel-noir-59692c08-bc54-4109-a2e5-3063b29eca09",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 100500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 90,
+        "engineDisplacement": 1422,
+        "emissionsCO2": 91,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 15\u202f000,-",
+    "price": {
+      "value": 15000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-sportback-1-2-tfsi-110-advanced-essence-rouge-3d7a9a30-fc8a-4c51-9590-77cc1dcde8e6",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2016",
+      "mileage": {
+        "value": 150000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 110,
+        "engineDisplacement": 1197,
+        "emissionsCO2": 117,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f490,-",
+    "price": {
+      "value": 13490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-2-tfsi-86-ambiente-essence-noir-dbe84f26-caca-4e55-867a-c605ee96c18f",
+    "address": {
+      "streetAddress": "50 rue du G\u00e9n\u00e9ral Leclerc"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 63529,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 86,
+        "engineDisplacement": 1197,
+        "emissionsCO2": 118,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f299,-",
+    "price": {
+      "value": 13299,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-0-tfsi-sportback-essence-gris-fd91c22a-4446-4ad3-bf06-d6895b9d7018",
+    "address": {
+      "streetAddress": "Uniquement sur rendez-vous"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2018",
+      "mileage": {
+        "value": 124748,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 95,
+        "engineDisplacement": 999,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f200,-",
+    "price": {
+      "value": 13200,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-a1-1-2-tfsi-86-attraction-essence-noir-ddbedbfd-f5dd-49ae-9b80-6eeb3aa45a05",
+    "address": {
+      "streetAddress": "170 RUE ALSACE"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 49935,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": null,
+        "engineDisplacement": null,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f500,-",
+    "price": {
+      "value": 14500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-sportback-1-2-tfsi-86-s-line-essence-blanc-562f996d-62d7-48a7-baac-21a27654c73b",
+    "address": {
+      "streetAddress": "Voir commentaire pour information de contact"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 87300,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 86,
+        "engineDisplacement": 1197,
+        "emissionsCO2": 118,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f897,-",
+    "price": {
+      "value": 13897,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-sportback-1-2-tfsi-86ch-ambiente-essence-noir-d01a0084-74e5-4e20-8b65-06582657435d",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 57700,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 87,
+        "engineDisplacement": 1197,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f900,-",
+    "price": {
+      "value": 12900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-4-tfsi-122ch-ambition-s-tronic-7-essence-2598eddc-44d3-4ea7-a267-9625e37ca485",
+    "address": {
+      "streetAddress": "116 Avenue Saint Exup\u00e9ry"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 99500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 124,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 122,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f990,-",
+    "price": {
+      "value": 12990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-6-tdi-105ch-fap-ambition-5-places-diesel-1a231398-e12b-48a2-bfa3-93fb747d38ed",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 105200,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 106,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 99,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 11\u202f990,-",
+    "price": {
+      "value": 11990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-6-tdi-90ch-fap-ambition-luxe-diesel-1ecb0f82-2da1-4f48-be2d-6455e74f8571",
+    "address": {
+      "streetAddress": "330 voie de lettres"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 93778,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 91,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 99,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f990,-",
+    "price": {
+      "value": 12990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-sportback-1-6-tdi-90-s-line-diesel-gris-dfb7b219-1919-4603-a6ac-9bce2a753130",
+    "address": {
+      "streetAddress": "20 rue principale"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 125000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 90,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 99,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f500,-",
+    "price": {
+      "value": 12500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-4-tfsi-122-attraction-s-tronic-full-option-essence-noir-1c10298d-7ac9-43ad-95ad-3efd00c8252a",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 89700,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 122,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 122,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f990,-",
+    "price": {
+      "value": 12990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-a1-sportback-1-6-tdi-105-attraction-diesel-f4353836-a9ea-415a-83ab-aeed6856e47f",
+    "address": {
+      "streetAddress": "2 avenue du 69e R\u00e9giment d'Infanterie"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 145000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 105,
+        "engineDisplacement": 1598,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f990,-",
+    "price": {
+      "value": 14990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-6-tdi-90-ambition-s-line-ext-diesel-noir-3e9a0307-41a1-4a51-b2b5-91957c82ed6e",
+    "address": {
+      "streetAddress": "50 rue du G\u00e9n\u00e9ral Leclerc"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2014",
+      "mileage": {
+        "value": 110069,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 90,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 99,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f700,-",
+    "price": {
+      "value": 13700,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-2-tfsi-86-s-line-admired-essence-rouge-c96ddfb4-8333-4edc-8c9a-4b1f164e4e13",
+    "address": {
+      "streetAddress": "Voir commentaire pour information de contact"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 85500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 86,
+        "engineDisplacement": 1197,
+        "emissionsCO2": 114,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 9\u202f995,-",
+    "price": {
+      "value": 9995,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-2l-tfsi-s-line-essence-rouge-b8bb7881-cb08-4386-9a3e-6d5554b0b10e",
+    "address": {
+      "streetAddress": "Sur rendez-vous"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 108691,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 86,
+        "engineDisplacement": 1197,
+        "emissionsCO2": 118,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 11\u202f450,-",
+    "price": {
+      "value": 11450,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-6-tdi-105ch-fap-s-line-diesel-61d22ea2-8125-416e-9204-8f4b6bf04ffb",
+    "address": {
+      "streetAddress": "2 Rue des marais"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 148000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 106,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 99,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 11\u202f490,-",
+    "price": {
+      "value": 11490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-1-4-tfsi-125-ambition-essence-cc1048a7-7c26-4d6c-ab83-ed07991457b1",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 94500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": null,
+        "engineDisplacement": null,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f480,-",
+    "price": {
+      "value": 12480,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-0-tfsi-ultra-95-ambition-essence-02a69b87-95d0-45a8-a89b-93b98bf3ed56",
+    "address": {
+      "streetAddress": "RUE JEAN MERMOZ"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 134109,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 95,
+        "engineDisplacement": 999,
+        "emissionsCO2": 97,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f900,-",
+    "price": {
+      "value": 13900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-basis-sportback-8xf-diesel-argent-e006811c-a726-4a45-be96-5aa84dbc48e4",
+    "address": {
+      "streetAddress": "Voir commentaire pour information de contact"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 115460,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 90,
+        "engineDisplacement": 1422,
+        "emissionsCO2": 102,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f995,-",
+    "price": {
+      "value": 13995,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-0-tfsi-95ch-ultra-essence-2737f508-2abb-41d5-8a12-31a9536999b5",
+    "address": {
+      "streetAddress": "91 Avenue des Sables"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2015",
+      "mileage": {
+        "value": 72416,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 97,
+        "engineDisplacement": 999,
+        "emissionsCO2": 97,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 10\u202f690,-",
+    "price": {
+      "value": 10690,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-6-tdi-dpf-105-start-stop-berline-ambiente-p-diesel-noir-b7bab875-e263-4628-ac4c-4b7ad3b2db0b",
+    "address": {
+      "streetAddress": "461 av de garossos"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 116000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 105,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 103,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 15\u202f000,-",
+    "price": {
+      "value": 15000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-sportback-1-6-tdi-110-diesel-noir-63022ca8-e0e5-4194-b6cd-cd0cf875a3f8",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2017",
+      "mileage": {
+        "value": 110000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 110,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 99,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 13\u202f990,-",
+    "price": {
+      "value": 13990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-6-tdi-105-s-line-diesel-rouge-a23ca81b-07c7-8d35-e053-e250040a7423",
+    "address": {
+      "streetAddress": "4 AVENUE EDOUARD VII"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 120000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 105,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 103,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 11\u202f990,-",
+    "price": {
+      "value": 11990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-6-tdi-90ch-fap-s-line-diesel-2717f4f0-4f49-4eba-a506-bebe48f693a4",
+    "address": {
+      "streetAddress": "Route Laval"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 141248,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 91,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 99,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f700,-",
+    "price": {
+      "value": 12700,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-4-tfsi-122-s-line-s-tronic-7-essence-rouge-a18e4590-f9f9-46e9-bab8-b6f34f535778",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 112000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 122,
+        "engineDisplacement": 1390,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 11\u202f990,-",
+    "price": {
+      "value": 11990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a3-sportback-2-0-tdi-140ch-s-line-s-tronic-diesel-gris-f49b64cd-023e-4d31-999a-f6c23800f2f6",
+    "address": {
+      "streetAddress": "26 Rue Sainte Victoire"
+    },
+    "car_details": {
+      "name": "Audi A3",
+      "manufacturer": "Audi",
+      "model": "A3",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 147000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 140,
+        "engineDisplacement": 1968,
+        "emissionsCO2": null,
+        "fuelType": "diesel"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 9\u202f900,-",
+    "price": {
+      "value": 9900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-4-tfsi-122-cv-120000-kms-essence-d91cc894-c618-4573-b3c5-73d46cea92ad",
+    "address": {
+      "streetAddress": "Zone d'Activit\u00e9 Les-Bats"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 120000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 122,
+        "engineDisplacement": 1390,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f490,-",
+    "price": {
+      "value": 12490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-4-tfsi-122ch-ambition-essence-0012a43c-aaa6-4532-ab66-6a8d56016874",
+    "address": {
+      "streetAddress": "141 RN34"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 42455,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 124,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 124,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 10\u202f990,-",
+    "price": {
+      "value": 10990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-2-tfsi-86ch-ambition-5-places-essence-59a2f93e-a95d-4028-967a-c4fed75abecd",
+    "address": {
+      "streetAddress": "141 RN34"
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 107044,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 87,
+        "engineDisplacement": 1197,
+        "emissionsCO2": 118,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 3\u202f490,-",
+    "price": {
+      "value": 3490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a1-1-6-tdi-105-attraction-diesel-blanc-59c9c5f3-b66f-48fa-afdb-a569a21d6f4f",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A1",
+      "manufacturer": "Audi",
+      "model": "A1",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 77000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 105,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 103,
+        "fuelType": "diesel"
       }
     }
   }
