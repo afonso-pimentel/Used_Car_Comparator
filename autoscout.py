@@ -62,7 +62,7 @@ def scrape_cars(filters):
         response = requests.get(url)
         soup = BeautifulSoup(response.content, 'html.parser')
         car_links = soup.find_all(
-            'a', class_='ListItem_title__znV2I ListItem_title_new_design__lYiAv Link_link__pjU1l')
+            'a', class_='ListItem_title__ndA4s ListItem_title_new_design__QIU2b Link_link__Ajn7I')
 
         for link in car_links:
             car_url = urljoin(base_url, link['href'])
@@ -71,12 +71,12 @@ def scrape_cars(filters):
             script_tag = car_soup.find('script', type='application/ld+json')
 
             if script_tag:
-                carburant_title_div = car_soup.find('div', class_='VehicleOverview_itemTitle__W0qyv', string='Carburant')
+                carburant_title_div = car_soup.find('div', class_='VehicleOverview_itemTitle__S2_lb', string='Carburant')
 
                 # Check if the "Carburant" title div is found
                 if carburant_title_div:
                     # Find the next sibling div element that contains the actual fuel information
-                    carburant_value_div = carburant_title_div.find_next_sibling('div', class_='VehicleOverview_itemText__V1yKT')
+                    carburant_value_div = carburant_title_div.find_next_sibling('div', class_='VehicleOverview_itemText__AI4dA')
                     
                     # Extract and print the fuel information text
                     if carburant_value_div:

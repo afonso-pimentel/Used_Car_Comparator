@@ -4,13 +4,13 @@ import database_service as db
 import autoscout as as24
 import standvirtual as sv
 
-MILEAGE_THRESHOLD = 10000
+MILEAGE_THRESHOLD = 30000
 
 def scrape_used_cars():
     filters = {
-        "brand": "audi",
+        "brand": "mini",
         "model": "",
-        "initial_year": "2010",
+        "initial_year": "2015",
         "final_year": "",
         "initial_km": "",
         "final_km": "150000",
@@ -45,7 +45,7 @@ def scrape_used_cars():
         "final_power": filters['final_power'],
         "power_type": filters['power_type'],
         "price_from": filters['price_from'],
-        "price_to": "25000"
+        "price_to": "18000"
     }
 
     as24.scrape_cars(filters_autoscout)

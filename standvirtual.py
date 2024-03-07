@@ -78,58 +78,69 @@ def scrape_cars(filters):
         response = requests.get(url)
         soup = BeautifulSoup(response.content, 'html.parser')
         # Find all the h2 elements with the specified class
-        h2_elements = soup.find_all(
-            'h2', attrs={'data-testid': 'ad-title'})
+        h1_elements = soup.find_all(
+            'h1', class_="e1oqyyyi9 ooa-1ed90th er34gjf0")
         
         print(url)
 
         # Extract the href attribute from the <a> elements and store them in the car_links array
         car_links = []
-        for h2 in h2_elements:
-            a_tag = h2.find('a')
+        for h1 in h1_elements:
+            a_tag = h1.find('a')
             href = a_tag.get('href')
             car_links.append(href)
 
         for link in car_links:
             car_response = requests.get(link)
             car_soup = BeautifulSoup(car_response.content, 'html.parser')
-            script_tag = car_soup.find('script', type='application/ld+json')
 
             engine_power = "-1"
             displacement = "-1"
             emissions_co2 = "-1"
 
-            # Find all ul elements with class "offer-params__list"
-            ul_elements = car_soup.select('.offer-params__list')
+            # Find all ul elements with class "advert-details-item"
+            car_name_elem = car_soup.find(class_='offer-title big-text ezl3qpx2 ooa-ebtemw er34gjf0')
+            if(not car_name_elem):
+                break
+            else:
+                car_name = car_name_elem.get_text(strip=True)
+                car_price = car_soup.find(class_='offer-price__number eqdspoq4 ooa-o7wv9s er34gjf0').get_text(strip=True) + " €"
+                detail_list = car_soup.select('[data-testid="advert-details-item"]')
 
-            # Iterate over the ul elements
-            for ul_element in ul_elements:
-                # Find the li elements within the current ul element
-                li_elements = ul_element.find_all('li')
+                # Iterate over the detail_list
+                for detail_item in detail_list:
+                    # Find the li elements within the current ul element
+                    # value of the title
+                    item_title = detail_item.find(class_='e18eslyg4 ooa-12b2ph5')
+                    # value of the item
+                    item_value = detail_item.find(class_='e16lfxpc0 ooa-1pe3502 er34gjf0')
 
-                # Search for the desired information within the li elements
-                for li_element in li_elements:
-                    span_element = li_element.find('span')
-                    if span_element and span_element.get_text(strip=True) == 'Combustível':
-                        fuel_element = li_element.find(class_='offer-params__value')
-                        fuel = fuel_element.get_text(strip=True)
-                    if span_element and span_element.get_text(strip=True) == 'Cilindrada':
-                        displacement_element = li_element.find(class_='offer-params__value')
-                        displacement = displacement_element.get_text(strip=True)
-                    if span_element and span_element.get_text(strip=True) == 'Potência':
-                        engine_power_element = li_element.find(class_='offer-params__value')
-                        engine_power = engine_power_element.get_text(strip=True)
-                    if span_element and span_element.get_text(strip=True) == 'Emissões CO2':
-                        emissions_element = li_element.find(class_='offer-params__value')
-                        emissions_co2 = emissions_element.get_text(strip=True)
-                        break
+                    # Search for the desired information within the li elements
+                    if item_title and item_title.get_text(strip=True) == 'Marca':
+                        if(not item_value):
+                            item_value = detail_item.find(class_='e16lfxpc1 ooa-1ftbcn2')
+                        brand = item_value.get_text(strip=True)
+                    if item_title and item_title.get_text(strip=True) == 'Modelo':
+                        if(not item_value):
+                            item_value = detail_item.find(class_='e16lfxpc1 ooa-1ftbcn2')
+                        model = item_value.get_text(strip=True)
+                    if item_title and item_title.get_text(strip=True) == 'Combustível':
+                        if(not item_value):
+                            item_value = detail_item.find(class_='e16lfxpc1 ooa-1ftbcn2')
+                        fuel = item_value.get_text(strip=True)
+                    if item_title and item_title.get_text(strip=True) == 'Quilómetros':
+                        mileage = item_value.get_text(strip=True)
+                    if item_title and item_title.get_text(strip=True) == 'Cilindrada':
+                        displacement = item_value.get_text(strip=True)
+                    if item_title and item_title.get_text(strip=True) == 'Potência':
+                        engine_power = item_value.get_text(strip=True)
+                    if item_title and item_title.get_text(strip=True) == 'Emissões CO2':  
+                        emissions_co2 = item_value.get_text(strip=True)
+                    if item_title and item_title.get_text(strip=True) == 'Ano':
+                        productionYear = item_value.get_text(strip=True)
 
-            address = car_soup.select_one(
-                '#seller-bottom-info > div > section > section.seller-bottom-info__map.collapsible.active > div > article > a')
-
-            if script_tag:
-                json_data = script_tag.string.strip()
-                car_info = json.loads(json_data)
+                address = car_soup.select_one(
+                    '#content-seller-area-section > div.ooa-yd8sa2.ep9j6b612 > div > a')
 
                 engineDetails = {
                     'enginePower': extract_numeric_value(engine_power),
@@ -139,27 +150,27 @@ def scrape_cars(filters):
                 }
 
                 mileage = {
-                    'value': int(car_info['mileageFromOdometer'].get('value', None)),
-                    'unitCode': car_info['mileageFromOdometer'].get('unitCode', None)
+                    'value': extract_numeric_value(mileage),
+                    'unitCode': "KMT"
                 }
 
                 # Simplify the car_info object to include selected fields
                 simplified_info = {
-                    'brand': car_info['brand'],
-                    'name': car_info['name'],
+                    'brand': brand,
+                    'name': car_name,
                     'price': {
-                        'value': int(car_info['offers']['price']),
-                        'currency': car_info['offers']['priceCurrency']
+                        'value': extract_numeric_value(car_price),
+                        'currency': "EUR"
                     },
-                    'url': car_info['url'],
+                    'url': link,
                     'address': {
                         'streetAddress': address.get_text(strip=True),
                     },
                     'car_details': {
-                        'name': car_info['name'],
-                        'manufacturer': car_info['brand'],
-                        'model': car_info['model'],
-                        'productionDate': car_info['dateVehicleFirstRegistered'],
+                        'name': car_name,
+                        'manufacturer': brand,
+                        'model': model,
+                        'productionDate': productionYear,
                         'mileage': mileage,
                         'engineDetails': engineDetails,
                     }
