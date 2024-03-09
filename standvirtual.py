@@ -81,7 +81,7 @@ def scrape_cars(filters):
         h1_elements = soup.find_all(
             'h1', class_="e1oqyyyi9 ooa-1ed90th er34gjf0")
         
-        print(url)
+        # print(url)
 
         # Extract the href attribute from the <a> elements and store them in the car_links array
         car_links = []

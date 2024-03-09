@@ -58,7 +58,7 @@ def scrape_cars(filters):
 
         url += f'&search_id=zlebw2rdlq&sort=standard&source=listpage_pagination&ustate=N%2CU&page={current_page}'
 
-        print(url)
+        # print(url)
         response = requests.get(url)
         soup = BeautifulSoup(response.content, 'html.parser')
         car_links = soup.find_all(
@@ -157,7 +157,7 @@ def scrape_cars(filters):
                     car_details.append(simplified_info)
 
         # Check if there are more pages
-        pagination = soup.find('div', class_='ListPage_pagination__v_4ci')
+        pagination = soup.find('div', class_='ListPage_pagination__4Vw9q')
         if not pagination:
             break
 

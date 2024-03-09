@@ -6,19 +6,19 @@ import standvirtual as sv
 
 MILEAGE_THRESHOLD = 30000
 
-def scrape_used_cars():
-    filters = {
-        "brand": "mini",
-        "model": "",
-        "initial_year": "2015",
-        "final_year": "",
-        "initial_km": "",
-        "final_km": "150000",
-        "initial_power": "",
-        "final_power": "",
-        "power_type": "",
-        "price_from": ""
-    }
+def scrape_used_cars(filters):
+    # filters = {
+    #     "brand": "mini",
+    #     "model": "",
+    #     "initial_year": "2008",
+    #     "final_year": "",
+    #     "initial_km": "",
+    #     "final_km": "200000",
+    #     "initial_power": "150",
+    #     "final_power": "",
+    #     "power_type": "",
+    #     "price_from": ""
+    # }
 
     filters_autoscout = {
         "brand": filters['brand'],
@@ -31,7 +31,7 @@ def scrape_used_cars():
         "final_power": filters['final_power'],
         "power_type": filters['power_type'],
         "price_from": filters['price_from'],
-        "price_to": "15000"
+        "price_to": filters['price_to_autoscout']
     }
 
     filters_standvirtual = {
@@ -45,7 +45,7 @@ def scrape_used_cars():
         "final_power": filters['final_power'],
         "power_type": filters['power_type'],
         "price_from": filters['price_from'],
-        "price_to": "18000"
+        "price_to": filters['price_to_standvirtual']    
     }
 
     as24.scrape_cars(filters_autoscout)
@@ -65,6 +65,8 @@ def get_best_deals():
         year = car['_id']['year']
         autoscout24_price = car['cheapest_price']
         fuel_type = car['car_details']['car_details']['engineDetails']['fuelType']
+        engine_displacement = car['car_details']['car_details']['engineDetails']['engineDisplacement']
+        engine_power = car['car_details']['car_details']['engineDetails']['enginePower']
         mileage = car['car_details']['car_details']['mileage']['value']
         autoscout24_url = car['url']
 
@@ -72,10 +74,12 @@ def get_best_deals():
         
         similar_cars_standvirtual = db.find_one(client_standvirtual, "standvirtual", "car_details", {
             "brand": brand,
-            "car_details.model": {"$regex": model_str, "$options": 'i'},
+          #  "car_details.model": {"$regex": model_str, "$options": 'i'},
             "car_details.productionDate": year,
             "car_details.mileage.value": {"$gte": mileage - MILEAGE_THRESHOLD, "$lte": mileage + MILEAGE_THRESHOLD},
-            "car_details.engineDetails.fuelType": fuel_type
+            "car_details.engineDetails.fuelType": fuel_type,
+            "car_details.engineDetails.engineDisplacement": {"$gte": engine_displacement*0.95, "$lte": engine_displacement*1.05} if engine_displacement else engine_displacement,
+            "car_details.engineDetails.enginePower": {"$gte": engine_power*0.95, "$lte": engine_power*1.05}
         })
         
         for sv_car in similar_cars_standvirtual:
@@ -92,7 +96,9 @@ def get_best_deals():
                 best_deals.append({
                     "brand": brand,
                     "model": model,
-                    "fuel_type": fuel_type, 
+                    "fuel_type": fuel_type,
+                    "engine_displacement": engine_displacement,
+                    "engine_power": engine_power, 
                     "production_year": year,
                     "standvirtual_price": sv_price,
                     "autoscout24_price": autoscout24_price,
@@ -104,7 +110,12 @@ def get_best_deals():
 
     # Sort the best deals by the price difference in descending order
     best_deals_sorted = sorted(best_deals, key=lambda x: x['price_difference'], reverse=True)
-    return best_deals_sorted
+    
+    # Save car_details to a file named "best_deals.json"
+    with open('best_deals.json', 'w') as file:
+        json.dump(best_deals_sorted, file, indent=2)
+    print("Best deals written to best_deals.json")
+    return
 
 def get_cheapest_cars(client, db_name):
     pipeline = [
@@ -124,6 +135,8 @@ def get_cheapest_cars(client, db_name):
                     "year": "$car_details.productionDate"
                 },
                 "cheapest_price": {"$first": "$price.value"},
+                "engine_displacement": {"$first": "$car_details.engineDetails.engineDisplacement"},
+                "engine_power": {"$first": "$car_details.engineDetails.enginePower"},
                 "fuel_type": {"$first": "$car_details.engineDetails.fuelType"},
                 "car_details": {"$first": "$$ROOT"},
                 "url": {"$first": "$url"}
@@ -132,14 +145,3 @@ def get_cheapest_cars(client, db_name):
     ]
     collection_name = "car_details"
     return db.read_from_db(client, db_name, collection_name, pipeline)
-
-# Scrape used cars from autoscout24 and standvirtual
-# scrape_used_cars()
-
-# Get the best deals
-best_deals = get_best_deals()
-
-# Save car_details to a file named "best_deals.json"
-with open('best_deals.json', 'w') as file:
-    json.dump(best_deals, file, indent=2)
-print("Best deals written to best_deals.json")
