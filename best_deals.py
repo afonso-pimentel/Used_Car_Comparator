@@ -19,6 +19,24 @@ def scrape_used_cars(filters):
     #     "power_type": "",
     #     "price_from": ""
     # }
+    clean_option = input("Do you want to clean the database before getting best deals? (y/n): ").strip().lower()
+    if clean_option == 'y':
+        print("Cleaning the database...\n")
+        db_name = "autoscout24"
+        collection_name = "car_details"
+        client = db.connect_db(db_name) 
+        db.clean_db(client, db_name, collection_name)
+
+        db_name = "standvirtual"
+        collection_name = "car_details"
+        client = db.connect_db(db_name) 
+        db.clean_db(client, db_name, collection_name)
+        print("Database was cleared.\n")
+    elif clean_option == 'n':
+        print("Adding cars to the database...\n")
+    else:
+        print("Invalid choice. Please enter 'y' or 'n'.\n")
+
 
     filters_autoscout = {
         "brand": filters['brand'],

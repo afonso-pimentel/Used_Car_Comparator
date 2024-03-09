@@ -24,3 +24,8 @@ def find_one(client, db_name, collection_name, query):
     collection = db[collection_name]
     result = collection.find(query)
     return result
+
+def clean_db(client, db_name, collection_name):
+    db = client[db_name]
+    collection = db[collection_name]
+    collection.drop()

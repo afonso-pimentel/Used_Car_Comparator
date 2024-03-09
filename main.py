@@ -1,3 +1,4 @@
+import json
 import best_deals as bdeals
 
 class Filters:
@@ -35,6 +36,10 @@ def add_search_criteria():
         "price_to_standvirtual": input("Price to (StandVirtual) (press enter for empty): ").strip()
     }
 
+    # Save filters to a file named "filters.json"
+    with open('filters.json', 'w') as file:
+        json.dump(filters, file, indent=2)
+
     return filters
 
 
@@ -61,6 +66,10 @@ def main():
             filters = add_search_criteria()
             print("Search criteria added:", filters)
         elif choice == '2':
+            # Read the content of the JSON file
+            with open('filters.json', 'r') as file:
+                filters = json.load(file)
+            print(filters)
             scrape_car_info(filters)
         elif choice == '3':
             get_best_deals()
