@@ -4,7 +4,7 @@ import database_service as db
 import autoscout as as24
 import standvirtual as sv
 
-MILEAGE_THRESHOLD = 30000
+MILEAGE_THRESHOLD = 60000
 
 def scrape_used_cars(filters):
     # filters = {
@@ -31,7 +31,7 @@ def scrape_used_cars(filters):
         collection_name = "car_details"
         client = db.connect_db(db_name) 
         db.clean_db(client, db_name, collection_name)
-        print("Database was cleared.\n")
+        print("Database was cleaned.\n")
     elif clean_option == 'n':
         print("Adding cars to the database...\n")
     else:
@@ -66,7 +66,9 @@ def scrape_used_cars(filters):
         "price_to": filters['price_to_standvirtual']    
     }
 
+    print("Getting Autoscout cars...\n")
     as24.scrape_cars(filters_autoscout)
+    print("Getting Standvirtual cars...\n")
     sv.scrape_cars(filters_standvirtual)
 
 def get_best_deals():
@@ -89,16 +91,16 @@ def get_best_deals():
         autoscout24_url = car['url']
 
         model_str = str(model)
-        
-        similar_cars_standvirtual = db.find_one(client_standvirtual, "standvirtual", "car_details", {
-            "brand": brand,
+
+        query = { "brand": brand,
           #  "car_details.model": {"$regex": model_str, "$options": 'i'},
-            "car_details.productionDate": year,
+            "car_details.productionDate": {"$gte": str(int(year) - 1), "$lte": str(int(year) + 1)},
             "car_details.mileage.value": {"$gte": mileage - MILEAGE_THRESHOLD, "$lte": mileage + MILEAGE_THRESHOLD},
             "car_details.engineDetails.fuelType": fuel_type,
             "car_details.engineDetails.engineDisplacement": {"$gte": engine_displacement*0.95, "$lte": engine_displacement*1.05} if engine_displacement else engine_displacement,
-            "car_details.engineDetails.enginePower": {"$gte": engine_power*0.95, "$lte": engine_power*1.05}
-        })
+            "car_details.engineDetails.enginePower": {"$gte": engine_power*0.95, "$lte": engine_power*1.05} }
+                
+        similar_cars_standvirtual = db.find_one(client_standvirtual, "standvirtual", "car_details", query)
         
         for sv_car in similar_cars_standvirtual:
             sv_price = sv_car['price']['value']

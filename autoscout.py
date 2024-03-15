@@ -38,6 +38,8 @@ def scrape_cars(filters):
         (price_to, f'priceto={price_to}&')
     ]
 
+    car_links = []
+
     while True:
         url = base_url + '/lst'
 
@@ -61,77 +63,88 @@ def scrape_cars(filters):
         # print(url)
         response = requests.get(url)
         soup = BeautifulSoup(response.content, 'html.parser')
-        car_links = soup.find_all(
-            'a', class_='ListItem_title__ndA4s ListItem_title_new_design__QIU2b Link_link__Ajn7I')
+        # add current page car links to the array
+        car_links.extend(soup.find_all(
+            'a', class_='ListItem_title__ndA4s ListItem_title_new_design__QIU2b Link_link__Ajn7I'))
+        
+        # Check if there are more pages
+        pagination = soup.find('div', class_='ListPage_pagination__4Vw9q')
+        if not pagination:
+            break
 
-        for link in car_links:
-            car_url = urljoin(base_url, link['href'])
-            car_response = requests.get(car_url)
-            car_soup = BeautifulSoup(car_response.content, 'html.parser')
-            script_tag = car_soup.find('script', type='application/ld+json')
+        # Move to the next page
+        current_page += 1
 
-            if script_tag:
-                carburant_title_div = car_soup.find('div', class_='VehicleOverview_itemTitle__S2_lb', string='Carburant')
+    for link in car_links:
+        car_url = urljoin(base_url, link['href'])
+        car_response = requests.get(car_url)
+        car_soup = BeautifulSoup(car_response.content, 'html.parser')
+        script_tag = car_soup.find('script', type='application/ld+json')
 
-                # Check if the "Carburant" title div is found
-                if carburant_title_div:
-                    # Find the next sibling div element that contains the actual fuel information
-                    carburant_value_div = carburant_title_div.find_next_sibling('div', class_='VehicleOverview_itemText__AI4dA')
-                    
-                    # Extract and print the fuel information text
-                    if carburant_value_div:
-                        fuel = carburant_value_div.get_text(strip=True)
+        if script_tag:
+            carburant_title_div = car_soup.find('div', class_='VehicleOverview_itemTitle__S2_lb', string='Carburant')
 
-                else:
-                    print("Title 'Carburant' not found in the HTML content")
+            # Check if the "Carburant" title div is found
+            if carburant_title_div:
+                # Find the next sibling div element that contains the actual fuel information
+                carburant_value_div = carburant_title_div.find_next_sibling('div', class_='VehicleOverview_itemText__AI4dA')
+                
+                # Extract and print the fuel information text
+                if carburant_value_div:
+                    fuel = carburant_value_div.get_text(strip=True)
 
-                json_data = script_tag.string.strip()
-                car_info = json.loads(json_data)
-                try:
-                    enginePower = car_info['offers']['itemOffered']['vehicleEngine'][0]['enginePower'][0].get('value', None)
-                except:
-                    enginePower = None
+            else:
+                print("Title 'Carburant' not found in the HTML content")
+                ignore_car = True
 
-                try:
-                    engineDisplacement = car_info['offers']['itemOffered']['vehicleEngine'][0].get('engineDisplacement', {}).get('value', None)
-                    ignore_car = False
-                except:
-                    engineDisplacement = None
-                    ignore_car = True   
+            json_data = script_tag.string.strip()
+            car_info = json.loads(json_data)
+            try:
+                enginePower = car_info['offers']['itemOffered']['vehicleEngine'][0]['enginePower'][0].get('value', None)
+            except:
+                enginePower = None
 
-                try:
-                    emissionsCO2 = car_info['offers']['itemOffered'].get('emissionsCO2', None)
-                except:
-                    emissionsCO2 = 0
+            try:
+                engineDisplacement = car_info['offers']['itemOffered']['vehicleEngine'][0].get('engineDisplacement', {}).get('value', None)
+                ignore_car = False
+            except:
+                engineDisplacement = None
+                ignore_car = True   
 
-                engineDetails = {
-                    'enginePower': enginePower,
-                    'engineDisplacement': engineDisplacement,
-                    'emissionsCO2': emissionsCO2,
-                    'fuelType': ms.get_fuel_type(fuel) if fuel else 'Unknown' 
+            try:
+                emissionsCO2 = car_info['offers']['itemOffered'].get('emissionsCO2', None)
+            except:
+                emissionsCO2 = 0
+
+            engineDetails = {
+                'enginePower': enginePower,
+                'engineDisplacement': engineDisplacement,
+                'emissionsCO2': emissionsCO2,
+                'fuelType': ms.get_fuel_type(fuel) if fuel else 'Unknown' 
+            }
+
+            try:
+                mileage = {
+                    'value': int(car_info['offers']['itemOffered']['mileageFromOdometer'].get('value', None)),
+                    'unitCode': car_info['offers']['itemOffered']['mileageFromOdometer'].get('unitText', None)
                 }
+                ignore_car = False
+            except:
+                mileage = {
+                    'value': 0,
+                    'unitCode': "KMT"
+                }
+                ignore_car = True
 
-                try:
-                    mileage = {
-                        'value': int(car_info['offers']['itemOffered']['mileageFromOdometer'].get('value', None)),
-                        'unitCode': car_info['offers']['itemOffered']['mileageFromOdometer'].get('unitText', None)
-                    }
-                    ignore_car = False
-                except:
-                    mileage = {
-                        'value': 0,
-                        'unitCode': "KMT"
-                    }
-                    ignore_car = True
+            try:
+                production_date = car_info['offers']['itemOffered'].get(
+                    'productionDate', None).split('-')[0]
+                ignore_car = False
+            except:
+                production_date = None
+                ignore_car = True
 
-                try:
-                    production_date = car_info['offers']['itemOffered'].get(
-                        'productionDate', None).split('-')[0]
-                    ignore_car = False
-                except:
-                    production_date = None
-                    ignore_car = True
-
+            if not ignore_car:
                 # Simplify the car_info object to include selected fields
                 simplified_info = {
                     'brand': car_info['brand'].get('name', None),
@@ -153,16 +166,7 @@ def scrape_cars(filters):
                         'engineDetails': engineDetails,
                     }
                 }
-                if not ignore_car:
-                    car_details.append(simplified_info)
-
-        # Check if there are more pages
-        pagination = soup.find('div', class_='ListPage_pagination__4Vw9q')
-        if not pagination:
-            break
-
-        # Move to the next page
-        current_page += 1
+                car_details.append(simplified_info)
 
     # Save car_details to a file named "car_details.json"
     with open('car_details_as.json', 'w') as file:
