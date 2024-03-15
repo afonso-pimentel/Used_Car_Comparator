@@ -8,6 +8,7 @@ import mapping_service as ms
 def scrape_cars(filters):
     brand = filters['brand']
     model = filters['model']
+    fuel_type = filters['fuel']
     initial_year = filters['initial_year']
     final_year = filters['final_year']
     initial_km = filters['initial_km']
@@ -28,6 +29,7 @@ def scrape_cars(filters):
     search_filters = [
         (brand, f'/{brand}'),
         (model, f'/{model}'),
+        (fuel_type, f'fuel={fuel_type}&'),
         (initial_year, f'fregfrom={initial_year}&'),
         (final_year, f'fregto={final_year}&'),
         (initial_km, f'kmfrom={initial_km}&'),

@@ -9,6 +9,7 @@ def scrape_cars(filters):
     brand = filters['brand']
     model = ''
     sub_model = filters['model']
+    fuel_type = filters['fuel']
     initial_year = filters['initial_year']
     final_year = filters['final_year']
     initial_km = filters['initial_km']
@@ -45,6 +46,7 @@ def scrape_cars(filters):
         (sub_model, f'/{sub_model}'),
         (initial_year, f'/desde-{initial_year}?'),
         (model, f'search%5Bfilter_enum_engine_code%5D={model}&'),
+        (fuel_type, f'search%5Bfilter_enum_fuel_type%5D={fuel_type}&'),
         (initial_power, f'search%5Bfilter_float_engine_power%3Afrom%5D={initial_power}&'),
         (final_power, f'search%5Bfilter_float_engine_power%3Ato%5D={final_power}&'),
         (final_year, f'search%5Bfilter_float_first_registration_year%3Ato%5D={final_year}&'),

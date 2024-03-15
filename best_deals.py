@@ -37,10 +37,14 @@ def scrape_used_cars(filters):
     else:
         print("Invalid choice. Please enter 'y' or 'n'.\n")
 
+    # Read the content of the JSON file
+    with open('fuel_types.json', 'r') as file:
+        fuel_types = json.load(file)
 
     filters_autoscout = {
         "brand": filters['brand'],
         "model": filters['model'],
+        "fuel": fuel_types[filters['fuel']][0],
         "initial_year": filters['initial_year'],
         "final_year": filters['final_year'],
         "initial_km": filters['initial_km'],
@@ -55,6 +59,7 @@ def scrape_used_cars(filters):
     filters_standvirtual = {
         "brand": filters['brand'],
         "model": filters['model'],
+        "fuel": fuel_types[filters['fuel']][1],
         "initial_year": filters['initial_year'],
         "final_year": filters['final_year'],
         "initial_km": filters['initial_km'],
@@ -93,7 +98,7 @@ def get_best_deals():
         model_str = str(model)
 
         query = { "brand": brand,
-          #  "car_details.model": {"$regex": model_str, "$options": 'i'},
+            "car_details.model": {"$regex": model_str, "$options": 'i'},
             "car_details.productionDate": {"$gte": str(int(year) - 1), "$lte": str(int(year) + 1)},
             "car_details.mileage.value": {"$gte": mileage - MILEAGE_THRESHOLD, "$lte": mileage + MILEAGE_THRESHOLD},
             "car_details.engineDetails.fuelType": fuel_type,

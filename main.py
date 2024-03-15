@@ -2,11 +2,12 @@ import json
 import best_deals as bdeals
 
 class Filters:
-    def __init__(self, brand='', model='', initial_year='', final_year='', initial_km='', final_km='',
+    def __init__(self, brand='', model='', fuel='',initial_year='', final_year='', initial_km='', final_km='',
                  initial_power='', final_power='', power_type='', price_from='', price_to_autoscout='',
                  price_to_standvirtual=''):
         self.brand = brand
         self.model = model
+        self.fuel = fuel
         self.initial_year = initial_year
         self.final_year = final_year
         self.initial_km = initial_km
@@ -24,6 +25,7 @@ def add_search_criteria():
     filters = {
         "brand": input("Brand (press enter for empty): ").strip(),
         "model": input("Model (press enter for empty): ").strip(),
+        "fuel": input("Fuel (press enter for empty): ").strip(),
         "initial_year": input("Initial year (press enter for empty): ").strip(),
         "final_year": input("Final year (press enter for empty): ").strip(),
         "initial_km": input("Initial km (press enter for empty): ").strip(),
