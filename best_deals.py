@@ -3,6 +3,8 @@ from urllib.parse import urljoin
 import database_service as db
 import autoscout as as24
 import standvirtual as sv
+import execjs
+
 
 MILEAGE_THRESHOLD = 60000
 
@@ -92,6 +94,7 @@ def get_best_deals():
         fuel_type = car['car_details']['car_details']['engineDetails']['fuelType']
         engine_displacement = car['car_details']['car_details']['engineDetails']['engineDisplacement']
         engine_power = car['car_details']['car_details']['engineDetails']['enginePower']
+        emissions = car['car_details']['car_details']['engineDetails']['emissionsCO2']
         mileage = car['car_details']['car_details']['mileage']['value']
         autoscout24_url = car['url']
 
@@ -111,9 +114,21 @@ def get_best_deals():
             sv_price = sv_car['price']['value']
             sv_url = sv_car['url']
             price_diff = sv_price - autoscout24_price
+            sv_emissions = sv_car['car_details']['engineDetails']['emissionsCO2']
+            if not emissions:
+                emissions = sv_emissions
 
             # Create a unique identifier for this car
             car_id = (brand, model, year, sv_price)
+
+            # with open("isv_calculator.js", "r") as file:
+            #     js_code = file.read()
+
+            # context = execjs.compile(js_code)
+
+            # totalPrice = context.call("Calcular", engine_displacement, emissions, fuel_type, autoscout24_price, int(year))
+
+            # print(totalPrice)
 
             # Check if the car is already in the list
             if car_id not in seen_cars:
@@ -123,14 +138,16 @@ def get_best_deals():
                     "model": model,
                     "fuel_type": fuel_type,
                     "engine_displacement": engine_displacement,
-                    "engine_power": engine_power, 
-                    "production_year": year,
+                    "engine_power": engine_power,
+                    "emissions": emissions if emissions else "no info", 
+                    "production_year": int(year),
                     "standvirtual_price": sv_price,
                     "autoscout24_price": autoscout24_price,
                     "price_difference": price_diff,
                     "mileage": mileage,
                     "standvirtual_url": sv_url,
                     "autoscout24_url": autoscout24_url
+                    # "totalPrice": totalPrice
                 })
 
     # Sort the best deals by the price difference in descending order
