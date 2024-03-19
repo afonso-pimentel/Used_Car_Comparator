@@ -2,6 +2,7 @@ import json
 from urllib.parse import urljoin
 import database_service as db
 import autoscout as as24
+from isv_calculator import calculateIsv
 import standvirtual as sv
 import execjs
 
@@ -121,14 +122,9 @@ def get_best_deals():
             # Create a unique identifier for this car
             car_id = (brand, model, year, sv_price)
 
-            # with open("isv_calculator.js", "r") as file:
-            #     js_code = file.read()
+            totalPrice = calculateIsv(engine_displacement, emissions, fuel_type, autoscout24_price, int(year))
 
-            # context = execjs.compile(js_code)
-
-            # totalPrice = context.call("Calcular", engine_displacement, emissions, fuel_type, autoscout24_price, int(year))
-
-            # print(totalPrice)
+            print(totalPrice)
 
             # Check if the car is already in the list
             if car_id not in seen_cars:
@@ -146,8 +142,8 @@ def get_best_deals():
                     "price_difference": price_diff,
                     "mileage": mileage,
                     "standvirtual_url": sv_url,
-                    "autoscout24_url": autoscout24_url
-                    # "totalPrice": totalPrice
+                    "autoscout24_url": autoscout24_url,
+                    "price_with_isv": totalPrice
                 })
 
     # Sort the best deals by the price difference in descending order
