@@ -155,7 +155,7 @@ def scrape_cars(filters):
                         'value': car_info['offers']['price'],
                         'currency': car_info['offers']['priceCurrency']
                     },
-                    'url': car_info['offers']['url'],
+                    'url': car_url,
                     'address': {
                         'streetAddress': car_info['offers'].get('offeredBy', {}).get('address', {}).get('streetAddress', None),
                     },
