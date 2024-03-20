@@ -107,7 +107,8 @@ def get_best_deals():
             "car_details.mileage.value": {"$gte": mileage - MILEAGE_THRESHOLD, "$lte": mileage + MILEAGE_THRESHOLD},
             "car_details.engineDetails.fuelType": fuel_type,
             "car_details.engineDetails.engineDisplacement": {"$gte": engine_displacement*0.95, "$lte": engine_displacement*1.05} if engine_displacement else engine_displacement,
-            "car_details.engineDetails.enginePower": {"$gte": engine_power*0.95, "$lte": engine_power*1.05} }
+            "car_details.engineDetails.enginePower": {"$gte": engine_power*0.95, "$lte": engine_power*1.05}
+        }
                 
         similar_cars_standvirtual = db.find_one(client_standvirtual, "standvirtual", "car_details", query)
         
@@ -126,25 +127,26 @@ def get_best_deals():
 
             print(totalPrice)
 
-            # Check if the car is already in the list
-            if car_id not in seen_cars:
-                seen_cars.add(car_id)
-                best_deals.append({
-                    "brand": brand,
-                    "model": model,
-                    "fuel_type": fuel_type,
-                    "engine_displacement": engine_displacement,
-                    "engine_power": engine_power,
-                    "emissions": emissions if emissions else "no info", 
-                    "production_year": int(year),
-                    "standvirtual_price": sv_price,
-                    "autoscout24_price": autoscout24_price,
-                    "price_difference": price_diff,
-                    "mileage": mileage,
-                    "standvirtual_url": sv_url,
-                    "autoscout24_url": autoscout24_url,
-                    "price_with_isv": totalPrice
-                })
+            if totalPrice and totalPrice < sv_price:
+                # Check if the car is already in the list
+                if car_id not in seen_cars:
+                    seen_cars.add(car_id)
+                    best_deals.append({
+                        "brand": brand,
+                        "model": model,
+                        "fuel_type": fuel_type,
+                        "engine_displacement": engine_displacement,
+                        "engine_power": engine_power,
+                        "emissions": emissions if emissions else "no info", 
+                        "production_year": int(year),
+                        "standvirtual_price": sv_price,
+                        "autoscout24_price": autoscout24_price,
+                        "price_difference": price_diff,
+                        "mileage": mileage,
+                        "standvirtual_url": sv_url,
+                        "autoscout24_url": autoscout24_url,
+                        "price_with_isv": totalPrice
+                    })
 
     # Sort the best deals by the price difference in descending order
     best_deals_sorted = sorted(best_deals, key=lambda x: x['price_difference'], reverse=True)

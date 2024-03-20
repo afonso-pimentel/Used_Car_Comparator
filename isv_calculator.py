@@ -586,36 +586,36 @@ def calculateIsv(displacement, emissions, fuel, price, productionYear):
         currentYear = date.strftime("%Y")
         carAge = int(currentYear) - productionYear
         if carAge == 0:
-            result = round(float(max(ValorISVMinimo,ValorTotalMais6Mesesa1Ano_EsteAno)), 2)
+            result = round(float(max(ValorISVMinimo,ValorTotalMais6Mesesa1Ano_ProximoAno)), 2)
         elif carAge == 1:
-            result = round(float(max(ValorISVMinimo,ValorTotalMais1a2Anos_EsteAno)), 2)
+            result = round(float(max(ValorISVMinimo,ValorTotalMais1a2Anos_ProximoAno)), 2)
         elif carAge == 2:
-            result = round(float(max(ValorISVMinimo,ValorTotalMais2a3Anos_EsteAno)), 2)
+            result = round(float(max(ValorISVMinimo,ValorTotalMais2a3Anos_ProximoAno)), 2)
         elif carAge == 3:
-            result = round(float(max(ValorISVMinimo,ValorTotalMais3a4Anos_EsteAno)), 2)
+            result = round(float(max(ValorISVMinimo,ValorTotalMais3a4Anos_ProximoAno)), 2)
         elif carAge == 4:
-            result = round(float(max(ValorISVMinimo,ValorTotalMais4a5Anos_EsteAno)), 2)
+            result = round(float(max(ValorISVMinimo,ValorTotalMais4a5Anos_ProximoAno)), 2)
         elif carAge == 5:
-            result = round(float(max(ValorISVMinimo,ValorTotalMais5a6Anos_EsteAno)), 2)
+            result = round(float(max(ValorISVMinimo,ValorTotalMais5a6Anos_ProximoAno)), 2)
         elif carAge == 6:
-            result = round(float(max(ValorISVMinimo,ValorTotalMais6a7Anos_EsteAno)), 2)
+            result = round(float(max(ValorISVMinimo,ValorTotalMais6a7Anos_ProximoAno)), 2)
         elif carAge == 7:
-            result = round(float(max(ValorISVMinimo,ValorTotalMais7a8Anos_EsteAno)), 2)
+            result = round(float(max(ValorISVMinimo,ValorTotalMais7a8Anos_ProximoAno)), 2)
         elif carAge == 8:
-            result = round(float(max(ValorISVMinimo,ValorTotalMais8a9Anos_EsteAno)), 2)
+            result = round(float(max(ValorISVMinimo,ValorTotalMais8a9Anos_ProximoAno)), 2)
         elif carAge == 9:
-            result = round(float(max(ValorISVMinimo,ValorTotalMais9a10Anos_EsteAno)), 2)
+            result = round(float(max(ValorISVMinimo,ValorTotalMais9a10Anos_ProximoAno)), 2)
         elif carAge == 10:
-            result = round(float(max(ValorISVMinimo,ValorTotalMais10a11Anos_EsteAno)), 2)
+            result = round(float(max(ValorISVMinimo,ValorTotalMais10a11Anos_ProximoAno)), 2)
         elif carAge == 11:
-            result = round(float(max(ValorISVMinimo,ValorTotalMais11a12Anos_EsteAno)), 2)
+            result = round(float(max(ValorISVMinimo,ValorTotalMais11a12Anos_ProximoAno)), 2)
         elif carAge == 12:
-            result = round(float(max(ValorISVMinimo,ValorTotalMais12a13Anos_EsteAno)), 2)
+            result = round(float(max(ValorISVMinimo,ValorTotalMais12a13Anos_ProximoAno)), 2)
         elif carAge == 13:
-            result = round(float(max(ValorISVMinimo,ValorTotalMais13a14Anos_EsteAno)), 2)
+            result = round(float(max(ValorISVMinimo,ValorTotalMais13a14Anos_ProximoAno)), 2)
         elif carAge == 14:
-            result = round(float(max(ValorISVMinimo,ValorTotalMais14a15Anos_EsteAno)), 2)
+            result = round(float(max(ValorISVMinimo,ValorTotalMais14a15Anos_ProximoAno)), 2)
         else:
-            result = round(float(max(ValorISVMinimo,ValorTotalMais15Anos_EsteAno)), 2)
+            result = round(float(max(ValorISVMinimo,ValorTotalMais15Anos_ProximoAno)), 2)
 
         return result
