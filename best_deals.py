@@ -115,7 +115,6 @@ def get_best_deals():
         for sv_car in similar_cars_standvirtual:
             sv_price = sv_car['price']['value']
             sv_url = sv_car['url']
-            price_diff = sv_price - autoscout24_price
             sv_emissions = sv_car['car_details']['engineDetails']['emissionsCO2']
             if not emissions:
                 emissions = sv_emissions
@@ -128,6 +127,8 @@ def get_best_deals():
             print(totalPrice)
 
             if totalPrice and totalPrice < sv_price:
+
+                price_diff = sv_price - totalPrice
                 # Check if the car is already in the list
                 if car_id not in seen_cars:
                     seen_cars.add(car_id)
@@ -141,11 +142,11 @@ def get_best_deals():
                         "production_year": int(year),
                         "standvirtual_price": sv_price,
                         "autoscout24_price": autoscout24_price,
-                        "price_difference": price_diff,
                         "mileage": mileage,
                         "standvirtual_url": sv_url,
                         "autoscout24_url": autoscout24_url,
-                        "price_with_isv": totalPrice
+                        "price_with_isv": totalPrice,
+                        "price_difference": price_diff
                     })
 
     # Sort the best deals by the price difference in descending order
