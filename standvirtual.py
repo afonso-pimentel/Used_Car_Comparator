@@ -83,7 +83,7 @@ def scrape_cars(filters):
         soup = BeautifulSoup(response.content, 'html.parser')
         # Find all the current page car links
         current_page_car_links = soup.find_all(
-            'h1', class_="ekwd5px9 ooa-1ed90th er34gjf0")
+            'h1', class_="eszxync9 ooa-1ed90th er34gjf0")
         
         # print(url)
 

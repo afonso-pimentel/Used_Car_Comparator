@@ -74,10 +74,29 @@ def scrape_used_cars(filters):
         "price_to": filters['price_to_standvirtual']    
     }
 
-    print("Getting Autoscout cars...\n")
-    as24.scrape_cars(filters_autoscout)
-    print("Getting Standvirtual cars...\n")
-    sv.scrape_cars(filters_standvirtual)
+    while True:
+        scrape_as = input("Do you want to scrape Autoscout cars?: (y/n)\n")
+        if scrape_as == 'y':
+            print("Getting Autoscout cars...\n")
+            as24.scrape_cars(filters_autoscout)
+            break
+        elif scrape_as == 'n':
+            break      
+        else:
+            print("Invalid choice. Please try again.\n")
+
+    while True:
+        scrape_sv = input("Do you want to scrape Standvirtual cars?: (y/n)\n")
+        if scrape_sv == 'y':
+            print("Getting Standivrtual cars...\n")
+            sv.scrape_cars(filters_standvirtual)
+            break
+        elif scrape_sv == 'n':
+            break      
+        else:
+            print("Invalid choice. Please try again.\n") 
+    
+    
 
 def get_best_deals():
     client_autoscout24 = db.connect_db("autoscout24")
