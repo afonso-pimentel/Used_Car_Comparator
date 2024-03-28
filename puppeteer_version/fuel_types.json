@@ -1,0 +1,7 @@
+{
+    "Petrol": ["B","gaz","gasolina"],
+    "Diesel": ["D","diesel","diesel"],
+    "Electric": ["E","electric","electrico"],
+    "Hybrid-Petrol": ["2","hibride-gaz","hibrido"],
+    "Hybrid-Diesel": ["3","hibride-diesel","hibrido"]
+}

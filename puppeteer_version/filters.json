@@ -1,0 +1,14 @@
+{
+  "brand": "mini",
+  "model": "",
+  "fuel": "Petrol",
+  "initial_year": "",
+  "final_year": "2023",
+  "initial_km": "",
+  "final_km": "180000",
+  "initial_power": "",
+  "final_power": "",
+  "power_type": "",
+  "price_from": "5000",
+  "price_to":"25000"
+}
