@@ -39,7 +39,7 @@ def add_search_criteria():
     }
 
     # Save filters to a file named "filters.json"
-    with open('filters.json', 'w') as file:
+    with open('bs3_version/filters.json', 'w') as file:
         json.dump(filters, file, indent=2)
 
     return filters
@@ -69,7 +69,7 @@ def main():
             print("Search criteria added:", filters)
         elif choice == '2':
             # Read the content of the JSON file
-            with open('filters.json', 'r') as file:
+            with open('bs3_version/filters.json', 'r') as file:
                 filters = json.load(file)
             print(filters)
             scrape_car_info(filters)

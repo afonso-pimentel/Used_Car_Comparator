@@ -1,0 +1,6946 @@
+[
+  {
+    "brand": "MINI",
+    "name": "MINI Cooper S",
+    "price": {
+      "value": 14000,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-cooper-s-ID8PBv3E.html",
+    "address": {
+      "streetAddress": "Azeit\u00e3o (S\u00e3o Louren\u00e7o e S\u00e3o Sim\u00e3o), concelho Set\u00fabal"
+    },
+    "car_details": {
+      "name": "MINI Cooper S",
+      "manufacturer": "MINI",
+      "model": "Cooper",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 159000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Alfa Romeo",
+    "name": "Alfa Romeo MiTo 1.4 T MultiAir Quadrifloglio Verde",
+    "price": {
+      "value": 13900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/alfa-romeo-mito-1-4-t-multiair-quadrifloglio-verde-ID8PCzA5.html",
+    "address": {
+      "streetAddress": "Porto Salvo, concelho Oeiras"
+    },
+    "car_details": {
+      "name": "Alfa Romeo MiTo 1.4 T MultiAir Quadrifloglio Verde",
+      "manufacturer": "Alfa Romeo",
+      "model": "MiTo",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 16000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 170,
+        "engineDisplacement": 1368,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI John Cooper Works Standard",
+    "price": {
+      "value": 10500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-john-cooper-works-standard-ID8PCfz4.html",
+    "address": {
+      "streetAddress": "Amarante (S\u00e3o Gon\u00e7alo), Madalena, Cepelos e Gat\u00e3o, concelho Amarante"
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works Standard",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 154800,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 165,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot 208 1.6 THP GTi",
+    "price": {
+      "value": 13500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-208-1-6-thp-gti-ID8PDuO8.html",
+    "address": {
+      "streetAddress": "Gondomar (S\u00e3o Cosme), Valbom e Jovim, concelho Gondomar"
+    },
+    "car_details": {
+      "name": "Peugeot 208 1.6 THP GTi",
+      "manufacturer": "Peugeot",
+      "model": "208",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 103000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Honda",
+    "name": "Honda Civic 2.0 Type-R",
+    "price": {
+      "value": 19900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/honda-civic-2-0-type-r-ID8Pw0ti.html",
+    "address": {
+      "streetAddress": "Rua Professor Vitorino Nem\u00e9sio 55 Loja Galiza. - 2765-362 Cascais e Estoril, Cascais (Portugal)"
+    },
+    "car_details": {
+      "name": "Honda Civic 2.0 Type-R",
+      "manufacturer": "Honda",
+      "model": "Civic",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 37008,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 201,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot RCZ 1.6 THP",
+    "price": {
+      "value": 15490,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-rcz-1-6-thp-ID8PA3P5.html",
+    "address": {
+      "streetAddress": "Rua do Brasil 147 - 3030-175 Santo Ant\u00f3nio dos Olivais, concelho Coimbra (Portugal)"
+    },
+    "car_details": {
+      "name": "Peugeot RCZ 1.6 THP",
+      "manufacturer": "Peugeot",
+      "model": "RCZ",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 40800,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 156,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 149,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Renault",
+    "name": "Renault Clio 2.0 16V RS",
+    "price": {
+      "value": 15900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/renault-clio-2-0-16v-rs-ID8PAJfP.html",
+    "address": {
+      "streetAddress": "Atendimento por marca\u00e7\u00e3o - por favor contactar - 4435 Ermesinde, concelho Valongo (Portugal)"
+    },
+    "car_details": {
+      "name": "Renault Clio 2.0 16V RS",
+      "manufacturer": "Renault",
+      "model": "Clio",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 166551,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot 308 CC 1.6 THP 16V Sport",
+    "price": {
+      "value": 10990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-308-cc-1-6-thp-16v-sport-ID8PBBiE.html",
+    "address": {
+      "streetAddress": "Rua Dr. Oliveira Lobo , 623 - 4435-358 Rio Tinto, concelho Gondomar (Portugal)"
+    },
+    "car_details": {
+      "name": "Peugeot 308 CC 1.6 THP 16V Sport",
+      "manufacturer": "Peugeot",
+      "model": "308 CC",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 131000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 156,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 167,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot RCZ 1.6 THP",
+    "price": {
+      "value": 13990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-rcz-1-6-thp-ID8PAR5m.html",
+    "address": {
+      "streetAddress": "Rua Jo\u00e3o de Carape\u00e7os n\u00b0610 - 4750-380 Carape\u00e7os, concelho Barcelos (Portugal)"
+    },
+    "car_details": {
+      "name": "Peugeot RCZ 1.6 THP",
+      "manufacturer": "Peugeot",
+      "model": "RCZ",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 150000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 156,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 149,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Countryman Cooper S Auto",
+    "price": {
+      "value": 16500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-countryman-cooper-s-auto-ID8PyNs6.html",
+    "address": {
+      "streetAddress": "Av. da Cocanha - 5400-570 Chaves, concelho Chaves (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI Countryman Cooper S Auto",
+      "manufacturer": "MINI",
+      "model": "Countryman",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 85804,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 166,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi A5 2.0 TFSI S-line",
+    "price": {
+      "value": 16990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-a5-2-0-tfsi-s-line-ID8PzCy9.html",
+    "address": {
+      "streetAddress": "Zona Industrial de Mund\u00e3o - Rua da Lameira - 3505-614 Viseu, concelho Viseu (Portugal)"
+    },
+    "car_details": {
+      "name": "Audi A5 2.0 TFSI S-line",
+      "manufacturer": "Audi",
+      "model": "A5",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 129000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Citro\u00ebn",
+    "name": "Citro\u00ebn DS3 1.6 THP Racing",
+    "price": {
+      "value": 17500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/citron-ds3-1-6-thp-racing-ID8PzaDp.html",
+    "address": {
+      "streetAddress": "EN 109 - Rua Don Antonio Dos Santos N\u00ba15 - 3840-507 Vagos e Santo Ant\u00f3nio, concelho Vagos (Portugal)"
+    },
+    "car_details": {
+      "name": "Citro\u00ebn DS3 1.6 THP Racing",
+      "manufacturer": "Citro\u00ebn",
+      "model": "DS3",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 119000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 207,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Paceman Cooper S ALL4",
+    "price": {
+      "value": 20990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-paceman-cooper-s-all4-ID8PBlxn.html",
+    "address": {
+      "streetAddress": "Montijo, Portugal - 2860-317 Moita, concelho Moita (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI Paceman Cooper S ALL4",
+      "manufacturer": "MINI",
+      "model": "Paceman",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 117000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 157,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Cooper S",
+    "price": {
+      "value": 21990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-cooper-s-ID8PxnrI.html",
+    "address": {
+      "streetAddress": "Arroios, concelho Lisboa"
+    },
+    "car_details": {
+      "name": "MINI Cooper S",
+      "manufacturer": "MINI",
+      "model": "Cooper",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 130000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 136,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "SEAT",
+    "name": "SEAT Ibiza SC 1.4 TSI Cupra DSG",
+    "price": {
+      "value": 14750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/seat-ibiza-sc-1-4-tsi-cupra-dsg-ID8PygGl.html",
+    "address": {
+      "streetAddress": "Rua das Marinhas do Tejo N\u00ba109 (Est. Nacional 10) - 2690-368 Santa Iria de Azoia, S\u00e3o Jo\u00e3o da Talha e Bobadela, concelho Loures (Portugal)"
+    },
+    "car_details": {
+      "name": "SEAT Ibiza SC 1.4 TSI Cupra DSG",
+      "manufacturer": "SEAT",
+      "model": "Ibiza",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 121000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 180,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi TT Roadster 2.0 TFSi",
+    "price": {
+      "value": 18750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-tt-roadster-2-0-tfsi-ID8PxCz2.html",
+    "address": {
+      "streetAddress": "Rua Sofia Carvalho N28A - 1495-121 Alg\u00e9s, Linda-A-Velha e Cruz Quebrada-Dafundo, concelho Oeiras (Portugal)"
+    },
+    "car_details": {
+      "name": "Audi TT Roadster 2.0 TFSi",
+      "manufacturer": "Audi",
+      "model": "TT Roadster",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 76000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 183,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot RCZ 1.6 THP",
+    "price": {
+      "value": 13750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-rcz-1-6-thp-ID8PCTcZ.html",
+    "address": {
+      "streetAddress": "Rua Em\u00eddio Oliveira Faria - 2425-879 Souto da Carpalhosa e Ortigosa, concelho Leiria (Portugal)"
+    },
+    "car_details": {
+      "name": "Peugeot RCZ 1.6 THP",
+      "manufacturer": "Peugeot",
+      "model": "RCZ",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 127000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 156,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Scirocco 2.0 TSI R DSG",
+    "price": {
+      "value": 23990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-scirocco-2-0-tsi-r-dsg-ID8PA6Ok.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 1, 52 - 3105-296 Pelariga, concelho Pombal (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Scirocco 2.0 TSI R DSG",
+      "manufacturer": "VW",
+      "model": "Scirocco",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 150000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 265,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTI",
+    "price": {
+      "value": 16750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-ID8PDhVt.html",
+    "address": {
+      "streetAddress": "Via S\u00e3o Jo\u00e3o da ribeira 3768 - 4990-388 Ribeira, concelho Ponte de Lima (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTI",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 160000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 210,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTI",
+    "price": {
+      "value": 16750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-ID8PDhVD.html",
+    "address": {
+      "streetAddress": "Via S\u00e3o Jo\u00e3o da ribeira 3768 - 4990-388 Ribeira, concelho Ponte de Lima (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTI",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 178000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 210,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf",
+    "price": {
+      "value": 22500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-ID8PCrWF.html",
+    "address": {
+      "streetAddress": "Rua Encarna\u00e7\u00e3o Coelho N\u00ba 1 Quinta das Rebelas  - 2830-222 Barreiro e Lavradio, Barreiro (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 170524,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 230,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Tiguan 1.4 TSI Sport",
+    "price": {
+      "value": 10490,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-tiguan-1-4-tsi-sport-ID8PwsCo.html",
+    "address": {
+      "streetAddress": "Rua Jos\u00e9 Est\u00eav\u00e3o Coelho Magalh\u00e3es, Feijo N12A - 2810-100 Laranjeiro e Feij\u00f3, concelho Almada (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Tiguan 1.4 TSI Sport",
+      "manufacturer": "VW",
+      "model": "Tiguan",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 148000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 150,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz CLA 200 Urban",
+    "price": {
+      "value": 20500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mercedes-benz-cla-200-urban-ID8PDfKk.html",
+    "address": {
+      "streetAddress": "N205 33 - 4730-051 Cerv\u00e3es, concelho Vila Verde (Portugal)"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz CLA 200 Urban",
+      "manufacturer": "Mercedes-Benz",
+      "model": "CLA 200",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 107000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 156,
+        "engineDisplacement": 1595,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi A5 Cabrio 2.0 TFSi S-line Multitronic",
+    "price": {
+      "value": 18500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-a5-cabrio-2-0-tfsi-s-line-multitronic-ID8Py1YP.html",
+    "address": {
+      "streetAddress": "Praceta Palmira Bastos 19, Forte da Casa, \u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b - 2625-481 P\u00f3voa de Santa Iria e Forte da Casa, concelho Vila Franca de Xira (Portugal)"
+    },
+    "car_details": {
+      "name": "Audi A5 Cabrio 2.0 TFSi S-line Multitronic",
+      "manufacturer": "Audi",
+      "model": "A5 Cabrio",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 161000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 180,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "DS",
+    "name": "DS DS3 THP 155 SportChic",
+    "price": {
+      "value": 10500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/ds-ds3-thp-155-sportchic-ID8Ps4wK.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 10 - Lote\u00ba171 - 2975-403 Quinta do Conde, concelho Sesimbra (Portugal)"
+    },
+    "car_details": {
+      "name": "DS DS3 THP 155 SportChic",
+      "manufacturer": "DS",
+      "model": "DS3",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 178451,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 156,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTi DSG Performance",
+    "price": {
+      "value": 23990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-dsg-performance-ID8PzMsD.html",
+    "address": {
+      "streetAddress": "Rua Lu\u00eds Vaz de Cam\u00f5es 6A, Portugal - 2650-197 Encosta do Sol, concelho Amadora (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTi DSG Performance",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 123500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 230,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 147,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI John Cooper Works",
+    "price": {
+      "value": 13990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-john-cooper-works-ID8PxrRH.html",
+    "address": {
+      "streetAddress": "Rua Hern\u00e2ni Cidade 5 Armaz\u00e9m F - 2820-653 Charneca de Caparica e Sobreda, concelho Almada (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 154000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Renault",
+    "name": "Renault M\u00e9gane Coupe 2.0 T RS 174g",
+    "price": {
+      "value": 20990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/renault-mgane-coupe-2-0-t-rs-174g-ID8PtfUv.html",
+    "address": {
+      "streetAddress": "Travessa S. Jos\u00e9 n\u00ba 28 - 4580-120 Paredes, concelho Paredes (Portugal)"
+    },
+    "car_details": {
+      "name": "Renault M\u00e9gane Coupe 2.0 T RS 174g",
+      "manufacturer": "Renault",
+      "model": "M\u00e9gane Coupe",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 90000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 265,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Countryman Cooper S",
+    "price": {
+      "value": 13950,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-countryman-cooper-s-ID8PCFyU.html",
+    "address": {
+      "streetAddress": "Rua Elias Garcia - N\u00ba11 - 2700-310 Venteira, concelho Amadora (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI Countryman Cooper S",
+      "manufacturer": "MINI",
+      "model": "Countryman",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 120000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 143,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot RCZ 1.6 200 THP GT-Line",
+    "price": {
+      "value": 15900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-rcz-1-6-200-thp-gt-line-ID8PBluk.html",
+    "address": {
+      "streetAddress": "Rua da Estrada Nacional, n\u00ba2212. Barqueiros - 4740-694 Barqueiros, concelho Barcelos (Portugal)"
+    },
+    "car_details": {
+      "name": "Peugeot RCZ 1.6 200 THP GT-Line",
+      "manufacturer": "Peugeot",
+      "model": "RCZ",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 126985,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "SEAT",
+    "name": "SEAT Ibiza SC 1.4 TSI Cupra DSG",
+    "price": {
+      "value": 16500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/seat-ibiza-sc-1-4-tsi-cupra-dsg-ID8PDDSp.html",
+    "address": {
+      "streetAddress": "Leiria, Portugal - 2400 Leiria, concelho Leiria (Portugal)"
+    },
+    "car_details": {
+      "name": "SEAT Ibiza SC 1.4 TSI Cupra DSG",
+      "manufacturer": "SEAT",
+      "model": "Ibiza",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 130000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 180,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi TT Roadster 2.0 TFSi",
+    "price": {
+      "value": 14950,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-tt-roadster-2-0-tfsi-ID8Ph7aI.html",
+    "address": {
+      "streetAddress": "Av\u00aa Principal da Serra, n\u00ba 119 - 4575-177 Canelas, concelho Penafiel (Portugal)"
+    },
+    "car_details": {
+      "name": "Audi TT Roadster 2.0 TFSi",
+      "manufacturer": "Audi",
+      "model": "TT Roadster",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 156100,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 186,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Opel",
+    "name": "Opel Corsa OPC 1.6 T",
+    "price": {
+      "value": 11900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/opel-corsa-opc-1-6-t-ID8Pwexe.html",
+    "address": {
+      "streetAddress": "Av. Dra. Assun\u00e7\u00e3o Vasconcelos Chaves, 310 - 4700-010 Real, Dume e Semelhe, concelho Braga (Portugal)"
+    },
+    "car_details": {
+      "name": "Opel Corsa OPC 1.6 T",
+      "manufacturer": "Opel",
+      "model": "Corsa",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 180000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 192,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 172,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTI EDITION 35 DSG",
+    "price": {
+      "value": 21990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-edition-35-dsg-ID8PDwQW.html",
+    "address": {
+      "streetAddress": "Rua do Fujacal n\u00ba97 - 4705-102 Braga (S\u00e3o Jos\u00e9 de S\u00e3o L\u00e1zaro e S\u00e3o Jo\u00e3o do Souto), concelho Braga (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTI EDITION 35 DSG",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 160000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 235,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI John Cooper Works Standard",
+    "price": {
+      "value": 14950,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-john-cooper-works-standard-ID8PDE6z.html",
+    "address": {
+      "streetAddress": "Rua Pedro Hispano, 985 - 4250-368 Porto, concelho Porto (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works Standard",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 150000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 165,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Abarth",
+    "name": "Abarth 500 1.4 T-Jet Essesse",
+    "price": {
+      "value": 13990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/abarth-500-1-4-t-jet-essesse-ID8PyIMD.html",
+    "address": {
+      "streetAddress": "Rua da Estrada Nacional, n\u00ba2212. Barqueiros - 4740-694 Barqueiros, concelho Barcelos (Portugal)"
+    },
+    "car_details": {
+      "name": "Abarth 500 1.4 T-Jet Essesse",
+      "manufacturer": "Abarth",
+      "model": "500",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 108965,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 160,
+        "engineDisplacement": 1368,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Scirocco 1.4 TSI R-Line",
+    "price": {
+      "value": 11800,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-scirocco-1-4-tsi-r-line-ID8PBHcR.html",
+    "address": {
+      "streetAddress": "Encarna\u00e7\u00e3o, concelho Mafra"
+    },
+    "car_details": {
+      "name": "VW Scirocco 1.4 TSI R-Line",
+      "manufacturer": "VW",
+      "model": "Scirocco",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 101500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 160,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 154,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTI DSG",
+    "price": {
+      "value": 17500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-dsg-ID8PxLld.html",
+    "address": {
+      "streetAddress": "Aver-O-Mar, Amorim e Terroso, concelho P\u00f3voa de Varzim"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTI DSG",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 143000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 210,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Cooper S",
+    "price": {
+      "value": 14000,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-cooper-s-ID8PBv3E.html",
+    "address": {
+      "streetAddress": "Azeit\u00e3o (S\u00e3o Louren\u00e7o e S\u00e3o Sim\u00e3o), concelho Set\u00fabal"
+    },
+    "car_details": {
+      "name": "MINI Cooper S",
+      "manufacturer": "MINI",
+      "model": "Cooper",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 159000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI John Cooper Works Standard",
+    "price": {
+      "value": 10500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-john-cooper-works-standard-ID8PCfz4.html",
+    "address": {
+      "streetAddress": "Amarante (S\u00e3o Gon\u00e7alo), Madalena, Cepelos e Gat\u00e3o, concelho Amarante"
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works Standard",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 154800,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 165,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi TT Coup\u00e9 2.0 TFSI S-line",
+    "price": {
+      "value": 17990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-tt-coup-2-0-tfsi-s-line-ID8PxnsW.html",
+    "address": {
+      "streetAddress": "Rua da Estrada Nacional, n\u00ba2212. Barqueiros - 4740-694 Barqueiros, concelho Barcelos (Portugal)"
+    },
+    "car_details": {
+      "name": "Audi TT Coup\u00e9 2.0 TFSI S-line",
+      "manufacturer": "Audi",
+      "model": "TT Coup\u00e9",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 169520,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi A5 Cabrio 1.8 TFSi S-line",
+    "price": {
+      "value": 18900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-a5-cabrio-1-8-tfsi-s-line-ID8Px2Zj.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 10-1,  N\u00ba33, Sobreda (Almada) - 2815-785 Charneca de Caparica e Sobreda, Almada (Portugal)"
+    },
+    "car_details": {
+      "name": "Audi A5 Cabrio 1.8 TFSi S-line",
+      "manufacturer": "Audi",
+      "model": "A5 Cabrio",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 135902,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 170,
+        "engineDisplacement": 1798,
+        "emissionsCO2": 143,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi TT Coup\u00e9 2.0 TFSI",
+    "price": {
+      "value": 17900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-tt-coup-2-0-tfsi-ID8PBz7U.html",
+    "address": {
+      "streetAddress": "Av. 25 de Abril, 1011, Loja 54 e Garagem . - 2750-515 Cascais e Estoril, concelho Cascais (Portugal)"
+    },
+    "car_details": {
+      "name": "Audi TT Coup\u00e9 2.0 TFSI",
+      "manufacturer": "Audi",
+      "model": "TT Coup\u00e9",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 83500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 183,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "SEAT",
+    "name": "SEAT Leon 2.0 T FSI FR",
+    "price": {
+      "value": 13990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/seat-leon-2-0-t-fsi-fr-ID8PBcpK.html",
+    "address": {
+      "streetAddress": "Avenida central de broalhos N\u00b01428 - 4415-041 Gondomar, concelho Gondomar (Portugal)"
+    },
+    "car_details": {
+      "name": "SEAT Leon 2.0 T FSI FR",
+      "manufacturer": "SEAT",
+      "model": "Leon",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 176000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot 208 1.6 THP Allure",
+    "price": {
+      "value": 13250,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-208-1-6-thp-allure-ID8PAJFZ.html",
+    "address": {
+      "streetAddress": "Rua Bertufe 24 - 3880-569 V\u00e1lega, concelho Ovar (Portugal)"
+    },
+    "car_details": {
+      "name": "Peugeot 208 1.6 THP Allure",
+      "manufacturer": "Peugeot",
+      "model": "208",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 139500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 156,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 135,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTI DSG",
+    "price": {
+      "value": 17950,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-dsg-ID8PuU9e.html",
+    "address": {
+      "streetAddress": "Cal\u00e7ada 5 de Outubro 2 - 2730-048 Barcarena, concelho Oeiras (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTI DSG",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 124000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 210,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 173,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz C 250 CGi BE",
+    "price": {
+      "value": 23990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mercedes-benz-c-250-cgi-be-ID8PCZTD.html",
+    "address": {
+      "streetAddress": "Rua Padre Ramiro das Neves - 4590-614 Pa\u00e7os de Ferreira, concelho Pa\u00e7os de Ferreira (Portugal)"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz C 250 CGi BE",
+      "manufacturer": "Mercedes-Benz",
+      "model": "C 250",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 125000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 204,
+        "engineDisplacement": 1796,
+        "emissionsCO2": 158,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Tiguan 1.4 TSI Trend",
+    "price": {
+      "value": 12750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-tiguan-1-4-tsi-trend-ID8Px5kx.html",
+    "address": {
+      "streetAddress": "Rua das Marinhas do Tejo N\u00ba109 (Est. Nacional 10) - 2690-368 Santa Iria de Azoia, S\u00e3o Jo\u00e3o da Talha e Bobadela, concelho Loures (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Tiguan 1.4 TSI Trend",
+      "manufacturer": "VW",
+      "model": "Tiguan",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 149000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 150,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Cadillac",
+    "name": "Cadillac SRX 3.6 V6 Elegance Plus",
+    "price": {
+      "value": 18900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/cadillac-srx-3-6-v6-elegance-plus-ID8PARU3.html",
+    "address": {
+      "streetAddress": "Rua das Marinhas do Tejo N\u00ba109 (Est. Nacional 10) - 2690-368 Santa Iria de Azoia, S\u00e3o Jo\u00e3o da Talha e Bobadela, concelho Loures (Portugal)"
+    },
+    "car_details": {
+      "name": "Cadillac SRX 3.6 V6 Elegance Plus",
+      "manufacturer": "Cadillac",
+      "model": "SRX",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 167000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 258,
+        "engineDisplacement": 3564,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI John Cooper Works Standard",
+    "price": {
+      "value": 10500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-john-cooper-works-standard-ID8PCfz4.html",
+    "address": {
+      "streetAddress": "Amarante (S\u00e3o Gon\u00e7alo), Madalena, Cepelos e Gat\u00e3o, concelho Amarante"
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works Standard",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 154800,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 165,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "SEAT",
+    "name": "SEAT Ibiza ST 1.4 TSi FR DSG",
+    "price": {
+      "value": 12490,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/seat-ibiza-st-1-4-tsi-fr-dsg-ID8PDAxO.html",
+    "address": {
+      "streetAddress": "G\u00e2mbia-Pontes-Alto Guerra, concelho Set\u00fabal"
+    },
+    "car_details": {
+      "name": "SEAT Ibiza ST 1.4 TSi FR DSG",
+      "manufacturer": "SEAT",
+      "model": "Ibiza ST",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 137000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 150,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Scirocco 1.4 TSI Sport",
+    "price": {
+      "value": 9900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-scirocco-1-4-tsi-sport-ID8PDwqo.html",
+    "address": {
+      "streetAddress": "Rua Augusto Sim\u00f5es 259 - 4470-147 Cidade da Maia, concelho Maia (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Scirocco 1.4 TSI Sport",
+      "manufacturer": "VW",
+      "model": "Scirocco",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 178900,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 160,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 154,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz SLK 200 Standard",
+    "price": {
+      "value": 24500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mercedes-benz-slk-200-standard-ID8PDwxN.html",
+    "address": {
+      "streetAddress": "Est. Sao joao da Carreira, 902 - 3505-564 Rio de Loba, concelho Viseu (Portugal)"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz SLK 200 Standard",
+      "manufacturer": "Mercedes-Benz",
+      "model": "SLK 200",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 149000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1991,
+        "emissionsCO2": 150,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Cooper S",
+    "price": {
+      "value": 15900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-cooper-s-ID8Py0oQ.html",
+    "address": {
+      "streetAddress": "Rua D. Pedro V-Armaz\u00e9m 1-Pirescoxe - 2695-373 Santa Iria de Azoia, S\u00e3o Jo\u00e3o da Talha e Bobadela, concelho Loures (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI Cooper S",
+      "manufacturer": "MINI",
+      "model": "Cooper",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 110991,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTi Performance",
+    "price": {
+      "value": 22900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-performance-ID8Pm3ke.html",
+    "address": {
+      "streetAddress": "Rua do Campo de Futebol, 10 Stand - 2785-609 S\u00e3o Domingos de Rana, concelho Cascais (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTi Performance",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 139000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 230,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Abarth",
+    "name": "Abarth 500 1.4 T-Jet Essesse",
+    "price": {
+      "value": 14890,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/abarth-500-1-4-t-jet-essesse-ID8PxhhT.html",
+    "address": {
+      "streetAddress": "Rua Primeiro de Maio n727 - 4445-242 Alfena, concelho Valongo (Portugal)"
+    },
+    "car_details": {
+      "name": "Abarth 500 1.4 T-Jet Essesse",
+      "manufacturer": "Abarth",
+      "model": "500",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 150000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 160,
+        "engineDisplacement": 1368,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Abarth",
+    "name": "Abarth Grande Punto 1.4 T-Jet 16V",
+    "price": {
+      "value": 10990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/abarth-grande-punto-1-4-t-jet-16v-ID8Pz2WK.html",
+    "address": {
+      "streetAddress": "Rua Primeiro de Maio n727 - 4445-242 Alfena, concelho Valongo (Portugal)"
+    },
+    "car_details": {
+      "name": "Abarth Grande Punto 1.4 T-Jet 16V",
+      "manufacturer": "Abarth",
+      "model": "Grande Punto",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 151000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 155,
+        "engineDisplacement": 1368,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Citro\u00ebn",
+    "name": "Citro\u00ebn DS3 1.6 THP Racing",
+    "price": {
+      "value": 16950,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/citron-ds3-1-6-thp-racing-ID8PwLN3.html",
+    "address": {
+      "streetAddress": "Rua Ernesto Gon\u00e7alves, 1043 ( EN1) - 4415-933 Pedroso e Seixezelo, concelho Vila Nova de Gaia (Portugal)"
+    },
+    "car_details": {
+      "name": "Citro\u00ebn DS3 1.6 THP Racing",
+      "manufacturer": "Citro\u00ebn",
+      "model": "DS3",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 95953,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 207,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 149,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi Q7 3.0 V6 FSi quattro S-line Tiptronic",
+    "price": {
+      "value": 17400,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-q7-3-0-v6-fsi-quattro-s-line-tiptronic-ID8PCn1k.html",
+    "address": {
+      "streetAddress": "Bel\u00e9m, concelho Lisboa"
+    },
+    "car_details": {
+      "name": "Audi Q7 3.0 V6 FSi quattro S-line Tiptronic",
+      "manufacturer": "Audi",
+      "model": "Q7",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 103000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 272,
+        "engineDisplacement": 2995,
+        "emissionsCO2": 249,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Abarth",
+    "name": "Abarth Grande Punto 1.4 T-Jet",
+    "price": {
+      "value": 12990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/abarth-grande-punto-1-4-t-jet-ID8PsthO.html",
+    "address": {
+      "streetAddress": "Rua Tavares Belo 14A - 1750-253 Lumiar, concelho Lisboa (Portugal)"
+    },
+    "car_details": {
+      "name": "Abarth Grande Punto 1.4 T-Jet",
+      "manufacturer": "Abarth",
+      "model": "Grande Punto",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 130000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 155,
+        "engineDisplacement": 1368,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTI DSG",
+    "price": {
+      "value": 17500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-dsg-ID8PxLld.html",
+    "address": {
+      "streetAddress": "Aver-O-Mar, Amorim e Terroso, concelho P\u00f3voa de Varzim"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTI DSG",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 143000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 210,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi A4 Cabrio 2.0 TFSi Exclusive Multi.",
+    "price": {
+      "value": 15950,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-a4-cabrio-2-0-tfsi-exclusive-multi-ID8PxLej.html",
+    "address": {
+      "streetAddress": "ESTRADA NACIONAL 125 APARTADO 400T-GUIA - 8200-429 Guia, concelho Albufeira (Portugal)"
+    },
+    "car_details": {
+      "name": "Audi A4 Cabrio 2.0 TFSi Exclusive Multi.",
+      "manufacturer": "Audi",
+      "model": "A4 Cabrio",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 107296,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz SLK 200 (BlueEFFICIENCY)",
+    "price": {
+      "value": 23900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mercedes-benz-slk-200-blueefficiency-ID8PAUAY.html",
+    "address": {
+      "streetAddress": "Rua Ramalho Ortigao n.20A - 1070-230 L Avenidas Novas, concelho Lisboa (Portugal)"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz SLK 200 (BlueEFFICIENCY)",
+      "manufacturer": "Mercedes-Benz",
+      "model": "SLK 200",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 147390,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1796,
+        "emissionsCO2": 149,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Clubman Cooper S Auto",
+    "price": {
+      "value": 10790,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-clubman-cooper-s-auto-ID8PBgo4.html",
+    "address": {
+      "streetAddress": "Rua de Santa Eulalia n1971 - 4800-098 Ferment\u00f5es, concelho Guimar\u00e3es (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI Clubman Cooper S Auto",
+      "manufacturer": "MINI",
+      "model": "Clubman",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 169000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 175,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Citro\u00ebn",
+    "name": "Citro\u00ebn DS3 1.6 THP Racing",
+    "price": {
+      "value": 13990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/citron-ds3-1-6-thp-racing-ID8Pnlcm.html",
+    "address": {
+      "streetAddress": "Rua do Brasil 147 - 3030-175 Santo Ant\u00f3nio dos Olivais, concelho Coimbra (Portugal)"
+    },
+    "car_details": {
+      "name": "Citro\u00ebn DS3 1.6 THP Racing",
+      "manufacturer": "Citro\u00ebn",
+      "model": "DS3",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 143000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 202,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Cooper S 50 Camden",
+    "price": {
+      "value": 11749,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-cooper-s-50-camden-ID8PAIRO.html",
+    "address": {
+      "streetAddress": "Rua Junqueira de Baixo, 70 - 4405-870 Mafamude e Vilar do Para\u00edso, concelho Vila Nova de Gaia (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI Cooper S 50 Camden",
+      "manufacturer": "MINI",
+      "model": "Cooper",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 125000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 175,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 149,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot 208 1.6 THP GTi",
+    "price": {
+      "value": 15970,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-208-1-6-thp-gti-ID8PCdS9.html",
+    "address": {
+      "streetAddress": "Rua Luis de Cam\u00f5es S/N - 1685-525 Ramada e Cane\u00e7as, concelho Odivelas (Portugal)"
+    },
+    "car_details": {
+      "name": "Peugeot 208 1.6 THP GTi",
+      "manufacturer": "Peugeot",
+      "model": "208",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 129345,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTi DSG Performance",
+    "price": {
+      "value": 24900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-dsg-performance-ID8PC6sr.html",
+    "address": {
+      "streetAddress": "Rua do Campo de Futebol, 10 Stand - 2785-609 S\u00e3o Domingos de Rana, concelho Cascais (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTi DSG Performance",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 159000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 230,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 147,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi TT Coup\u00e9 1.8 TFSI S-line",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-tt-coup-1-8-tfsi-s-line-ID8PDBX9.html",
+    "address": {
+      "streetAddress": "Rua da Estrada Nacional, n\u00ba2212. Barqueiros - 4740-694 Barqueiros, concelho Barcelos (Portugal)"
+    },
+    "car_details": {
+      "name": "Audi TT Coup\u00e9 1.8 TFSI S-line",
+      "manufacturer": "Audi",
+      "model": "TT Coup\u00e9",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 142850,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 160,
+        "engineDisplacement": 1798,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi TT Coup\u00e9 2.0 TFSI S-line",
+    "price": {
+      "value": 17990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-tt-coup-2-0-tfsi-s-line-ID8PD9Cy.html",
+    "address": {
+      "streetAddress": "Rua da Estrada Nacional, n\u00ba2212. Barqueiros - 4740-694 Barqueiros, concelho Barcelos (Portugal)"
+    },
+    "car_details": {
+      "name": "Audi TT Coup\u00e9 2.0 TFSI S-line",
+      "manufacturer": "Audi",
+      "model": "TT Coup\u00e9",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 166850,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Cooper S Bayswater",
+    "price": {
+      "value": 10900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-cooper-s-bayswater-ID8PAJc1.html",
+    "address": {
+      "streetAddress": "Espinho, concelho Espinho"
+    },
+    "car_details": {
+      "name": "MINI Cooper S Bayswater",
+      "manufacturer": "MINI",
+      "model": "Cooper",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 143039,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 136,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Clubman",
+    "price": {
+      "value": 10290,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-clubman-ID8PBlVJ.html",
+    "address": {
+      "streetAddress": "Parque das Na\u00e7\u00f5es, concelho Lisboa"
+    },
+    "car_details": {
+      "name": "MINI Clubman",
+      "manufacturer": "MINI",
+      "model": "Clubman",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 140000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 175,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 150,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot 208 1.6 THP GTi",
+    "price": {
+      "value": 13500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-208-1-6-thp-gti-ID8PDuO8.html",
+    "address": {
+      "streetAddress": "Gondomar (S\u00e3o Cosme), Valbom e Jovim, concelho Gondomar"
+    },
+    "car_details": {
+      "name": "Peugeot 208 1.6 THP GTi",
+      "manufacturer": "Peugeot",
+      "model": "208",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 103000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "SEAT",
+    "name": "SEAT Ibiza ST 1.4 TSi FR DSG",
+    "price": {
+      "value": 12490,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/seat-ibiza-st-1-4-tsi-fr-dsg-ID8PDAxO.html",
+    "address": {
+      "streetAddress": "G\u00e2mbia-Pontes-Alto Guerra, concelho Set\u00fabal"
+    },
+    "car_details": {
+      "name": "SEAT Ibiza ST 1.4 TSi FR DSG",
+      "manufacturer": "SEAT",
+      "model": "Ibiza ST",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 137000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 150,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Cooper S",
+    "price": {
+      "value": 14000,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-cooper-s-ID8PBv3E.html",
+    "address": {
+      "streetAddress": "Azeit\u00e3o (S\u00e3o Louren\u00e7o e S\u00e3o Sim\u00e3o), concelho Set\u00fabal"
+    },
+    "car_details": {
+      "name": "MINI Cooper S",
+      "manufacturer": "MINI",
+      "model": "Cooper",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 159000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf",
+    "price": {
+      "value": 22500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-ID8PCrWF.html",
+    "address": {
+      "streetAddress": "Rua Encarna\u00e7\u00e3o Coelho N\u00ba 1 Quinta das Rebelas  - 2830-222 Barreiro e Lavradio, Barreiro (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 170524,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 230,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Citro\u00ebn",
+    "name": "Citro\u00ebn DS3 1.6 THP Sport Chic",
+    "price": {
+      "value": 11990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/citron-ds3-1-6-thp-sport-chic-ID8PAdwq.html",
+    "address": {
+      "streetAddress": "EN1 IC2 - Matos da Ranha - 3100-362 Meirinhas, Pombal (Portugal)"
+    },
+    "car_details": {
+      "name": "Citro\u00ebn DS3 1.6 THP Sport Chic",
+      "manufacturer": "Citro\u00ebn",
+      "model": "DS3",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 155746,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 155,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Cabrio Cooper S",
+    "price": {
+      "value": 14500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-cabrio-cooper-s-ID8PA6Rw.html",
+    "address": {
+      "streetAddress": "Arroios, concelho Lisboa"
+    },
+    "car_details": {
+      "name": "MINI Cabrio Cooper S",
+      "manufacturer": "MINI",
+      "model": "Cabrio",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 159000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi TTS Coup\u00e9 2.0 TFSi quattro S Tronic",
+    "price": {
+      "value": 24990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-tts-coup-2-0-tfsi-quattro-s-tronic-ID8PCj2v.html",
+    "address": {
+      "streetAddress": "Lisboa, concelho Lisboa"
+    },
+    "car_details": {
+      "name": "Audi TTS Coup\u00e9 2.0 TFSi quattro S Tronic",
+      "manufacturer": "Audi",
+      "model": "TTS Coup\u00e9",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 88000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 272,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 179,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Abarth",
+    "name": "Abarth 595 1.4 T-Jet Turismo",
+    "price": {
+      "value": 14990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/abarth-595-1-4-t-jet-turismo-ID8PD9nz.html",
+    "address": {
+      "streetAddress": "Mazedo e Cortes, concelho Mon\u00e7\u00e3o"
+    },
+    "car_details": {
+      "name": "Abarth 595 1.4 T-Jet Turismo",
+      "manufacturer": "Abarth",
+      "model": "595",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 143792,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 165,
+        "engineDisplacement": 1368,
+        "emissionsCO2": 153,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Ford",
+    "name": "Ford Fiesta 1.6 T ST",
+    "price": {
+      "value": 14990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/ford-fiesta-1-6-t-st-ID8PDAr2.html",
+    "address": {
+      "streetAddress": "Rua Dr. Oliveira Lobo , 623 - 4435-358 Rio Tinto, concelho Gondomar (Portugal)"
+    },
+    "car_details": {
+      "name": "Ford Fiesta 1.6 T ST",
+      "manufacturer": "Ford",
+      "model": "Fiesta",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 171000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 182,
+        "engineDisplacement": 1596,
+        "emissionsCO2": 138,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI John Cooper Works Standard",
+    "price": {
+      "value": 13990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-john-cooper-works-standard-ID8PyqRR.html",
+    "address": {
+      "streetAddress": "Avenida Aquilino Ribeiro N\u00ba 8A, Massam\u00e1, Portugal - 2745-722 Massam\u00e1 e Monte Abra\u00e3o, concelho Sintra (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works Standard",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 105000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Cooper",
+    "price": {
+      "value": 23950,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-cooper-ID8Pz4FJ.html",
+    "address": {
+      "streetAddress": "Rua Francisco S\u00e1 Carneiro n\u00ba10 loja A e B - 2725 Algueir\u00e3o-Mem Martins, Sintra (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI Cooper",
+      "manufacturer": "MINI",
+      "model": "Cooper",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 160510,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Citro\u00ebn",
+    "name": "Citro\u00ebn DS3 1.6 THP Sport Chic",
+    "price": {
+      "value": 12450,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/citron-ds3-1-6-thp-sport-chic-ID8PxBR3.html",
+    "address": {
+      "streetAddress": "Rua Conselheiro Lu\u00eds Magalh\u00e3es n 911, 4470-616 Mai - 4470-616 Moreira, concelho Maia (Portugal)"
+    },
+    "car_details": {
+      "name": "Citro\u00ebn DS3 1.6 THP Sport Chic",
+      "manufacturer": "Citro\u00ebn",
+      "model": "DS3",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 110000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 155,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW X1 28 i xDrive Auto Line Sport",
+    "price": {
+      "value": 23990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/bmw-x1-28-i-xdrive-auto-line-sport-ID8Pz1a8.html",
+    "address": {
+      "streetAddress": "Av. Tom\u00e1s Ribeiro, 43 2\u00baE - 2790-221 Carnaxide e Queijas, concelho Oeiras (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW X1 28 i xDrive Auto Line Sport",
+      "manufacturer": "BMW",
+      "model": "X1",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 71500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 245,
+        "engineDisplacement": 1997,
+        "emissionsCO2": 171,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot 208 1.6 THP GTi",
+    "price": {
+      "value": 13490,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-208-1-6-thp-gti-ID8PCjtw.html",
+    "address": {
+      "streetAddress": "Rua Dr. Oliveira Lobo , 623 - 4435-358 Rio Tinto, concelho Gondomar (Portugal)"
+    },
+    "car_details": {
+      "name": "Peugeot 208 1.6 THP GTi",
+      "manufacturer": "Peugeot",
+      "model": "208",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 140000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Cooper S",
+    "price": {
+      "value": 10990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-cooper-s-ID8PCjAr.html",
+    "address": {
+      "streetAddress": "Rua Dr. Oliveira Lobo , 623 - 4435-358 Rio Tinto, concelho Gondomar (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI Cooper S",
+      "manufacturer": "MINI",
+      "model": "Cooper",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 174000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 175,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 149,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot 208 1.6 THP GTi",
+    "price": {
+      "value": 13500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-208-1-6-thp-gti-ID8PDuO8.html",
+    "address": {
+      "streetAddress": "Gondomar (S\u00e3o Cosme), Valbom e Jovim, concelho Gondomar"
+    },
+    "car_details": {
+      "name": "Peugeot 208 1.6 THP GTi",
+      "manufacturer": "Peugeot",
+      "model": "208",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 103000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 R DSG",
+    "price": {
+      "value": 19999,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-r-dsg-ID8PApab.html",
+    "address": {
+      "streetAddress": "Lisboa - 1990-233 L Parque das Na\u00e7\u00f5es, concelho Lisboa (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 R DSG",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 174000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 270,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Abarth",
+    "name": "Abarth 595C Turismo",
+    "price": {
+      "value": 15700,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/abarth-595c-turismo-ID8PCS8w.html",
+    "address": {
+      "streetAddress": "Tagilde e Vizela (S\u00e3o Paio), concelho Vizela"
+    },
+    "car_details": {
+      "name": "Abarth 595C Turismo",
+      "manufacturer": "Abarth",
+      "model": "595C",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 115000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 160,
+        "engineDisplacement": 1368,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz CLK 200 K Avantgarde",
+    "price": {
+      "value": 16900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mercedes-benz-clk-200-k-avantgarde-ID8PwwRf.html",
+    "address": {
+      "streetAddress": "Av. Dr. Moreira Sousa 3905, Pedroso, Portugal - 4415-386 Pedroso e Seixezelo, concelho Vila Nova de Gaia (Portugal)"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz CLK 200 K Avantgarde",
+      "manufacturer": "Mercedes-Benz",
+      "model": "CLK 200",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 126405,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1796,
+        "emissionsCO2": 212,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTi Performance",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-performance-ID8PDC2N.html",
+    "address": {
+      "streetAddress": "rua do areeiro - 2665-309 Milharado, concelho Mafra (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTi Performance",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 136000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 230,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 148,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz SLK 200 K",
+    "price": {
+      "value": 22750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mercedes-benz-slk-200-k-ID8PDlgt.html",
+    "address": {
+      "streetAddress": "Hipermercado Continente Amadora. Parque exterior, - 2724-510 Alfragide, concelho Amadora (Portugal)"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz SLK 200 K",
+      "manufacturer": "Mercedes-Benz",
+      "model": "SLK 200",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 54000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 183,
+        "engineDisplacement": 1796,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI John Cooper Works",
+    "price": {
+      "value": 23350,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-john-cooper-works-ID8PBYpw.html",
+    "address": {
+      "streetAddress": "Coimbra (S\u00e9 Nova, Santa Cruz, Almedina e S\u00e3o Bartolomeu), concelho Coimbra"
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 80000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 218,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 157,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot RCZ 1.6 200 THP GT-Line",
+    "price": {
+      "value": 15990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-rcz-1-6-200-thp-gt-line-ID8PDl97.html",
+    "address": {
+      "streetAddress": "Rua da Estrada Nacional, n\u00ba2212. Barqueiros - 4740-694 Barqueiros, concelho Barcelos (Portugal)"
+    },
+    "car_details": {
+      "name": "Peugeot RCZ 1.6 200 THP GT-Line",
+      "manufacturer": "Peugeot",
+      "model": "RCZ",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 118960,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "SEAT",
+    "name": "SEAT Ibiza SC 1.4 TSI Cupra DSG",
+    "price": {
+      "value": 12500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/seat-ibiza-sc-1-4-tsi-cupra-dsg-ID8PBAjC.html",
+    "address": {
+      "streetAddress": "Sintra, concelho Sintra"
+    },
+    "car_details": {
+      "name": "SEAT Ibiza SC 1.4 TSI Cupra DSG",
+      "manufacturer": "SEAT",
+      "model": "Ibiza",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 117000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 180,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTi Performance",
+    "price": {
+      "value": 20890,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-performance-ID8PwLWj.html",
+    "address": {
+      "streetAddress": "Rua Padre Cruz, n\u00ba 283 R/C - 4700-236 Braga, concelho Braga (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTi Performance",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 165000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 230,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Alfa Romeo",
+    "name": "Alfa Romeo Brera 2.2 JTS 16V Italia Independent",
+    "price": {
+      "value": 16250,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/alfa-romeo-brera-2-2-jts-16v-italia-independent-ID8Pu2u6.html",
+    "address": {
+      "streetAddress": "Torres Novas (S\u00e3o Pedro), Lapas e Ribeira Branca, concelho Torres Novas"
+    },
+    "car_details": {
+      "name": "Alfa Romeo Brera 2.2 JTS 16V Italia Independent",
+      "manufacturer": "Alfa Romeo",
+      "model": "Brera",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 87950,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 185,
+        "engineDisplacement": 2198,
+        "emissionsCO2": 218,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot RCZ 1.6 THP",
+    "price": {
+      "value": 14500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-rcz-1-6-thp-ID8PpryO.html",
+    "address": {
+      "streetAddress": "TRAVESSA DA AREIA LOTE 5 - 4910-013 \u00c2ncora, concelho Caminha (Portugal)"
+    },
+    "car_details": {
+      "name": "Peugeot RCZ 1.6 THP",
+      "manufacturer": "Peugeot",
+      "model": "RCZ",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 146860,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 156,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Opel",
+    "name": "Opel GT 2.0 T",
+    "price": {
+      "value": 24900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/opel-gt-2-0-t-ID8Pp85y.html",
+    "address": {
+      "streetAddress": "Rua Central n\u00ba266 - 4520-603 S\u00e3o Jo\u00e3o de Ver, concelho Santa Maria da Feira (Portugal)"
+    },
+    "car_details": {
+      "name": "Opel GT 2.0 T",
+      "manufacturer": "Opel",
+      "model": "GT",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 46000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 264,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 218,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Cooper S Coupe",
+    "price": {
+      "value": 10900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-cooper-s-coupe-ID8PDl7x.html",
+    "address": {
+      "streetAddress": "Vialonga, concelho Vila Franca de Xira"
+    },
+    "car_details": {
+      "name": "MINI Cooper S Coupe",
+      "manufacturer": "MINI",
+      "model": "Cooper",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 132000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 183,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 136,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot RCZ 1.6 THP",
+    "price": {
+      "value": 12750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-rcz-1-6-thp-ID8PCbbg.html",
+    "address": {
+      "streetAddress": "Nogueir\u00f3 e Ten\u00f5es, concelho Braga"
+    },
+    "car_details": {
+      "name": "Peugeot RCZ 1.6 THP",
+      "manufacturer": "Peugeot",
+      "model": "RCZ",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 142000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 156,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 149,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Alfa Romeo",
+    "name": "Alfa Romeo MiTo 1.4 T MultiAir Quadrifloglio Verde",
+    "price": {
+      "value": 13900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/alfa-romeo-mito-1-4-t-multiair-quadrifloglio-verde-ID8PCzA5.html",
+    "address": {
+      "streetAddress": "Porto Salvo, concelho Oeiras"
+    },
+    "car_details": {
+      "name": "Alfa Romeo MiTo 1.4 T MultiAir Quadrifloglio Verde",
+      "manufacturer": "Alfa Romeo",
+      "model": "MiTo",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 16000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 170,
+        "engineDisplacement": 1368,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "SEAT",
+    "name": "SEAT Ibiza SC 1.4 TSI Cupra DSG",
+    "price": {
+      "value": 11490,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/seat-ibiza-sc-1-4-tsi-cupra-dsg-ID8PBCG5.html",
+    "address": {
+      "streetAddress": "Rodovi\u00e1ria Nacional de Torres Novas - 2350-413 Torres Novas (Santa Maria, Salvador e Santiago), concelho Torres Novas (Portugal)"
+    },
+    "car_details": {
+      "name": "SEAT Ibiza SC 1.4 TSI Cupra DSG",
+      "manufacturer": "SEAT",
+      "model": "Ibiza",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 170000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 180,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Citro\u00ebn",
+    "name": "Citro\u00ebn DS3",
+    "price": {
+      "value": 7800,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/citron-ds3-ID8PrT34.html",
+    "address": {
+      "streetAddress": "RUA PRINCIPAL - 521 - 4775-237 Silveiros e Rio Covo (Santa Eul\u00e1lia), concelho Barcelos (Portugal)"
+    },
+    "car_details": {
+      "name": "Citro\u00ebn DS3",
+      "manufacturer": "Citro\u00ebn",
+      "model": "DS3",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 161129,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 155,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi A5 1.8 TFSI",
+    "price": {
+      "value": 16990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-a5-1-8-tfsi-ID8PBt5I.html",
+    "address": {
+      "streetAddress": "Rua Frei Le\u00e3o de S\u00e3o Tom\u00e1s n.\u00ba 468 - 4785-154 Trofa, concelho Trofa (Portugal)"
+    },
+    "car_details": {
+      "name": "Audi A5 1.8 TFSI",
+      "manufacturer": "Audi",
+      "model": "A5",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 144000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 170,
+        "engineDisplacement": 1798,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTI",
+    "price": {
+      "value": 16990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-ID8PyIMx.html",
+    "address": {
+      "streetAddress": "Rua da Estrada Nacional, n\u00ba2212. Barqueiros - 4740-694 Barqueiros, concelho Barcelos (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTI",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 139850,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 210,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Scirocco 2.0 TSI DSG",
+    "price": {
+      "value": 18500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-scirocco-2-0-tsi-dsg-ID8PyycG.html",
+    "address": {
+      "streetAddress": "rua santa eulalia n\u00ba272 Negreiros - 4775-191 Negreiros e Chav\u00e3o, concelho Barcelos (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Scirocco 2.0 TSI DSG",
+      "manufacturer": "VW",
+      "model": "Scirocco",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 178900,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz C 250 CGi BE",
+    "price": {
+      "value": 23990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mercedes-benz-c-250-cgi-be-ID8PCZTD.html",
+    "address": {
+      "streetAddress": "Rua Padre Ramiro das Neves - 4590-614 Pa\u00e7os de Ferreira, concelho Pa\u00e7os de Ferreira (Portugal)"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz C 250 CGi BE",
+      "manufacturer": "Mercedes-Benz",
+      "model": "C 250",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 125000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 204,
+        "engineDisplacement": 1796,
+        "emissionsCO2": 158,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf",
+    "price": {
+      "value": 22500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-ID8PCrWF.html",
+    "address": {
+      "streetAddress": "Rua Encarna\u00e7\u00e3o Coelho N\u00ba 1 Quinta das Rebelas  - 2830-222 Barreiro e Lavradio, Barreiro (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 170524,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 230,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot 208 1.6 THP GTi",
+    "price": {
+      "value": 13500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-208-1-6-thp-gti-ID8PDuO8.html",
+    "address": {
+      "streetAddress": "Gondomar (S\u00e3o Cosme), Valbom e Jovim, concelho Gondomar"
+    },
+    "car_details": {
+      "name": "Peugeot 208 1.6 THP GTi",
+      "manufacturer": "Peugeot",
+      "model": "208",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 103000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Cabrio Cooper S",
+    "price": {
+      "value": 14500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-cabrio-cooper-s-ID8PA6Rw.html",
+    "address": {
+      "streetAddress": "Arroios, concelho Lisboa"
+    },
+    "car_details": {
+      "name": "MINI Cabrio Cooper S",
+      "manufacturer": "MINI",
+      "model": "Cabrio",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 159000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz SLK 200 K Aut.",
+    "price": {
+      "value": 18500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mercedes-benz-slk-200-k-aut-ID8PCrNx.html",
+    "address": {
+      "streetAddress": "AV. JOSE EDUARDO VITOR DAS NEVE LOTE 114 R/C DTO - 2330-066 S\u00e3o Jo\u00e3o Baptista, concelho Entroncamento (Portugal)"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz SLK 200 K Aut.",
+      "manufacturer": "Mercedes-Benz",
+      "model": "SLK 200",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 121000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 183,
+        "engineDisplacement": 1796,
+        "emissionsCO2": 192,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Cooper S",
+    "price": {
+      "value": 14000,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-cooper-s-ID8PBv3E.html",
+    "address": {
+      "streetAddress": "Azeit\u00e3o (S\u00e3o Louren\u00e7o e S\u00e3o Sim\u00e3o), concelho Set\u00fabal"
+    },
+    "car_details": {
+      "name": "MINI Cooper S",
+      "manufacturer": "MINI",
+      "model": "Cooper",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 159000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Citro\u00ebn",
+    "name": "Citro\u00ebn DS3 1.6 THP Sport Chic",
+    "price": {
+      "value": 8990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/citron-ds3-1-6-thp-sport-chic-ID8PzKgv.html",
+    "address": {
+      "streetAddress": "Avenida Lu\u00eds Martins Lugar de Repezes - 3505-562 Viseu, concelho Viseu (Portugal)"
+    },
+    "car_details": {
+      "name": "Citro\u00ebn DS3 1.6 THP Sport Chic",
+      "manufacturer": "Citro\u00ebn",
+      "model": "DS3",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 171000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 156,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz SLK 200 BE Aut.",
+    "price": {
+      "value": 24000,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mercedes-benz-slk-200-be-aut-ID8PDa8G.html",
+    "address": {
+      "streetAddress": "Lagos (S\u00e3o Sebasti\u00e3o e Santa Maria), concelho Lagos"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz SLK 200 BE Aut.",
+      "manufacturer": "Mercedes-Benz",
+      "model": "SLK 200",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 47771,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 183,
+        "engineDisplacement": 1796,
+        "emissionsCO2": 151,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Scirocco 1.4 TSI R-Line",
+    "price": {
+      "value": 11800,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-scirocco-1-4-tsi-r-line-ID8PBHcR.html",
+    "address": {
+      "streetAddress": "Encarna\u00e7\u00e3o, concelho Mafra"
+    },
+    "car_details": {
+      "name": "VW Scirocco 1.4 TSI R-Line",
+      "manufacturer": "VW",
+      "model": "Scirocco",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 101500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 160,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 154,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Citro\u00ebn",
+    "name": "Citro\u00ebn DS3 1.6 THP Racing",
+    "price": {
+      "value": 13450,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/citron-ds3-1-6-thp-racing-ID8PDCso.html",
+    "address": {
+      "streetAddress": "AV. JOSE EDUARDO VITOR DAS NEVE LOTE 114 R/C DTO - 2330-066 S\u00e3o Jo\u00e3o Baptista, concelho Entroncamento (Portugal)"
+    },
+    "car_details": {
+      "name": "Citro\u00ebn DS3 1.6 THP Racing",
+      "manufacturer": "Citro\u00ebn",
+      "model": "DS3",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 175000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 207,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 149,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot RCZ 1.6 THP",
+    "price": {
+      "value": 13990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-rcz-1-6-thp-ID8Puc4B.html",
+    "address": {
+      "streetAddress": "Rua de Terramonte, n\u00ba 478 / 480 / 484 - 4470-122 Maia, concelho Maia (Portugal)"
+    },
+    "car_details": {
+      "name": "Peugeot RCZ 1.6 THP",
+      "manufacturer": "Peugeot",
+      "model": "RCZ",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 101693,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 156,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 149,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Scirocco 2.0 TFSi Sport",
+    "price": {
+      "value": 15990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-scirocco-2-0-tfsi-sport-ID8Pst0a.html",
+    "address": {
+      "streetAddress": "Rua da Estrada Nacional, n\u00ba2212. Barqueiros - 4740-694 Barqueiros, concelho Barcelos (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Scirocco 2.0 TFSi Sport",
+      "manufacturer": "VW",
+      "model": "Scirocco",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 131880,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 523 i Auto",
+    "price": {
+      "value": 17990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/bmw-523-i-auto-ID8PBpvy.html",
+    "address": {
+      "streetAddress": "Travessa Sim\u00e3o Bolivar, 195 - 4470-512 Maia, concelho Maia (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 523 i Auto",
+      "manufacturer": "BMW",
+      "model": "523",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 108000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 204,
+        "engineDisplacement": 2996,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTi",
+    "price": {
+      "value": 20750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-ID8PxSBS.html",
+    "address": {
+      "streetAddress": "Av. Pedro Guedes no 528, Penafiel, Portugal - 4560-452 Penafiel, concelho Penafiel (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTi",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 124000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 220,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi TTS Coup\u00e9 2.0 TFSi quattro S Tronic",
+    "price": {
+      "value": 22990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-tts-coup-2-0-tfsi-quattro-s-tronic-ID8PDz0M.html",
+    "address": {
+      "streetAddress": "Rua da Estrada Nacional, n\u00ba2212. Barqueiros - 4740-694 Barqueiros, concelho Barcelos (Portugal)"
+    },
+    "car_details": {
+      "name": "Audi TTS Coup\u00e9 2.0 TFSi quattro S Tronic",
+      "manufacturer": "Audi",
+      "model": "TTS Coup\u00e9",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 174850,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 272,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 R",
+    "price": {
+      "value": 23900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-r-ID8PDtPY.html",
+    "address": {
+      "streetAddress": "Rua Ant\u00f3nio Martins Soares leite n*1 Cavaco - 4520-150 Santa Maria da Feira, Travanca, Sanfins e Espargo, concelho Santa Maria da Feira (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 R",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 166000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 270,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 199,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI John Cooper Works",
+    "price": {
+      "value": 13990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-john-cooper-works-ID8Pv28m.html",
+    "address": {
+      "streetAddress": "Avenida S\u00e3o Tiago da Cruz n\u00ba 110 - 4770-157 Cruz, concelho Vila Nova de Famalic\u00e3o (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 149750,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 155,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW M135i",
+    "price": {
+      "value": 24000,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/bmw-m135i-ID8PDCNx.html",
+    "address": {
+      "streetAddress": "Vila do Conde, concelho Vila do Conde"
+    },
+    "car_details": {
+      "name": "BMW M135i",
+      "manufacturer": "BMW",
+      "model": "M135i",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 83000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 320,
+        "engineDisplacement": 2979,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi TT Roadster 1.8 TFSi S-line",
+    "price": {
+      "value": 16900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-tt-roadster-1-8-tfsi-s-line-ID8PzXrV.html",
+    "address": {
+      "streetAddress": "Rua E\u00e7a de queiros 42 - 4785-316 Trofa, concelho Trofa (Portugal)"
+    },
+    "car_details": {
+      "name": "Audi TT Roadster 1.8 TFSi S-line",
+      "manufacturer": "Audi",
+      "model": "TT Roadster",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 133287,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 160,
+        "engineDisplacement": 1798,
+        "emissionsCO2": 152,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTi",
+    "price": {
+      "value": 18490,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-ID8PCEg6.html",
+    "address": {
+      "streetAddress": "Urb. Pinheiro Manso - 3150-112 Condeixa-a-Nova, concelho Condeixa-a-Nova (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTi",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 145000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 220,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Scirocco 2.0 TSI R DSG",
+    "price": {
+      "value": 19900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-scirocco-2-0-tsi-r-dsg-ID8PAQgt.html",
+    "address": {
+      "streetAddress": "Rua da Covilh\u00e4 - 4775-206 Negreiros e Chav\u00e3o, concelho Barcelos (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Scirocco 2.0 TSI R DSG",
+      "manufacturer": "VW",
+      "model": "Scirocco",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 146000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 265,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 187,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTI",
+    "price": {
+      "value": 16900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-ID8PAQnf.html",
+    "address": {
+      "streetAddress": "Rua da Covilh\u00e4 - 4775-206 Negreiros e Chav\u00e3o, concelho Barcelos (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTI",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 170000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 210,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 170,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "SEAT",
+    "name": "SEAT Ibiza SC 1.4 TSI Cupra DSG",
+    "price": {
+      "value": 15000,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/seat-ibiza-sc-1-4-tsi-cupra-dsg-ID8PltWY.html",
+    "address": {
+      "streetAddress": "R. Dr. Joaquim Miranda, Bloco 2 - Fra\u00e7\u00e3o J - 3850-069 Albergaria-a-Velha, concelho Albergaria-a-Velha (Portugal)"
+    },
+    "car_details": {
+      "name": "SEAT Ibiza SC 1.4 TSI Cupra DSG",
+      "manufacturer": "SEAT",
+      "model": "Ibiza",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 128000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 180,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz SLK 200 K",
+    "price": {
+      "value": 17500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mercedes-benz-slk-200-k-ID8PAbwv.html",
+    "address": {
+      "streetAddress": "Avenida Dr Ribeiro Magalh\u00e3es - 4610-108 Felgueiras, concelho Felgueiras (Portugal)"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz SLK 200 K",
+      "manufacturer": "Mercedes-Benz",
+      "model": "SLK 200",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 147000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 163,
+        "engineDisplacement": 1796,
+        "emissionsCO2": 210,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 130 i Aut.",
+    "price": {
+      "value": 18500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/bmw-130-i-aut-ID8PB2k2.html",
+    "address": {
+      "streetAddress": "Cascais e Estoril, concelho Cascais"
+    },
+    "car_details": {
+      "name": "BMW 130 i Aut.",
+      "manufacturer": "BMW",
+      "model": "130",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 99000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 265,
+        "engineDisplacement": 2996,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz SLK 350 7G-TRONIC Sport Edition",
+    "price": {
+      "value": 23900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mercedes-benz-slk-350-7g-tronic-sport-edition-ID8PClk8.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 8-5, Edificio Mit\u00f3car - 2460-526 Maiorga, concelho Alcoba\u00e7a (Portugal)"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz SLK 350 7G-TRONIC Sport Edition",
+      "manufacturer": "Mercedes-Benz",
+      "model": "SLK 350",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 142900,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 305,
+        "engineDisplacement": 3498,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW EOS 1.4 TSi Top",
+    "price": {
+      "value": 13500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-eos-1-4-tsi-top-ID8PCIG4.html",
+    "address": {
+      "streetAddress": "Estrada Arruda 27, Alverca do Ribatejo, Portugal - 2615-328 Alverca do Ribatejo e Sobralinho, concelho Vila Franca de Xira (Portugal)"
+    },
+    "car_details": {
+      "name": "VW EOS 1.4 TSi Top",
+      "manufacturer": "VW",
+      "model": "EOS",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 85000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 160,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW X5 xDrive50i",
+    "price": {
+      "value": 24990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/bmw-x5-xdrive50i-ID8PDCrI.html",
+    "address": {
+      "streetAddress": "Estrada Terras da Lagoa 66 Albarraque - 2635-595 Rio de Mouro, Sintra (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW X5 xDrive50i",
+      "manufacturer": "BMW",
+      "model": "X5",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 137556,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 407,
+        "engineDisplacement": 4395,
+        "emissionsCO2": 292,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi TT Coup\u00e9 1.8 TFSI",
+    "price": {
+      "value": 15900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-tt-coup-1-8-tfsi-ID8PyWGU.html",
+    "address": {
+      "streetAddress": "Serzedo e Perosinho, concelho Vila Nova de Gaia"
+    },
+    "car_details": {
+      "name": "Audi TT Coup\u00e9 1.8 TFSI",
+      "manufacturer": "Audi",
+      "model": "TT Coup\u00e9",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 155000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 160,
+        "engineDisplacement": 1798,
+        "emissionsCO2": 147,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI John Cooper Works Standard",
+    "price": {
+      "value": 17990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-john-cooper-works-standard-ID8PyYt0.html",
+    "address": {
+      "streetAddress": "avenida das barreiras n43 - 4750-732 Tamel (S\u00e3o Ver\u00edssimo), concelho Barcelos (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works Standard",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 92196,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI John Cooper Works Clubman",
+    "price": {
+      "value": 14990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-john-cooper-works-clubman-ID8PCo5H.html",
+    "address": {
+      "streetAddress": "Rua In\u00e1cio Duarte, Carnaxide, Portugal - 2790-463 Carnaxide e Queijas, concelho Oeiras (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works Clubman",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 166000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Cooper S",
+    "price": {
+      "value": 15950,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-cooper-s-ID8PD9Th.html",
+    "address": {
+      "streetAddress": "Travessa Veloso Martins n\u00ba22 - 5430-007 Valpa\u00e7os, concelho Valpa\u00e7os (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI Cooper S",
+      "manufacturer": "MINI",
+      "model": "Cooper",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 71000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 136,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi TT Coup\u00e9 1.8 TFSI S-line",
+    "price": {
+      "value": 16950,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-tt-coup-1-8-tfsi-s-line-ID8PD41g.html",
+    "address": {
+      "streetAddress": "Rua Monte do Vale - N\u00ba830 - 4465-697 Cust\u00f3ias, Le\u00e7a do Balio e Guif\u00f5es, concelho Matosinhos (Portugal)"
+    },
+    "car_details": {
+      "name": "Audi TT Coup\u00e9 1.8 TFSI S-line",
+      "manufacturer": "Audi",
+      "model": "TT Coup\u00e9",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 142000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 160,
+        "engineDisplacement": 1798,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 125 i Sport Line",
+    "price": {
+      "value": 18900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/bmw-125-i-sport-line-ID8PAhvi.html",
+    "address": {
+      "streetAddress": "Largo Vieira Caldas 8A - 1685-605 Ramada e Cane\u00e7as, concelho Odivelas (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 125 i Sport Line",
+      "manufacturer": "BMW",
+      "model": "125",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 167000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 218,
+        "engineDisplacement": 1997,
+        "emissionsCO2": 154,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi Q5 2.0 TFSI S-line S-tronic",
+    "price": {
+      "value": 16990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-q5-2-0-tfsi-s-line-s-tronic-ID8PBEg8.html",
+    "address": {
+      "streetAddress": "Nacional 109 - Brenha - 3080-437 Figueira da Foz, concelho Figueira da Foz (Portugal)"
+    },
+    "car_details": {
+      "name": "Audi Q5 2.0 TFSI S-line S-tronic",
+      "manufacturer": "Audi",
+      "model": "Q5",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 141460,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTi DSG Performance",
+    "price": {
+      "value": 21750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-dsg-performance-ID8PDpmv.html",
+    "address": {
+      "streetAddress": "Rua do Caneiro N\u00ba5 Junto ao Hipermercado Eleclerc - 5400-167 Santa Maria Maior, concelho Chaves (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTi DSG Performance",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 152000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 230,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI John Cooper Works Standard",
+    "price": {
+      "value": 10500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-john-cooper-works-standard-ID8PCfz4.html",
+    "address": {
+      "streetAddress": "Amarante (S\u00e3o Gon\u00e7alo), Madalena, Cepelos e Gat\u00e3o, concelho Amarante"
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works Standard",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 154800,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 165,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Cabrio Cooper S",
+    "price": {
+      "value": 14500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-cabrio-cooper-s-ID8PA6Rw.html",
+    "address": {
+      "streetAddress": "Arroios, concelho Lisboa"
+    },
+    "car_details": {
+      "name": "MINI Cabrio Cooper S",
+      "manufacturer": "MINI",
+      "model": "Cabrio",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 159000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Scirocco 1.4 TSI R-Line",
+    "price": {
+      "value": 11800,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-scirocco-1-4-tsi-r-line-ID8PBHcR.html",
+    "address": {
+      "streetAddress": "Encarna\u00e7\u00e3o, concelho Mafra"
+    },
+    "car_details": {
+      "name": "VW Scirocco 1.4 TSI R-Line",
+      "manufacturer": "VW",
+      "model": "Scirocco",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 101500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 160,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 154,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz C 250 CGi BE",
+    "price": {
+      "value": 23990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mercedes-benz-c-250-cgi-be-ID8PCZTD.html",
+    "address": {
+      "streetAddress": "Rua Padre Ramiro das Neves - 4590-614 Pa\u00e7os de Ferreira, concelho Pa\u00e7os de Ferreira (Portugal)"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz C 250 CGi BE",
+      "manufacturer": "Mercedes-Benz",
+      "model": "C 250",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 125000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 204,
+        "engineDisplacement": 1796,
+        "emissionsCO2": 158,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "SEAT",
+    "name": "SEAT Ibiza SC 1.4 TSI Cupra DSG",
+    "price": {
+      "value": 13400,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/seat-ibiza-sc-1-4-tsi-cupra-dsg-ID8PxWAC.html",
+    "address": {
+      "streetAddress": "rua do cruzeiro n 404 - 4830-195 Fonte Arcada e Oliveira, concelho P\u00f3voa de Lanhoso (Portugal)"
+    },
+    "car_details": {
+      "name": "SEAT Ibiza SC 1.4 TSI Cupra DSG",
+      "manufacturer": "SEAT",
+      "model": "Ibiza",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 149900,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 180,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Clubman John Cooper Works",
+    "price": {
+      "value": 15900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-clubman-john-cooper-works-ID8Puglv.html",
+    "address": {
+      "streetAddress": "Rua Jos\u00e9 Ant\u00f3nio Ver\u00edssimo N\u00ba 2B e 4A - 2625-384 P\u00f3voa de Santa Iria e Forte da Casa, concelho Vila Franca de Xira (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI Clubman John Cooper Works",
+      "manufacturer": "MINI",
+      "model": "Clubman",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 136000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 167,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot RCZ 1.6 THP",
+    "price": {
+      "value": 17490,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-rcz-1-6-thp-ID8PzK8L.html",
+    "address": {
+      "streetAddress": "Rua Conde Carvalhal 78\u00aa - 9060-012 Funchal, Funchal (Portugal)"
+    },
+    "car_details": {
+      "name": "Peugeot RCZ 1.6 THP",
+      "manufacturer": "Peugeot",
+      "model": "RCZ",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 162000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Cooper S",
+    "price": {
+      "value": 14900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-cooper-s-ID8PxJy4.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 125, N\u00ba571 c - 8200-564 Guia, Albufeira (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI Cooper S",
+      "manufacturer": "MINI",
+      "model": "Cooper",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 154105,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 175,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTI",
+    "price": {
+      "value": 17990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-ID8PD1lm.html",
+    "address": {
+      "streetAddress": "Rua da Enxurreira n\u00ba243 - 4575-129 Cabe\u00e7a Santa, concelho Penafiel (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTI",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 170616,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 210,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 170,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW EOS 1.4 TSi",
+    "price": {
+      "value": 9500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-eos-1-4-tsi-ID8Pxow1.html",
+    "address": {
+      "streetAddress": "Rua do Recife, 4 - Loja D - 2780-033 Oeiras e S\u00e3o Juli\u00e3o da Barra, Pa\u00e7o de Arcos e Caxias, concelho Oeiras (Portugal)"
+    },
+    "car_details": {
+      "name": "VW EOS 1.4 TSi",
+      "manufacturer": "VW",
+      "model": "EOS",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 135911,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 160,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 157,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz B 200 Turbo",
+    "price": {
+      "value": 9900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mercedes-benz-b-200-turbo-ID8Plyo7.html",
+    "address": {
+      "streetAddress": "ESTRADA NACIONAL 249-4  N\u00ba3 e 4 - 2785-574 S\u00e3o Domingos de Rana, concelho Cascais (Portugal)"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz B 200 Turbo",
+      "manufacturer": "Mercedes-Benz",
+      "model": "B 200",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 150000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 193,
+        "engineDisplacement": 2035,
+        "emissionsCO2": 190,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Renault",
+    "name": "Renault Espace 3.5 V6 Aut. Initiale",
+    "price": {
+      "value": 8000,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/renault-espace-3-5-v6-aut-initiale-ID8PAFmH.html",
+    "address": {
+      "streetAddress": "Av. da Cocanha - 5400-570 Chaves, concelho Chaves (Portugal)"
+    },
+    "car_details": {
+      "name": "Renault Espace 3.5 V6 Aut. Initiale",
+      "manufacturer": "Renault",
+      "model": "Espace",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 136364,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 241,
+        "engineDisplacement": 3498,
+        "emissionsCO2": 284,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi TT Coup\u00e9 1.8 TFSI",
+    "price": {
+      "value": 17900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-tt-coup-1-8-tfsi-ID8PCxlh.html",
+    "address": {
+      "streetAddress": "Rua da Venda Nova N\u00ba5 - 4815-447 Santo Adri\u00e3o de Vizela, concelho Vizela (Portugal)"
+    },
+    "car_details": {
+      "name": "Audi TT Coup\u00e9 1.8 TFSI",
+      "manufacturer": "Audi",
+      "model": "TT Coup\u00e9",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 157000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 160,
+        "engineDisplacement": 1798,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Coup\u00e9 Cooper S",
+    "price": {
+      "value": 10999,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-coup-cooper-s-ID8Pxnxo.html",
+    "address": {
+      "streetAddress": "estrada n250 Junto Do Hospital Beatriz Angelo - 2674-514 Loures, concelho Loures (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI Coup\u00e9 Cooper S",
+      "manufacturer": "MINI",
+      "model": "Coup\u00e9",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 147698,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Scirocco 1.4 TSI",
+    "price": {
+      "value": 15980,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-scirocco-1-4-tsi-ID8PDBYq.html",
+    "address": {
+      "streetAddress": "IC2 Junto aos sem\u00e1foros Barrac\u00e3o - 2420-203 Colmeias e Mem\u00f3ria, Leiria (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Scirocco 1.4 TSI",
+      "manufacturer": "VW",
+      "model": "Scirocco",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 112789,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 160,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 154,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTI EDITION 35 DSG",
+    "price": {
+      "value": 20900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-edition-35-dsg-ID8PBHT9.html",
+    "address": {
+      "streetAddress": "Rua Central n\u00ba266 - 4520-603 S\u00e3o Jo\u00e3o de Ver, concelho Santa Maria da Feira (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTI EDITION 35 DSG",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 165000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 235,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 185,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI John Cooper Works",
+    "price": {
+      "value": 14990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-john-cooper-works-ID8PCM8X.html",
+    "address": {
+      "streetAddress": "Rua do Outeiro n\u00ba 15 - 2700-629 Falagueira-Venda Nova, concelho Amadora (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 113000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Citro\u00ebn",
+    "name": "Citro\u00ebn DS3 1.6 THP Sport Chic",
+    "price": {
+      "value": 10990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/citron-ds3-1-6-thp-sport-chic-ID8PBSal.html",
+    "address": {
+      "streetAddress": "Avenida Dom Pedro V n\u00ba11B - 2720-191 \u00c1guas Livres, concelho Amadora (Portugal)"
+    },
+    "car_details": {
+      "name": "Citro\u00ebn DS3 1.6 THP Sport Chic",
+      "manufacturer": "Citro\u00ebn",
+      "model": "DS3",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 171000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 155,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTI",
+    "price": {
+      "value": 15950,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-ID8PD0qV.html",
+    "address": {
+      "streetAddress": "RUA VASCO DA GAMA 41 - 2870-823 Montijo e Afonsoeiro, concelho Montijo (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTI",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 153932,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 210,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Citro\u00ebn",
+    "name": "Citro\u00ebn DS3 1.6 THP Racing",
+    "price": {
+      "value": 14990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/citron-ds3-1-6-thp-racing-ID8PCNrO.html",
+    "address": {
+      "streetAddress": "Rua D. Pedro V-Armaz\u00e9m 1-Pirescoxe - 2695-373 Santa Iria de Azoia, S\u00e3o Jo\u00e3o da Talha e Bobadela, concelho Loures (Portugal)"
+    },
+    "car_details": {
+      "name": "Citro\u00ebn DS3 1.6 THP Racing",
+      "manufacturer": "Citro\u00ebn",
+      "model": "DS3",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 164762,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 202,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "SEAT",
+    "name": "SEAT Ibiza SC 1.4 TSI Cupra BocaNegra DSG",
+    "price": {
+      "value": 14250,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/seat-ibiza-sc-1-4-tsi-cupra-bocanegra-dsg-ID8PBGBF.html",
+    "address": {
+      "streetAddress": "Rua do Quanza, n\u00ba 183 - 4250-384 Cedofeita, Santo Ildefonso, S\u00e9, Miragaia, S\u00e3o Nicolau e Vit\u00f3ria, concelho Porto (Portugal)"
+    },
+    "car_details": {
+      "name": "SEAT Ibiza SC 1.4 TSI Cupra BocaNegra DSG",
+      "manufacturer": "SEAT",
+      "model": "Ibiza",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 142000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 180,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "SEAT",
+    "name": "SEAT Leon 2.0 T FSI Cupra",
+    "price": {
+      "value": 12990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/seat-leon-2-0-t-fsi-cupra-ID8PAkdL.html",
+    "address": {
+      "streetAddress": "Requi\u00e3o - 4770-444 Requi\u00e3o, concelho Vila Nova de Famalic\u00e3o (Portugal)"
+    },
+    "car_details": {
+      "name": "SEAT Leon 2.0 T FSI Cupra",
+      "manufacturer": "SEAT",
+      "model": "Leon",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 172000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 241,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Abarth",
+    "name": "Abarth Grande Punto 1.4 T-Jet 16V",
+    "price": {
+      "value": 10999,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/abarth-grande-punto-1-4-t-jet-16v-ID8PDmBL.html",
+    "address": {
+      "streetAddress": "Rua Dom Tom\u00e1s de Almeida n91, Alhandra, Portugal - 2600-528 Alhandra, S\u00e3o Jo\u00e3o dos Montes e Calhandriz, concelho Vila Franca de Xira (Portugal)"
+    },
+    "car_details": {
+      "name": "Abarth Grande Punto 1.4 T-Jet 16V",
+      "manufacturer": "Abarth",
+      "model": "Grande Punto",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 180000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 155,
+        "engineDisplacement": 1368,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Fiat",
+    "name": "Fiat 500 695 Aut. Tributo 131 Rally",
+    "price": {
+      "value": 14900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/fiat-500-695-aut-tributo-131-rally-ID8PDANp.html",
+    "address": {
+      "streetAddress": "Rodovi\u00e1ria Nacional de Torres Novas - 2350-413 Torres Novas (Santa Maria, Salvador e Santiago), concelho Torres Novas (Portugal)"
+    },
+    "car_details": {
+      "name": "Fiat 500 695 Aut. Tributo 131 Rally",
+      "manufacturer": "Fiat",
+      "model": "500",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 100000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 180,
+        "engineDisplacement": 1368,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTI",
+    "price": {
+      "value": 17500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-ID8PDApL.html",
+    "address": {
+      "streetAddress": "Cascais e Estoril, concelho Cascais"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTI",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 168000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 210,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 170,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz SLK 200 Kompressor Sport Edition",
+    "price": {
+      "value": 16500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mercedes-benz-slk-200-kompressor-sport-edition-ID8PDANi.html",
+    "address": {
+      "streetAddress": "AV. JOSE EDUARDO VITOR DAS NEVE LOTE 114 R/C DTO - 2330-066 S\u00e3o Jo\u00e3o Baptista, concelho Entroncamento (Portugal)"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz SLK 200 Kompressor Sport Edition",
+      "manufacturer": "Mercedes-Benz",
+      "model": "SLK 200",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 168500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 183,
+        "engineDisplacement": 1796,
+        "emissionsCO2": 182,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Clubman John Cooper Works",
+    "price": {
+      "value": 16500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-clubman-john-cooper-works-ID8Pz4dm.html",
+    "address": {
+      "streetAddress": "Avenida General Humberto Delgado 39D - 2745-282 Queluz e Belas, concelho Sintra (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI Clubman John Cooper Works",
+      "manufacturer": "MINI",
+      "model": "Clubman",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 167729,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot RCZ 1.6 THP SE Black Yearling",
+    "price": {
+      "value": 13750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-rcz-1-6-thp-se-black-yearling-ID8PDAp5.html",
+    "address": {
+      "streetAddress": "Rua Chao da Vinha, 35 - 4440-351 Campo e Sobrado, concelho Valongo (Portugal)"
+    },
+    "car_details": {
+      "name": "Peugeot RCZ 1.6 THP SE Black Yearling",
+      "manufacturer": "Peugeot",
+      "model": "RCZ",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 175000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 156,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Renault",
+    "name": "Renault M\u00e9gane Coupe 2.0 T 16V RS",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/renault-mgane-coupe-2-0-t-16v-rs-ID8PByWK.html",
+    "address": {
+      "streetAddress": "Rua 37, N\u00ba 601 - 4500-329 Espinho, concelho Espinho (Portugal)"
+    },
+    "car_details": {
+      "name": "Renault M\u00e9gane Coupe 2.0 T 16V RS",
+      "manufacturer": "Renault",
+      "model": "M\u00e9gane Coupe",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 90000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 250,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 190,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "SEAT",
+    "name": "SEAT Leon 2.0 TSI FR",
+    "price": {
+      "value": 12990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/seat-leon-2-0-tsi-fr-ID8PBIl2.html",
+    "address": {
+      "streetAddress": "Avenida Doutor Antonio Rangel 87 - 4585-353 Rebordosa, concelho Paredes (Portugal)"
+    },
+    "car_details": {
+      "name": "SEAT Leon 2.0 TSI FR",
+      "manufacturer": "SEAT",
+      "model": "Leon",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 178000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 123,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Citro\u00ebn",
+    "name": "Citro\u00ebn DS3 Cabrio 1.6 THP Sport Chic",
+    "price": {
+      "value": 10480,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/citron-ds3-cabrio-1-6-thp-sport-chic-ID8Pyjsr.html",
+    "address": {
+      "streetAddress": "Rua 19, N\u00ba1555 - Anta - 4500-047 Espinho, concelho Espinho (Portugal)"
+    },
+    "car_details": {
+      "name": "Citro\u00ebn DS3 Cabrio 1.6 THP Sport Chic",
+      "manufacturer": "Citro\u00ebn",
+      "model": "DS3",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 114475,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 155,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW Z4",
+    "price": {
+      "value": 23500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/bmw-z4-ID8PCSpU.html",
+    "address": {
+      "streetAddress": "Avenida S\u00e3o Crist\u00f3v\u00e3o 1599 - 4500-704 Nogueira da Regedoura, concelho Santa Maria da Feira (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW Z4",
+      "manufacturer": "BMW",
+      "model": "Z4",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 159000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 204,
+        "engineDisplacement": 2497,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTi Performance",
+    "price": {
+      "value": 19999,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-performance-ID8PDgmr.html",
+    "address": {
+      "streetAddress": "Bel\u00e9m, concelho Lisboa"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTi Performance",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 156000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 230,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI John Cooper Works",
+    "price": {
+      "value": 17990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-john-cooper-works-ID8PBABE.html",
+    "address": {
+      "streetAddress": "Rua dos Tractores N\u00ba506 Armz AH - 2870-631 Montijo, concelho Montijo (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 122000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTi DSG",
+    "price": {
+      "value": 22750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-dsg-ID8PCw2x.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 326 - 4540-240 Arouca, concelho Arouca (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTi DSG",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 162000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 220,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 148,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf Cabriolet 1.4 TSI",
+    "price": {
+      "value": 14250,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-cabriolet-1-4-tsi-ID8PCSJF.html",
+    "address": {
+      "streetAddress": "Rua E\u00e7a de queiros 42 - 4785-316 Trofa, concelho Trofa (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf Cabriolet 1.4 TSI",
+      "manufacturer": "VW",
+      "model": "Golf Cabriolet",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 64155,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 150,
+        "engineDisplacement": 1395,
+        "emissionsCO2": 149,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Scirocco 1.4 TSI R-Line",
+    "price": {
+      "value": 11800,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-scirocco-1-4-tsi-r-line-ID8PBHcR.html",
+    "address": {
+      "streetAddress": "Encarna\u00e7\u00e3o, concelho Mafra"
+    },
+    "car_details": {
+      "name": "VW Scirocco 1.4 TSI R-Line",
+      "manufacturer": "VW",
+      "model": "Scirocco",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 101500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 160,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 154,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz C 250 CGi BE",
+    "price": {
+      "value": 23990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mercedes-benz-c-250-cgi-be-ID8PCZTD.html",
+    "address": {
+      "streetAddress": "Rua Padre Ramiro das Neves - 4590-614 Pa\u00e7os de Ferreira, concelho Pa\u00e7os de Ferreira (Portugal)"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz C 250 CGi BE",
+      "manufacturer": "Mercedes-Benz",
+      "model": "C 250",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 125000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 204,
+        "engineDisplacement": 1796,
+        "emissionsCO2": 158,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW M135i",
+    "price": {
+      "value": 24000,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/bmw-m135i-ID8PDCNx.html",
+    "address": {
+      "streetAddress": "Vila do Conde, concelho Vila do Conde"
+    },
+    "car_details": {
+      "name": "BMW M135i",
+      "manufacturer": "BMW",
+      "model": "M135i",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 83000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 320,
+        "engineDisplacement": 2979,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Cooper S",
+    "price": {
+      "value": 14000,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-cooper-s-ID8PBv3E.html",
+    "address": {
+      "streetAddress": "Azeit\u00e3o (S\u00e3o Louren\u00e7o e S\u00e3o Sim\u00e3o), concelho Set\u00fabal"
+    },
+    "car_details": {
+      "name": "MINI Cooper S",
+      "manufacturer": "MINI",
+      "model": "Cooper",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 159000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz E 250 CGi Avantgarde BlueEfficiency",
+    "price": {
+      "value": 17500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mercedes-benz-e-250-cgi-avantgarde-blueefficiency-ID8PxLjF.html",
+    "address": {
+      "streetAddress": "AV.23 DE JULHO 1883, LOTE A1, KM 8 - 2865-413 Fern\u00e3o Ferro, concelho Seixal (Portugal)"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz E 250 CGi Avantgarde BlueEfficiency",
+      "manufacturer": "Mercedes-Benz",
+      "model": "E 250",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 148224,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 204,
+        "engineDisplacement": 1796,
+        "emissionsCO2": 185,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTi DSG Performance",
+    "price": {
+      "value": 24490,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-dsg-performance-ID8PCxdV.html",
+    "address": {
+      "streetAddress": "Rua Lu\u00eds Vaz de Cam\u00f5es 6A, Portugal - 2650-197 Encosta do Sol, concelho Amadora (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTi DSG Performance",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 151000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 230,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 147,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Paceman",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-paceman-ID8PaGsZ.html",
+    "address": {
+      "streetAddress": "Av. de Lisboa- N\u00ba125A - 2605-003 Casal de Cambra, concelho Sintra (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI Paceman",
+      "manufacturer": "MINI",
+      "model": "Paceman",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 151000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 218,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Citro\u00ebn",
+    "name": "Citro\u00ebn DS3 1.6 THP Sport Chic",
+    "price": {
+      "value": 12250,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/citron-ds3-1-6-thp-sport-chic-ID8PtjTb.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 109, n\u00ba84 - Quint\u00e3 - 3840-507 Vagos e Santo Ant\u00f3nio, concelho Vagos (Portugal)"
+    },
+    "car_details": {
+      "name": "Citro\u00ebn DS3 1.6 THP Sport Chic",
+      "manufacturer": "Citro\u00ebn",
+      "model": "DS3",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 60000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 155,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI John Cooper Works",
+    "price": {
+      "value": 17900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-john-cooper-works-ID8Pxqj2.html",
+    "address": {
+      "streetAddress": "Rua Hern\u00e2ni Cidade 5 Armaz\u00e9m F - 2820-653 Charneca de Caparica e Sobreda, concelho Almada (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 159000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot RCZ 1.6 THP",
+    "price": {
+      "value": 11500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-rcz-1-6-thp-ID8PmsyJ.html",
+    "address": {
+      "streetAddress": "Avenida Principal n\u00ba 5750 - 4535-013 Lourosa, concelho Santa Maria da Feira (Portugal)"
+    },
+    "car_details": {
+      "name": "Peugeot RCZ 1.6 THP",
+      "manufacturer": "Peugeot",
+      "model": "RCZ",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 139000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 156,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 1.4 TSi Highline",
+    "price": {
+      "value": 12950,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-1-4-tsi-highline-ID8PCE0d.html",
+    "address": {
+      "streetAddress": "Avenida D. Jo\u00e3o VI n25 - 8700-143 Olh\u00e3o, Olh\u00e3o (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 1.4 TSi Highline",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 102000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 160,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Citro\u00ebn",
+    "name": "Citro\u00ebn DS3 1.6 THP Sport Chic 135g",
+    "price": {
+      "value": 10750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/citron-ds3-1-6-thp-sport-chic-135g-ID8PxjM4.html",
+    "address": {
+      "streetAddress": "Rua Lu\u00eds de Cam\u00f5es n\u00ba110 A - 139 A - 1300-361 Alc\u00e2ntara, concelho Lisboa (Portugal)"
+    },
+    "car_details": {
+      "name": "Citro\u00ebn DS3 1.6 THP Sport Chic 135g",
+      "manufacturer": "Citro\u00ebn",
+      "model": "DS3",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 79350,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 155,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW Z4 sDrive20i",
+    "price": {
+      "value": 24500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/bmw-z4-sdrive20i-ID8Pzavi.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 223 - Sanfins - 4520-211 Santa Maria da Feira, Travanca, Sanfins e Espargo, concelho Santa Maria da Feira (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW Z4 sDrive20i",
+      "manufacturer": "BMW",
+      "model": "Z4",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 133581,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1997,
+        "emissionsCO2": 159,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf GTI 2.0 TSI OPF DSG Performance",
+    "price": {
+      "value": 17999,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-gti-2-0-tsi-opf-dsg-performance-ID8PC6Me.html",
+    "address": {
+      "streetAddress": "Avenida Principal n\u00ba 5750 - 4535-013 Lourosa, concelho Santa Maria da Feira (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf GTI 2.0 TSI OPF DSG Performance",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 179000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 245,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot RCZ 1.6 200 THP GT-Line",
+    "price": {
+      "value": 13990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-rcz-1-6-200-thp-gt-line-ID8PCcXy.html",
+    "address": {
+      "streetAddress": "Rua Doutor Edgardo S\u00e1 Malheiro n\u00ba39 - 4705-267 Ferreiros e Gondizalves, concelho Braga (Portugal)"
+    },
+    "car_details": {
+      "name": "Peugeot RCZ 1.6 200 THP GT-Line",
+      "manufacturer": "Peugeot",
+      "model": "RCZ",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 146000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 160,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTI DSG",
+    "price": {
+      "value": 17650,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-dsg-ID8PwCUN.html",
+    "address": {
+      "streetAddress": "Rua Mouzinho de Albuquerque n\u00ba334 - 4450-201 Matosinhos e Le\u00e7a da Palmeira, concelho Matosinhos (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTI DSG",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 110000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 210,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi TT Roadster 1.8 TFSi S-line",
+    "price": {
+      "value": 23990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-tt-roadster-1-8-tfsi-s-line-ID8PmlV2.html",
+    "address": {
+      "streetAddress": "Av. Mestre Lima De Freitas 86 e 90 - 2910-867 S\u00e3o Sebasti\u00e3o, concelho Set\u00fabal (Portugal)"
+    },
+    "car_details": {
+      "name": "Audi TT Roadster 1.8 TFSi S-line",
+      "manufacturer": "Audi",
+      "model": "TT Roadster",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 48479,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 160,
+        "engineDisplacement": 1798,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 GTI",
+    "price": {
+      "value": 16497,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-gti-ID8PBtLH.html",
+    "address": {
+      "streetAddress": "Rua do Olival Samp\u00e3o - 2415-527 Marrazes e Barosa, concelho Leiria (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 GTI",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 178000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 210,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 170,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI John Cooper Works Standard",
+    "price": {
+      "value": 19500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-john-cooper-works-standard-ID8PCXT2.html",
+    "address": {
+      "streetAddress": "Avenida Ara\u00fajo Silva 103 - 3810-049 Aradas, concelho Aveiro (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works Standard",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 143792,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 165,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Renault",
+    "name": "Renault M\u00e9gane Coupe 2.0 T 16V RS",
+    "price": {
+      "value": 19999,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/renault-mgane-coupe-2-0-t-16v-rs-ID8PC4ql.html",
+    "address": {
+      "streetAddress": "Rua de S\u00e3o Tom\u00e9 n\u00ba 339 - 4980-802 Vade (S\u00e3o Tom\u00e9), concelho Ponte da Barca (Portugal)"
+    },
+    "car_details": {
+      "name": "Renault M\u00e9gane Coupe 2.0 T 16V RS",
+      "manufacturer": "Renault",
+      "model": "M\u00e9gane Coupe",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 139355,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 250,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 125 i Line Urban",
+    "price": {
+      "value": 16900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/bmw-125-i-line-urban-ID8PDlGu.html",
+    "address": {
+      "streetAddress": "Avenida Am\u00e1lia Rodrigues 915 - 2785-735 S\u00e3o Domingos de Rana, concelho Cascais (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 125 i Line Urban",
+      "manufacturer": "BMW",
+      "model": "125",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 153356,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 218,
+        "engineDisplacement": 1997,
+        "emissionsCO2": 154,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Opel",
+    "name": "Opel GT 2.0 T",
+    "price": {
+      "value": 20990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/opel-gt-2-0-t-ID8PhWRm.html",
+    "address": {
+      "streetAddress": "Avenida de Martim N\u00ba261 Martim - 4755-313 Martim, concelho Barcelos (Portugal)"
+    },
+    "car_details": {
+      "name": "Opel GT 2.0 T",
+      "manufacturer": "Opel",
+      "model": "GT",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 118116,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 264,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTI DSG",
+    "price": {
+      "value": 17990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-dsg-ID8PCkHk.html",
+    "address": {
+      "streetAddress": "Avenida 25 de Abril N\u00ba31 - 2745-864 Massam\u00e1 e Monte Abra\u00e3o, concelho Sintra (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTI DSG",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 141000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 210,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 173,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi A3 Sportback 2.0 TFSi Sport S tronic",
+    "price": {
+      "value": 14750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-a3-sportback-2-0-tfsi-sport-s-tronic-ID8PBCK6.html",
+    "address": {
+      "streetAddress": "Rua Chao da Vinha, 35 - 4440-351 Campo e Sobrado, concelho Valongo (Portugal)"
+    },
+    "car_details": {
+      "name": "Audi A3 Sportback 2.0 TFSi Sport S tronic",
+      "manufacturer": "Audi",
+      "model": "A3 Sportback",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 149000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 168,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "SEAT",
+    "name": "SEAT Ibiza SC 1.4 TSI Cupra DSG",
+    "price": {
+      "value": 13900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/seat-ibiza-sc-1-4-tsi-cupra-dsg-ID8PpFrV.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 10-1,  N\u00ba33, Sobreda (Almada) - 2815-785 Charneca de Caparica e Sobreda, Almada (Portugal)"
+    },
+    "car_details": {
+      "name": "SEAT Ibiza SC 1.4 TSI Cupra DSG",
+      "manufacturer": "SEAT",
+      "model": "Ibiza",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 87000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 180,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Citro\u00ebn",
+    "name": "Citro\u00ebn DS3 1.6 THP Sport Chic",
+    "price": {
+      "value": 9450,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/citron-ds3-1-6-thp-sport-chic-ID8PCupt.html",
+    "address": {
+      "streetAddress": "Avenida Lu\u00eds Martins Lugar de Repezes - 3505-562 Viseu, concelho Viseu (Portugal)"
+    },
+    "car_details": {
+      "name": "Citro\u00ebn DS3 1.6 THP Sport Chic",
+      "manufacturer": "Citro\u00ebn",
+      "model": "DS3",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 179000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 155,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot RCZ 1.6 THP",
+    "price": {
+      "value": 13890,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-rcz-1-6-thp-ID8PCIxQ.html",
+    "address": {
+      "streetAddress": "RUA DOM JOAO N566 - 4765-594 Serzedelo, concelho Guimar\u00e3es (Portugal)"
+    },
+    "car_details": {
+      "name": "Peugeot RCZ 1.6 THP",
+      "manufacturer": "Peugeot",
+      "model": "RCZ",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 91771,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 156,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot RCZ 1.6 THP",
+    "price": {
+      "value": 12900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-rcz-1-6-thp-ID8PD1k0.html",
+    "address": {
+      "streetAddress": "Rua de Pedro Costa Lt 5 - 2820-182 Charneca de Caparica e Sobreda, concelho Almada (Portugal)"
+    },
+    "car_details": {
+      "name": "Peugeot RCZ 1.6 THP",
+      "manufacturer": "Peugeot",
+      "model": "RCZ",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 120000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 156,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 149,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW 520",
+    "price": {
+      "value": 13490,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/bmw-520-ID8PDlfW.html",
+    "address": {
+      "streetAddress": "av 25 de Abril , Estrada Nacional 10 - 2845-547 Amora, concelho Seixal (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW 520",
+      "manufacturer": "BMW",
+      "model": "520",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 117000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 160,
+        "engineDisplacement": 1995,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI John Cooper Works Cabrio",
+    "price": {
+      "value": 18900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-john-cooper-works-cabrio-ID8PCMJ8.html",
+    "address": {
+      "streetAddress": "Amora, concelho Seixal"
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works Cabrio",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 136000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Cooper S",
+    "price": {
+      "value": 12950,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-cooper-s-ID8PD1V8.html",
+    "address": {
+      "streetAddress": "Rua Olho Marinho, 912  ( EN. 109 ) - 3885-113 Ovar, S\u00e3o Jo\u00e3o, Arada e S\u00e3o Vicente de Pereira Jus\u00e3, concelho Ovar (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI Cooper S",
+      "manufacturer": "MINI",
+      "model": "Cooper",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 152197,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Alfa Romeo",
+    "name": "Alfa Romeo MiTo TB 1.4 16V Turismo",
+    "price": {
+      "value": 10990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/alfa-romeo-mito-tb-1-4-16v-turismo-ID8PDkSM.html",
+    "address": {
+      "streetAddress": "Rua Da Pedreira, 238, loja, Bairro Do Casal Novo - 1685-429 Ramada e Cane\u00e7as, concelho Odivelas (Portugal)"
+    },
+    "car_details": {
+      "name": "Alfa Romeo MiTo TB 1.4 16V Turismo",
+      "manufacturer": "Alfa Romeo",
+      "model": "MiTo",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 175000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 155,
+        "engineDisplacement": 1368,
+        "emissionsCO2": 153,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz SLK 200",
+    "price": {
+      "value": 23900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mercedes-benz-slk-200-ID8PDkNV.html",
+    "address": {
+      "streetAddress": "Rua Elina Guimar\u00e3es 9, Lisboa, Portugal - 1750-095 Santo Ant\u00f3nio dos Cavaleiros e Frielas, concelho Loures (Portugal)"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz SLK 200",
+      "manufacturer": "Mercedes-Benz",
+      "model": "SLK 200",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 133000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1796,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTI",
+    "price": {
+      "value": 14750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-ID8PwfeG.html",
+    "address": {
+      "streetAddress": "Rua Comendador Francisco Lima Amorim - 4495-137 Aver-O-Mar, Amorim e Terroso, concelho P\u00f3voa de Varzim (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTI",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 177000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 210,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot 208 GTI 200 THP",
+    "price": {
+      "value": 13500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-208-gti-200-thp-ID8Pwff1.html",
+    "address": {
+      "streetAddress": "Rua Comendador Francisco Lima Amorim - 4495-137 Aver-O-Mar, Amorim e Terroso, concelho P\u00f3voa de Varzim (Portugal)"
+    },
+    "car_details": {
+      "name": "Peugeot 208 GTI 200 THP",
+      "manufacturer": "Peugeot",
+      "model": "208",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 131000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW Z4 23 i",
+    "price": {
+      "value": 24900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/bmw-z4-23-i-ID8PoIx2.html",
+    "address": {
+      "streetAddress": "Estrada da Marinha Grande - Lote 10 - 2400-158 Marrazes e Barosa, concelho Leiria (Portugal)"
+    },
+    "car_details": {
+      "name": "BMW Z4 23 i",
+      "manufacturer": "BMW",
+      "model": "Z4",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 129850,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 204,
+        "engineDisplacement": 2497,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Scirocco 1.4 TSI R-Line",
+    "price": {
+      "value": 11800,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-scirocco-1-4-tsi-r-line-ID8PBHcR.html",
+    "address": {
+      "streetAddress": "Encarna\u00e7\u00e3o, concelho Mafra"
+    },
+    "car_details": {
+      "name": "VW Scirocco 1.4 TSI R-Line",
+      "manufacturer": "VW",
+      "model": "Scirocco",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 101500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 160,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 154,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz C 250 CGi BE",
+    "price": {
+      "value": 23990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mercedes-benz-c-250-cgi-be-ID8PCZTD.html",
+    "address": {
+      "streetAddress": "Rua Padre Ramiro das Neves - 4590-614 Pa\u00e7os de Ferreira, concelho Pa\u00e7os de Ferreira (Portugal)"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz C 250 CGi BE",
+      "manufacturer": "Mercedes-Benz",
+      "model": "C 250",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 125000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 204,
+        "engineDisplacement": 1796,
+        "emissionsCO2": 158,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI John Cooper Works Standard",
+    "price": {
+      "value": 10500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-john-cooper-works-standard-ID8PCfz4.html",
+    "address": {
+      "streetAddress": "Amarante (S\u00e3o Gon\u00e7alo), Madalena, Cepelos e Gat\u00e3o, concelho Amarante"
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works Standard",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 154800,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 165,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Alfa Romeo",
+    "name": "Alfa Romeo MiTo 1.4 T MultiAir Quadrifloglio Verde",
+    "price": {
+      "value": 13900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/alfa-romeo-mito-1-4-t-multiair-quadrifloglio-verde-ID8PCzA5.html",
+    "address": {
+      "streetAddress": "Porto Salvo, concelho Oeiras"
+    },
+    "car_details": {
+      "name": "Alfa Romeo MiTo 1.4 T MultiAir Quadrifloglio Verde",
+      "manufacturer": "Alfa Romeo",
+      "model": "MiTo",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 16000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 170,
+        "engineDisplacement": 1368,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Alfa Romeo",
+    "name": "Alfa Romeo MiTo 1.4 T MultiAir Quadrifloglio Verde",
+    "price": {
+      "value": 11999,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/alfa-romeo-mito-1-4-t-multiair-quadrifloglio-verde-ID8Pqfoo.html",
+    "address": {
+      "streetAddress": "estrada n250 Junto Do Hospital Beatriz Angelo - 2674-514 Loures, concelho Loures (Portugal)"
+    },
+    "car_details": {
+      "name": "Alfa Romeo MiTo 1.4 T MultiAir Quadrifloglio Verde",
+      "manufacturer": "Alfa Romeo",
+      "model": "MiTo",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 117568,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 170,
+        "engineDisplacement": 1368,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot RCZ 1.6 THP",
+    "price": {
+      "value": 14990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-rcz-1-6-thp-ID8PBxhZ.html",
+    "address": {
+      "streetAddress": "Estrada nacional 125, Km 65, Sitio da Arrancada - 8200 Guia, concelho Albufeira (Portugal)"
+    },
+    "car_details": {
+      "name": "Peugeot RCZ 1.6 THP",
+      "manufacturer": "Peugeot",
+      "model": "RCZ",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 174723,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 156,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 129,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTI",
+    "price": {
+      "value": 16500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-ID8PCG5g.html",
+    "address": {
+      "streetAddress": "Avenida Portas do Minho 304, Ribeir\u00e3o, Portugal - 4760-706 Ribeir\u00e3o, concelho Vila Nova de Famalic\u00e3o (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTI",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 170000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 210,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Cabrio Cooper S",
+    "price": {
+      "value": 14990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-cabrio-cooper-s-ID8PzXqv.html",
+    "address": {
+      "streetAddress": "Rua Marechal Carmona n\u00ba51-A - 2660-140 Santo Ant\u00e3o e S\u00e3o Juli\u00e3o do Tojal, concelho Loures (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI Cabrio Cooper S",
+      "manufacturer": "MINI",
+      "model": "Cabrio",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 132000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI John Cooper Works Auto",
+    "price": {
+      "value": 18250,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-john-cooper-works-auto-ID8PBvQ0.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 2 - Lugar da Cruz - 3500-719 Repeses e S\u00e3o Salvador, Viseu (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works Auto",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 118230,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 165,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Polo 1.4 TSi GTi DSG",
+    "price": {
+      "value": 13990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-polo-1-4-tsi-gti-dsg-ID8PAGXF.html",
+    "address": {
+      "streetAddress": "Nacional 109 - Brenha - 3080-437 Figueira da Foz, concelho Figueira da Foz (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Polo 1.4 TSi GTi DSG",
+      "manufacturer": "VW",
+      "model": "Polo",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 175000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 180,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot RCZ 1.6 THP Onyx",
+    "price": {
+      "value": 13950,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-rcz-1-6-thp-onyx-ID8PxEf4.html",
+    "address": {
+      "streetAddress": "Avenida Principal, 1664 - 4535-013 Lourosa, concelho Santa Maria da Feira (Portugal)"
+    },
+    "car_details": {
+      "name": "Peugeot RCZ 1.6 THP Onyx",
+      "manufacturer": "Peugeot",
+      "model": "RCZ",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 153200,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 156,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 100,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot RCZ 1.6 155 THP Auto",
+    "price": {
+      "value": 13500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-rcz-1-6-155-thp-auto-ID8PBI6u.html",
+    "address": {
+      "streetAddress": "Cascais e Estoril, concelho Cascais"
+    },
+    "car_details": {
+      "name": "Peugeot RCZ 1.6 155 THP Auto",
+      "manufacturer": "Peugeot",
+      "model": "RCZ",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 79557,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 156,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 GTi",
+    "price": {
+      "value": 11900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-gti-ID8PCYaC.html",
+    "address": {
+      "streetAddress": "Parque das Na\u00e7\u00f5es, concelho Lisboa"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 GTi",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 178264,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz SLK 200",
+    "price": {
+      "value": 24750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mercedes-benz-slk-200-ID8PAHPf.html",
+    "address": {
+      "streetAddress": "Avenida de Martim N\u00ba261 Martim - 4755-313 Martim, concelho Barcelos (Portugal)"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz SLK 200",
+      "manufacturer": "Mercedes-Benz",
+      "model": "SLK 200",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 46790,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1796,
+        "emissionsCO2": 150,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot RCZ 1.6 THP",
+    "price": {
+      "value": 12650,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-rcz-1-6-thp-ID8PqdBR.html",
+    "address": {
+      "streetAddress": "Largo do Terreiro - N\u00ba13/14 - 1750-290 Santa Clara, concelho Lisboa (Portugal)"
+    },
+    "car_details": {
+      "name": "Peugeot RCZ 1.6 THP",
+      "manufacturer": "Peugeot",
+      "model": "RCZ",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 144000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 159,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Renault",
+    "name": "Renault M\u00e9gane Coupe 2.0 T 16V RS",
+    "price": {
+      "value": 17900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/renault-mgane-coupe-2-0-t-16v-rs-ID8PAUfd.html",
+    "address": {
+      "streetAddress": "Rua da gestosa - 4440-055 Campo e Sobrado, concelho Valongo (Portugal)"
+    },
+    "car_details": {
+      "name": "Renault M\u00e9gane Coupe 2.0 T 16V RS",
+      "manufacturer": "Renault",
+      "model": "M\u00e9gane Coupe",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 137000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 250,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot RCZ 1.6 THP",
+    "price": {
+      "value": 17990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-rcz-1-6-thp-ID8PxMfQ.html",
+    "address": {
+      "streetAddress": "Estrada Nacional 1 Malaposta do Carqueijo - 3050-131 Casal Comba, concelho Mealhada (Portugal)"
+    },
+    "car_details": {
+      "name": "Peugeot RCZ 1.6 THP",
+      "manufacturer": "Peugeot",
+      "model": "RCZ",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 109500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 156,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 149,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Opel",
+    "name": "Opel Corsa OPC 1.6 T",
+    "price": {
+      "value": 14900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/opel-corsa-opc-1-6-t-ID8PolVt.html",
+    "address": {
+      "streetAddress": "Rua Central de Campo,2140 - 4440-038 Campo e Sobrado, concelho Valongo (Portugal)"
+    },
+    "car_details": {
+      "name": "Opel Corsa OPC 1.6 T",
+      "manufacturer": "Opel",
+      "model": "Corsa",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 159000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 192,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot RCZ 1.6 THP",
+    "price": {
+      "value": 17999,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-rcz-1-6-thp-ID8PBEkg.html",
+    "address": {
+      "streetAddress": "Avenida Comendador Ferreira de Matos N\u00ba306 - 4450-120 Matosinhos e Le\u00e7a da Palmeira, Matosinhos (Portugal)"
+    },
+    "car_details": {
+      "name": "Peugeot RCZ 1.6 THP",
+      "manufacturer": "Peugeot",
+      "model": "RCZ",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 139584,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 200,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 2.0 TSi GTi Performance",
+    "price": {
+      "value": 20999,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-2-0-tsi-gti-performance-ID8PDidn.html",
+    "address": {
+      "streetAddress": "Rua de S\u00e3o Tom\u00e9 n\u00ba 339 - 4980-802 Vade (S\u00e3o Tom\u00e9), concelho Ponte da Barca (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 2.0 TSi GTi Performance",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 143964,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 230,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Opel",
+    "name": "Opel GT 2.0 T",
+    "price": {
+      "value": 22900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/opel-gt-2-0-t-ID8PCGEF.html",
+    "address": {
+      "streetAddress": "Estrada D. Miguel ( Junto a Rotunda IC29 ) - 4510-243 F\u00e2nzeres e S\u00e3o Pedro da Cova, concelho Gondomar (Portugal)"
+    },
+    "car_details": {
+      "name": "Opel GT 2.0 T",
+      "manufacturer": "Opel",
+      "model": "GT",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 149054,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 264,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Cooper S",
+    "price": {
+      "value": 14990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-cooper-s-ID8PDicC.html",
+    "address": {
+      "streetAddress": "Rua do Outeiro n\u00ba 15 - 2700-629 Falagueira-Venda Nova, concelho Amadora (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI Cooper S",
+      "manufacturer": "MINI",
+      "model": "Cooper",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 165000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi TT Coup\u00e9 1.8 TFSI S-line",
+    "price": {
+      "value": 14750,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-tt-coup-1-8-tfsi-s-line-ID8PBEiG.html",
+    "address": {
+      "streetAddress": "Av. Dra. Assun\u00e7\u00e3o Vasconcelos Chaves, 310 - 4700-010 Real, Dume e Semelhe, concelho Braga (Portugal)"
+    },
+    "car_details": {
+      "name": "Audi TT Coup\u00e9 1.8 TFSI S-line",
+      "manufacturer": "Audi",
+      "model": "TT Coup\u00e9",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 160000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 160,
+        "engineDisplacement": 1798,
+        "emissionsCO2": 149,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Golf 1.4 TSi DSG Highline",
+    "price": {
+      "value": 13990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-golf-1-4-tsi-dsg-highline-ID8PvKkp.html",
+    "address": {
+      "streetAddress": "Rua Padre Ant\u00f3nio Vieira, 3 A - 2620-086 P\u00f3voa de Santo Adri\u00e3o e Olival Basto, concelho Odivelas (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Golf 1.4 TSi DSG Highline",
+      "manufacturer": "VW",
+      "model": "Golf",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 70000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 160,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 139,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Roadster Cooper S Auto",
+    "price": {
+      "value": 18950,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-roadster-cooper-s-auto-ID8PkYVt.html",
+    "address": {
+      "streetAddress": "Quinta Lavi Blc. B Arm. 6, Rua Thilo Krassman - 2710-141 Sintra (Santa Maria e S\u00e3o Miguel, S\u00e3o Martinho e S\u00e3o Pedro de Penaferrim), concelho Sintra (Portugal)"
+    },
+    "car_details": {
+      "name": "MINI Roadster Cooper S Auto",
+      "manufacturer": "MINI",
+      "model": "Roadster",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 116000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mazda",
+    "name": "Mazda CX-7 MZR 2.3 Sport",
+    "price": {
+      "value": 8990,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mazda-cx-7-mzr-2-3-sport-ID8PCK1K.html",
+    "address": {
+      "streetAddress": "Largo 1 de Maio N\u00ba 2 - Vale Figueira - 2695-756 Santa Iria de Azoia, S\u00e3o Jo\u00e3o da Talha e Bobadela, concelho Loures (Portugal)"
+    },
+    "car_details": {
+      "name": "Mazda CX-7 MZR 2.3 Sport",
+      "manufacturer": "Mazda",
+      "model": "CX-7",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 148105,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 260,
+        "engineDisplacement": 2261,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi TTS Coup\u00e9 2.0 TFSi quattro S Tronic",
+    "price": {
+      "value": 24500,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-tts-coup-2-0-tfsi-quattro-s-tronic-ID8Pzymx.html",
+    "address": {
+      "streetAddress": "Vila Nova de Gaia, concelho Vila Nova de Gaia"
+    },
+    "car_details": {
+      "name": "Audi TTS Coup\u00e9 2.0 TFSi quattro S Tronic",
+      "manufacturer": "Audi",
+      "model": "TTS Coup\u00e9",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 159364,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 272,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Citro\u00ebn",
+    "name": "Citro\u00ebn DS3 1.6 THP Sport Chic",
+    "price": {
+      "value": 10900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/citron-ds3-1-6-thp-sport-chic-ID8PDxBc.html",
+    "address": {
+      "streetAddress": "R. Tanque Veiga 45, Braga, Portugal - 4705-084 Braga, concelho Braga (Portugal)"
+    },
+    "car_details": {
+      "name": "Citro\u00ebn DS3 1.6 THP Sport Chic",
+      "manufacturer": "Citro\u00ebn",
+      "model": "DS3",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 63400,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 156,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 155,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "VW",
+    "name": "VW Polo 1.4 TSi GTi DSG",
+    "price": {
+      "value": 14950,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/vw-polo-1-4-tsi-gti-dsg-ID8PAILp.html",
+    "address": {
+      "streetAddress": "Cruzamento Sargento Mor Nacional N\u00ba1 - 3020-832 Souselas e Bot\u00e3o, concelho Coimbra (Portugal)"
+    },
+    "car_details": {
+      "name": "VW Polo 1.4 TSi GTi DSG",
+      "manufacturer": "VW",
+      "model": "Polo",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 150000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 180,
+        "engineDisplacement": 1390,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI Coup\u00e9 Cooper S",
+    "price": {
+      "value": 12000,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/mini-coup-cooper-s-ID8PxrV5.html",
+    "address": {
+      "streetAddress": "Alg\u00e9s, Linda-A-Velha e Cruz Quebrada-Dafundo, concelho Oeiras"
+    },
+    "car_details": {
+      "name": "MINI Coup\u00e9 Cooper S",
+      "manufacturer": "MINI",
+      "model": "Coup\u00e9",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 158000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 184,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 136,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi A5 Cabrio 2.0 TFSi S-line",
+    "price": {
+      "value": 16900,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/audi-a5-cabrio-2-0-tfsi-s-line-ID8PrBlY.html",
+    "address": {
+      "streetAddress": "Alvalade, concelho Lisboa"
+    },
+    "car_details": {
+      "name": "Audi A5 Cabrio 2.0 TFSi S-line",
+      "manufacturer": "Audi",
+      "model": "A5 Cabrio",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 179000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Peugeot",
+    "name": "Peugeot RCZ 1.6 155 THP",
+    "price": {
+      "value": 12350,
+      "currency": "EUR"
+    },
+    "url": "https://www.standvirtual.com/carros/anuncio/peugeot-rcz-1-6-155-thp-ID8PBBZv.html",
+    "address": {
+      "streetAddress": "Braga (Maximinos, S\u00e9 e Cividade), concelho Braga"
+    },
+    "car_details": {
+      "name": "Peugeot RCZ 1.6 155 THP",
+      "manufacturer": "Peugeot",
+      "model": "RCZ",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 159000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 156,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 155,
+        "fuelType": "petrol"
+      }
+    }
+  }
+]

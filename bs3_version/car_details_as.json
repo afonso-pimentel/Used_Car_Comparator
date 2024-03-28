@@ -1,0 +1,3810 @@
+[
+  {
+    "brand": "Maserati",
+    "name": "Maserati de \u20ac 19\u202f990,-",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/maserati-quattroporte-4-2-v8-400-sport-gt-essence-gris-b490cff4-2e03-40d8-9091-27853a74b807",
+    "address": {
+      "streetAddress": "1519 avenue pierre et marie curie"
+    },
+    "car_details": {
+      "name": "Maserati Quattroporte",
+      "manufacturer": "Maserati",
+      "model": "Quattroporte",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 70633,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 401,
+        "engineDisplacement": 4244,
+        "emissionsCO2": 340,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Jaguar",
+    "name": "Jaguar de \u20ac 20\u202f000,-",
+    "price": {
+      "value": 20000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/jaguar-xk-r-coupe-4-2i-v8-suralimente-bva-r-coupe-phase-essence-noir-33ccf837-db74-4073-83bc-9fd21ec37dd3",
+    "address": {
+      "streetAddress": "765 Avenue Saint Martin"
+    },
+    "car_details": {
+      "name": "Jaguar XK",
+      "manufacturer": "Jaguar",
+      "model": "XK",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 127000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 416,
+        "engineDisplacement": 4196,
+        "emissionsCO2": 294,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f990,-",
+    "price": {
+      "value": 14990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a4-2-0-tfsi-211-s-line-essence-noir-a7c4d771-4e09-441c-bc49-644dfa88abc7",
+    "address": {
+      "streetAddress": "117 Av. de la Plaine Brunette"
+    },
+    "car_details": {
+      "name": "Audi A4",
+      "manufacturer": "Audi",
+      "model": "A4",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 112000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 212,
+        "engineDisplacement": null,
+        "emissionsCO2": 169,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 16\u202f989,-",
+    "price": {
+      "value": 16989,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-x6-3-5-i-305-ch-exclusive-individual-xdrive-bva-essence-noir-7e619134-276a-4357-9e9f-a38cdc0f431c",
+    "address": {
+      "streetAddress": "14 AV HELENE BOUCHER"
+    },
+    "car_details": {
+      "name": "BMW X6",
+      "manufacturer": "BMW",
+      "model": "X6",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 148500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 307,
+        "engineDisplacement": null,
+        "emissionsCO2": 0,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 17\u202f490,-",
+    "price": {
+      "value": 17490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-golf-2-0-tsi-270-r-4motion-essence-noir-65ef2238-48fc-46e1-adff-5c6ab0105a0e",
+    "address": {
+      "streetAddress": "6 rue Camille de Gast"
+    },
+    "car_details": {
+      "name": "Volkswagen Golf",
+      "manufacturer": "Volkswagen",
+      "model": "Golf",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 165000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 271,
+        "engineDisplacement": 1984,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mazda",
+    "name": "Mazda de \u20ac 15\u202f990,-",
+    "price": {
+      "value": 15990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mazda-3-2-l-mzr-disi-turbo-mps-essence-gris-b3125008-c252-4a66-83c0-20d8df43d9b4",
+    "address": {
+      "streetAddress": "445 rue des Meuniers"
+    },
+    "car_details": {
+      "name": "Mazda 3",
+      "manufacturer": "Mazda",
+      "model": "3",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 121600,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 260,
+        "engineDisplacement": 2261,
+        "emissionsCO2": 219,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 14\u202f990,-",
+    "price": {
+      "value": 14990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-passat-cc-3-6-v6-300ch-carat-edition-4motion-dsg6-essence-37549348-89a9-4aa2-84e9-862d21e00bac",
+    "address": {
+      "streetAddress": "206 RUE D IRLANDE"
+    },
+    "car_details": {
+      "name": "Volkswagen Passat CC",
+      "manufacturer": "Volkswagen",
+      "model": "Passat CC",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 136387,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 305,
+        "engineDisplacement": 3597,
+        "emissionsCO2": 242,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 19\u202f990,-",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-335-serie-3-cab-e93-12-2006-03-2010-cab-luxe-a-essence-bleu-3371bb41-19c6-48f7-80f7-4d38012dc2a1",
+    "address": {
+      "streetAddress": "6 All\u00e9e pierre dupont"
+    },
+    "car_details": {
+      "name": "BMW 335",
+      "manufacturer": "BMW",
+      "model": "335",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 129800,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 306,
+        "engineDisplacement": 2979,
+        "emissionsCO2": 226,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 16\u202f990,-",
+    "price": {
+      "value": 16990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-335-335i-luxe-essence-gris-a607dc04-4ce9-41ec-af35-1f37155853e6",
+    "address": {
+      "streetAddress": "65 RUE DES ENTREPRENEURS"
+    },
+    "car_details": {
+      "name": "BMW 335",
+      "manufacturer": "BMW",
+      "model": "335",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 82000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 307,
+        "engineDisplacement": null,
+        "emissionsCO2": 1,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 19\u202f990,-",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-z4-roadster-e89-2-5-sdrive23i-204-essence-noir-6bfb082e-f1b9-4dc3-9ac3-91844d5225d8",
+    "address": {
+      "streetAddress": "32 Boulevard Du Jardin Exotique"
+    },
+    "car_details": {
+      "name": "BMW Z4",
+      "manufacturer": "BMW",
+      "model": "Z4",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 105750,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 205,
+        "engineDisplacement": null,
+        "emissionsCO2": 0,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 19\u202f990,-",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-scirocco-2-0-tsi-265-essence-blanc-a4930e2f-6cac-4c53-b3d9-3d5fb37173d8",
+    "address": {
+      "streetAddress": "160 rue de lorraine"
+    },
+    "car_details": {
+      "name": "Volkswagen Scirocco",
+      "manufacturer": "Volkswagen",
+      "model": "Scirocco",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 102700,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 265,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 189,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Renault",
+    "name": "Renault de \u20ac 9\u202f999,-",
+    "price": {
+      "value": 9999,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/renault-laguna-gt-essence-blanc-b2a2ef6d-d526-4c97-ab1b-eb25b060a5a2",
+    "address": {
+      "streetAddress": "Route de Vitry sur Orne"
+    },
+    "car_details": {
+      "name": "Renault Laguna",
+      "manufacturer": "Renault",
+      "model": "Laguna",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 123000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 205,
+        "engineDisplacement": null,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 15\u202f900,-",
+    "price": {
+      "value": 15900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-golf-gti-2-0-tsi-210-essence-noir-bd861269-9ffb-4408-bd12-2dbdce42d54f",
+    "address": {
+      "streetAddress": "11 Rue Ronsard"
+    },
+    "car_details": {
+      "name": "Volkswagen Golf GTI",
+      "manufacturer": "Volkswagen",
+      "model": "Golf GTI",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 93900,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 170,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Saab",
+    "name": "Saab de \u20ac 18\u202f900,-",
+    "price": {
+      "value": 18900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/saab-9-5-2-0-l-turbo-aero-xwd-automat-6-260-ps-hirsch-essence-argent-c014cfb9-dee9-4f94-bdcb-d4501cad7407",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Saab 9-5",
+      "manufacturer": "Saab",
+      "model": "9-5",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 121880,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 260,
+        "engineDisplacement": null,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 19\u202f500,-",
+    "price": {
+      "value": 19500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-335-serie-3-cab-e93-dkg-kardon-carbone-essence-noir-4dd45d4c-b03e-4720-8cfa-5161a477cadd",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW 335",
+      "manufacturer": "BMW",
+      "model": "335",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 180000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 306,
+        "engineDisplacement": 2979,
+        "emissionsCO2": 217,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Dodge",
+    "name": "Dodge de \u20ac 19\u202f900,-",
+    "price": {
+      "value": 19900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/dodge-caliber-cabliber-srt4-inferno-2008-390ch-essence-rouge-8fc8991b-9755-4565-b051-f837ef7753b4",
+    "address": {
+      "streetAddress": "3 RUE JEAN JAURES"
+    },
+    "car_details": {
+      "name": "Dodge Caliber",
+      "manufacturer": "Dodge",
+      "model": "Caliber",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 98000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 390,
+        "engineDisplacement": 2360,
+        "emissionsCO2": 211,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Nissan",
+    "name": "Nissan de \u20ac 19\u202f990,-",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/nissan-370z-coupe-3-7-v6-331-pack-essence-argent-fe87388d-fd5d-4373-a103-d26581999041",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Nissan 370Z",
+      "manufacturer": "Nissan",
+      "model": "370Z",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 119000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 330,
+        "engineDisplacement": 3696,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Porsche",
+    "name": "Porsche de \u20ac 19\u202f000,-",
+    "price": {
+      "value": 19000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/porsche-cayman-3-4-s-tiptronic-987-cayman-s-2008-295hp-19000e-essence-blanc-6d007a23-ed96-4555-b426-3ada306e6ec4",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Porsche Cayman",
+      "manufacturer": "Porsche",
+      "model": "Cayman",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 140000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 295,
+        "engineDisplacement": 3387,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 12\u202f950,-",
+    "price": {
+      "value": 12950,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-s5-4-2i-v8-fsi-quattro-tiptronic-1st-owner-audi-essence-noir-6862f573-9aa0-4e51-9547-572d34501dc8",
+    "address": {
+      "streetAddress": "Sur Rendez-Vous"
+    },
+    "car_details": {
+      "name": "Audi S5",
+      "manufacturer": "Audi",
+      "model": "S5",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 144831,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 354,
+        "engineDisplacement": 4163,
+        "emissionsCO2": 256,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 17\u202f990,-",
+    "price": {
+      "value": 17990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-s5-v8-4-2-fsi-354-quattro-vendu-essence-noir-936c210d-58cb-414e-9d22-cdf88695ac75",
+    "address": {
+      "streetAddress": "4 AVENUE EDOUARD VII"
+    },
+    "car_details": {
+      "name": "Audi S5",
+      "manufacturer": "Audi",
+      "model": "S5",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 125000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 354,
+        "engineDisplacement": 4163,
+        "emissionsCO2": 288,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 17\u202f490,-",
+    "price": {
+      "value": 17490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-tts-coupe-2-0-tfsi-272-quattro-s-tronic-a-essence-noir-e51f9a3d-979a-49b5-8eca-9d8d4df4467e",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi TTS",
+      "manufacturer": "Audi",
+      "model": "TTS",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 160000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 272,
+        "engineDisplacement": 1984,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 16\u202f990,-",
+    "price": {
+      "value": 16990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-z4-roadster-23i-cabriolet-sdrive-essence-gris-93deddfe-afc8-4027-978d-ea44ebfea871",
+    "address": {
+      "streetAddress": "25 RUE DE HAGUENAU"
+    },
+    "car_details": {
+      "name": "BMW Z4",
+      "manufacturer": "BMW",
+      "model": "Z4",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 149500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 205,
+        "engineDisplacement": null,
+        "emissionsCO2": 0,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 16\u202f000,-",
+    "price": {
+      "value": 16000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-scirocco-2-0-tsi-265-r-dsg6-essence-noir-e1dd760e-3396-4861-8492-4066d459a0c0",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Volkswagen Scirocco",
+      "manufacturer": "Volkswagen",
+      "model": "Scirocco",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 162000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 265,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 187,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 19\u202f999,-",
+    "price": {
+      "value": 19999,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-z4-luxe-essence-brun-e3fd4260-b8f9-4406-b24e-13415a23f909",
+    "address": {
+      "streetAddress": "Route de Vitry sur Orne"
+    },
+    "car_details": {
+      "name": "BMW Z4",
+      "manufacturer": "BMW",
+      "model": "Z4",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 148483,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 258,
+        "engineDisplacement": null,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Porsche",
+    "name": "Porsche de \u20ac 19\u202f990,-",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/porsche-cayenne-4-8-v8-s-tiptronic-a-essence-gris-33ad830e-319d-48b6-b10b-4f3afeed7f22",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Porsche Cayenne",
+      "manufacturer": "Porsche",
+      "model": "Cayenne",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 96800,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 400,
+        "engineDisplacement": 4806,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 15\u202f900,-",
+    "price": {
+      "value": 15900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-golf-r32-3-2-v6-250-4motion-dsg-essence-noir-9264105c-ef95-4b14-a438-dc2ab90440c5",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Volkswagen Golf",
+      "manufacturer": "Volkswagen",
+      "model": "Golf",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 168200,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 250,
+        "engineDisplacement": 3189,
+        "emissionsCO2": 231,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 19\u202f800,-",
+    "price": {
+      "value": 19800,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-others-golf-r-essence-noir-4e52b52b-bf16-4378-b60b-be299068651a",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Volkswagen",
+      "manufacturer": "Volkswagen",
+      "model": null,
+      "productionDate": "2012",
+      "mileage": {
+        "value": 143000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 271,
+        "engineDisplacement": 2000,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 10\u202f500,-",
+    "price": {
+      "value": 10500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-s3-2-0-tfsi-265-quattro-s-tronic-a-essence-blanc-989dc05f-cce4-45a3-9065-717b51c63b2f",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi S3",
+      "manufacturer": "Audi",
+      "model": "S3",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 177000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 265,
+        "engineDisplacement": 1984,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 16\u202f200,-",
+    "price": {
+      "value": 16200,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-golf-2-0-tsi-270-r-4motion-essence-noir-fab76983-7374-4eed-97f0-c0f7ee8b39ba",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Volkswagen Golf",
+      "manufacturer": "Volkswagen",
+      "model": "Golf",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 163580,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 271,
+        "engineDisplacement": 1984,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 18\u202f990,-",
+    "price": {
+      "value": 18990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-tts-coupe-2-0-tfsi-272-quattro-s-tronic-vendu-essence-blanc-d8b03597-72cf-4f7a-8ff7-ed37ec33bfe6",
+    "address": {
+      "streetAddress": "4 AVENUE EDOUARD VII"
+    },
+    "car_details": {
+      "name": "Audi TTS",
+      "manufacturer": "Audi",
+      "model": "TTS",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 127500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 272,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 184,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 16\u202f000,-",
+    "price": {
+      "value": 16000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-650-serie-6-e63-09-2003-09-2011-367-ch-sport-essence-gris-f0fc1fb5-fb20-4a63-ac8f-ba10e5852861",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW 650",
+      "manufacturer": "BMW",
+      "model": "650",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 57000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 367,
+        "engineDisplacement": 4799,
+        "emissionsCO2": 249,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 19\u202f500,-",
+    "price": {
+      "value": 19500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-325-serie-3-e90-lci-09-2008-03-2012-218-ch-sport-a-essence-noir-15eef6b7-7844-4c92-98c6-96edc8229e76",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW 325",
+      "manufacturer": "BMW",
+      "model": "325",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 93500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 218,
+        "engineDisplacement": 2996,
+        "emissionsCO2": 174,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 19\u202f990,-",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-cabriolet-v6-3-0-tfsi-333-quattro-s-tronic-essence-noir-36a91a02-d325-4f27-a481-4ad7b8e93787",
+    "address": {
+      "streetAddress": "41 rue de la Contrie"
+    },
+    "car_details": {
+      "name": "Audi Cabriolet",
+      "manufacturer": "Audi",
+      "model": "Cabriolet",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 132619,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 333,
+        "engineDisplacement": 2995,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 18\u202f490,-",
+    "price": {
+      "value": 18490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-125-bmw-serie-1-coupe-125i-218ch-edition-m-sport-essence-noir-21dd264c-c4c0-4c15-baa2-d8815d2243dc",
+    "address": {
+      "streetAddress": "15 rue du 26 Novembre"
+    },
+    "car_details": {
+      "name": "BMW 125",
+      "manufacturer": "BMW",
+      "model": "125",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 167800,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 258,
+        "engineDisplacement": 2996,
+        "emissionsCO2": 189,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz de \u20ac 10\u202f950,-",
+    "price": {
+      "value": 10950,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mercedes-benz-e-250-cgi-be-euro-5-coupe-auto-cuir-gps-navi-essence-gris-79138d9f-4f8c-4b8f-8bb2-0e27fd9e1726",
+    "address": {
+      "streetAddress": "Sur Rendez-Vous"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz E 250",
+      "manufacturer": "Mercedes-Benz",
+      "model": "E 250",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 150000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 204,
+        "engineDisplacement": 1796,
+        "emissionsCO2": 175,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 15\u202f990,-",
+    "price": {
+      "value": 15990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-335-e90-lci-335xi-335-xi-306-luxe-20-essence-c2c6d1d0-ea03-47d5-8ecf-c571fa33a69f",
+    "address": {
+      "streetAddress": "9 Impasse le Mirabeau, Avenue Etienne Rabattu"
+    },
+    "car_details": {
+      "name": "BMW 335",
+      "manufacturer": "BMW",
+      "model": "335",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 171067,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 306,
+        "engineDisplacement": 2979,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 19\u202f990,-",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-s4-v6-3-0-tfsi-333-quattro-s-tronic-essence-noir-0d8d6fdc-29da-450f-9832-8afbbacbe5d7",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi S4",
+      "manufacturer": "Audi",
+      "model": "S4",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 135000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 333,
+        "engineDisplacement": 2995,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz de \u20ac 19\u202f990,-",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mercedes-benz-cl-500-a-5-5l-v8-388-cv-essence-3cc6d434-3dbc-4382-aab9-ed57527527d5",
+    "address": {
+      "streetAddress": "688 avenue des follaz"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz CL",
+      "manufacturer": "Mercedes-Benz",
+      "model": "CL",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 90500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 387,
+        "engineDisplacement": 5461,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 19\u202f951,-",
+    "price": {
+      "value": 19951,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a5-3-2-v6-fsi-265-quattro-ambition-luxe-essence-argent-0268d70f-99ab-4b0e-b070-e73599eb490b",
+    "address": {
+      "streetAddress": "5 Rue Fran\u00e7ois Verdier"
+    },
+    "car_details": {
+      "name": "Audi A5",
+      "manufacturer": "Audi",
+      "model": "A5",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 84514,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 265,
+        "engineDisplacement": 3197,
+        "emissionsCO2": 213,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Land Rover",
+    "name": "Land Rover de \u20ac 17\u202f490,-",
+    "price": {
+      "value": 17490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/land-rover-range-rover-evoque-coupe-si4-dynamic-a-essence-blanc-30b39c72-b420-4500-9907-29a9300b012b",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Land Rover Range Rover Evoque",
+      "manufacturer": "Land Rover",
+      "model": "Range Rover Evoque",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 167000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 241,
+        "engineDisplacement": 1999,
+        "emissionsCO2": 199,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 17\u202f500,-",
+    "price": {
+      "value": 17500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-x3-xdrive35i-306ch-sport-design-steptronic-a-essence-gris-ca2a89e2-8fa7-4a44-acf3-ae6804e9817a",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW X3",
+      "manufacturer": "BMW",
+      "model": "X3",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 165000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 306,
+        "engineDisplacement": 2979,
+        "emissionsCO2": 204,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 19\u202f990,-",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-740-li-7-long-full-automat-capt-av-ar-375x60mois-essence-noir-0e1e3e7a-8512-4945-8fbc-0e6f93199acd",
+    "address": {
+      "streetAddress": "Sur Rendez-Vous"
+    },
+    "car_details": {
+      "name": "BMW 740",
+      "manufacturer": "BMW",
+      "model": "740",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 101982,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 326,
+        "engineDisplacement": 2979,
+        "emissionsCO2": 235,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 15\u202f990,-",
+    "price": {
+      "value": 15990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-740-serie-7-740i-exclusive-a-vendu-essence-noir-33a65a3c-7f6d-46fd-8035-09add331d486",
+    "address": {
+      "streetAddress": "4 AVENUE EDOUARD VII"
+    },
+    "car_details": {
+      "name": "BMW 740",
+      "manufacturer": "BMW",
+      "model": "740",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 152000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 326,
+        "engineDisplacement": 2979,
+        "emissionsCO2": 232,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Jaguar",
+    "name": "Jaguar de \u20ac 12\u202f900,-",
+    "price": {
+      "value": 12900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/jaguar-xf-v6-3-0-340-essence-argent-47a108d6-691d-4bc8-8fe7-b7ae11a513d9",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Jaguar XF",
+      "manufacturer": "Jaguar",
+      "model": "XF",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 120000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 340,
+        "engineDisplacement": 2995,
+        "emissionsCO2": 224,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 17\u202f490,-",
+    "price": {
+      "value": 17490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-s3-sportback-2-0-tfsi-265-quattro-vendu-essence-blanc-d1b80550-7799-4999-967a-7c237227ab5a",
+    "address": {
+      "streetAddress": "4 AVENUE EDOUARD VII"
+    },
+    "car_details": {
+      "name": "Audi S3",
+      "manufacturer": "Audi",
+      "model": "S3",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 119000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 265,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 199,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 20\u202f000,-",
+    "price": {
+      "value": 20000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-z4-sdrive23i-pack-m-sport-essence-gris-2d8f5225-c501-4684-a90d-f9172d8c67cd",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW Z4",
+      "manufacturer": "BMW",
+      "model": "Z4",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 129000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 204,
+        "engineDisplacement": 2497,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Dodge",
+    "name": "Dodge de \u20ac 14\u202f900,-",
+    "price": {
+      "value": 14900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/dodge-caliber-2-4l-turbo-srt4-295ch-entierement-d-origine-essence-rouge-877b43e1-b94b-4c44-88e5-ad6ac2d63946",
+    "address": {
+      "streetAddress": "3 RUE JEAN JAURES"
+    },
+    "car_details": {
+      "name": "Dodge Caliber",
+      "manufacturer": "Dodge",
+      "model": "Caliber",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 109900,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 295,
+        "engineDisplacement": 2360,
+        "emissionsCO2": 211,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 10\u202f990,-",
+    "price": {
+      "value": 10990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-passat-cc-3-6-v6-fsi-300-7-essence-b86ca985-07ca-4b41-abe1-388da2d67510",
+    "address": {
+      "streetAddress": "9 Impasse le Mirabeau, Avenue Etienne Rabattu"
+    },
+    "car_details": {
+      "name": "Volkswagen Passat CC",
+      "manufacturer": "Volkswagen",
+      "model": "Passat CC",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 138287,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 300,
+        "engineDisplacement": 3597,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo de \u20ac 16\u202f990,-",
+    "price": {
+      "value": 16990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volvo-xc60-t6-awd-285ch-summum-geartronic-essence-91a29a0c-1244-44b8-9a7c-f8cf9fef0f53",
+    "address": {
+      "streetAddress": "141 RN34"
+    },
+    "car_details": {
+      "name": "Volvo XC60",
+      "manufacturer": "Volvo",
+      "model": "XC60",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 133661,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 290,
+        "engineDisplacement": 2953,
+        "emissionsCO2": 274,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 11\u202f000,-",
+    "price": {
+      "value": 11000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-golf-gti-2-0-essence-noir-224151b8-5123-4051-85e4-a402db6349c1",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Volkswagen Golf GTI",
+      "manufacturer": "Volkswagen",
+      "model": "Golf GTI",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 170000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 170,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Maserati",
+    "name": "Maserati de \u20ac 17\u202f980,-",
+    "price": {
+      "value": 17980,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/maserati-quattroporte-4-2-v8-sport-gt-s-ba-essence-81584bd6-d84c-4b1f-b672-736a0e982a2d",
+    "address": {
+      "streetAddress": "15 Cit\u00e9 Aubert"
+    },
+    "car_details": {
+      "name": "Maserati Quattroporte",
+      "manufacturer": "Maserati",
+      "model": "Quattroporte",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 158000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 407,
+        "engineDisplacement": 4244,
+        "emissionsCO2": 370,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 18\u202f500,-",
+    "price": {
+      "value": 18500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-750-serie-7-f02-exclusive-individual-a-essence-blanc-e1a15805-4d79-445d-a30f-57cc5e57afd8",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW 750",
+      "manufacturer": "BMW",
+      "model": "750",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 172000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 408,
+        "engineDisplacement": 4395,
+        "emissionsCO2": 266,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Opel",
+    "name": "Opel de \u20ac 19\u202f995,-",
+    "price": {
+      "value": 19995,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/opel-gt-2-0i-met-slechts-23-884km-essence-noir-e79cee58-8af7-4635-8c77-45c951e51456",
+    "address": {
+      "streetAddress": "Sur rendez-vous"
+    },
+    "car_details": {
+      "name": "Opel GT",
+      "manufacturer": "Opel",
+      "model": "GT",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 23884,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 264,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 218,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 13\u202f800,-",
+    "price": {
+      "value": 13800,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-125-bmw-serie-125i-cabriolet-essence-blanc-ea210d0b-8cf5-4c6c-917c-82b3074c08d2",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW 125",
+      "manufacturer": "BMW",
+      "model": "125",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 153000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 218,
+        "engineDisplacement": 2996,
+        "emissionsCO2": 195,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 15\u202f090,-",
+    "price": {
+      "value": 15090,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a5-2-0-tfsi-211-quattro-s-tronic-7-business-line-essence-noir-a37cdbb5-0110-4991-9ace-ac16ffad335c",
+    "address": {
+      "streetAddress": "3 Rue de Gramont"
+    },
+    "car_details": {
+      "name": "Audi A5",
+      "manufacturer": "Audi",
+      "model": "A5",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 113146,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": null,
+        "emissionsCO2": 172,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 11\u202f000,-",
+    "price": {
+      "value": 11000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-passat-3-2-v6-fsi-250-carat-edition-dsg-4motion-essence-noir-dec9e503-f96c-4367-bd9c-3eaae7e6283e",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Volkswagen Passat",
+      "manufacturer": "Volkswagen",
+      "model": "Passat",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 130000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 250,
+        "engineDisplacement": 3168,
+        "emissionsCO2": 233,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo de \u20ac 17\u202f990,-",
+    "price": {
+      "value": 17990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volvo-v70-2-5-turbo-231-2-5ft-2-5-ft-flexifuel-e85-ethanol-essence-noir-ed7898f9-8c4d-48c7-b2b1-0a1f61cfe833",
+    "address": {
+      "streetAddress": "1519 avenue pierre et marie curie"
+    },
+    "car_details": {
+      "name": "Volvo V70",
+      "manufacturer": "Volvo",
+      "model": "V70",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 125000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 231,
+        "engineDisplacement": 2521,
+        "emissionsCO2": 232,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f900,-",
+    "price": {
+      "value": 14900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a5-3-2-v6-fsi-265-quattro-ambition-luxe-essence-noir-94cdd1b0-4a5e-4c70-9c3c-c0ccbdf2525a",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A5",
+      "manufacturer": "Audi",
+      "model": "A5",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 155000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 265,
+        "engineDisplacement": 3197,
+        "emissionsCO2": 213,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 17\u202f900,-",
+    "price": {
+      "value": 17900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-528-serie-5-touring-f11-excellis-essence-gris-3907ae65-7d1c-47d7-9ba4-dded183c0aef",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW 528",
+      "manufacturer": "BMW",
+      "model": "528",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 133243,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 258,
+        "engineDisplacement": 2996,
+        "emissionsCO2": 188,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Porsche",
+    "name": "Porsche de \u20ac 17\u202f800,-",
+    "price": {
+      "value": 17800,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/porsche-cayenne-4-8-v8-s-tiptronic-s-a-essence-blanc-591059eb-01d4-42a1-939b-2c788a675440",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Porsche Cayenne",
+      "manufacturer": "Porsche",
+      "model": "Cayenne",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 178000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 385,
+        "engineDisplacement": 4806,
+        "emissionsCO2": 329,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 17\u202f490,-",
+    "price": {
+      "value": 17490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-scirocco-2-0-tsi-210-sportline-essence-bleu-e2cdbd5c-3a24-4416-8b66-b986dc7eb5d3",
+    "address": {
+      "streetAddress": "1080 Chemin de la Levade"
+    },
+    "car_details": {
+      "name": "Volkswagen Scirocco",
+      "manufacturer": "Volkswagen",
+      "model": "Scirocco",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 37972,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 172,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 15\u202f789,-",
+    "price": {
+      "value": 15789,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-tiguan-2-0-tsi-210-sportline-4motion-dsg7-essence-noir-b2e298d0-4ad4-4b6f-a906-afd167da1bcd",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Volkswagen Tiguan",
+      "manufacturer": "Volkswagen",
+      "model": "Tiguan",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 130000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 199,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz de \u20ac 19\u202f990,-",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mercedes-benz-cls-350-blueefficiency-pack-amg-306cv-vendu-essence-gris-66c6767e-9410-4a3d-8b8e-7e767b51d33a",
+    "address": {
+      "streetAddress": "4 AVENUE EDOUARD VII"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz CLS 350",
+      "manufacturer": "Mercedes-Benz",
+      "model": "CLS 350",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 150000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 306,
+        "engineDisplacement": 3498,
+        "emissionsCO2": 159,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 17\u202f500,-",
+    "price": {
+      "value": 17500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-s3-sportback-2-0-tfsi-265-quattro-s-tronic-a-essence-blanc-1d6534b1-0b50-4ad0-b77f-d3b84793f435",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi S3",
+      "manufacturer": "Audi",
+      "model": "S3",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 162050,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 265,
+        "engineDisplacement": 1984,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz de \u20ac 20\u202f000,-",
+    "price": {
+      "value": 20000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mercedes-benz-e-250-classe-cgi-blueefficiency-elegance-executive-a-essence-noir-1366e155-629b-4bd2-8988-f80568630ed8",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Mercedes-Benz E 250",
+      "manufacturer": "Mercedes-Benz",
+      "model": "E 250",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 46000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1796,
+        "emissionsCO2": 154,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz de \u20ac 19\u202f490,-",
+    "price": {
+      "value": 19490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mercedes-benz-cl-250-coupe-sport-sensation-7g-dct-essence-noir-5317b97f-6d13-4521-8f73-2ca0d745f80b",
+    "address": {
+      "streetAddress": "1080 Chemin de la Levade"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz CL",
+      "manufacturer": "Mercedes-Benz",
+      "model": "CL",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 146444,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1991,
+        "emissionsCO2": 142,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 17\u202f990,-",
+    "price": {
+      "value": 17990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-tt-coupe-2-0-tfsi-211-quattro-luxe-s-tronic-6-essence-noir-37ac2e37-45a6-4966-baa6-66b2ca4b3f4f",
+    "address": {
+      "streetAddress": "10ter  ROUTE D'AVESNES"
+    },
+    "car_details": {
+      "name": "Audi TT",
+      "manufacturer": "Audi",
+      "model": "TT",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 151900,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 169,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 13\u202f390,-",
+    "price": {
+      "value": 13390,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-others-luxe-a-essence-noir-801b3829-9522-4bd9-9c89-0e1150448fde",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW",
+      "manufacturer": "BMW",
+      "model": null,
+      "productionDate": "2008",
+      "mileage": {
+        "value": 156020,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 218,
+        "engineDisplacement": null,
+        "emissionsCO2": 195,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 17\u202f990,-",
+    "price": {
+      "value": 17990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-335-e93-335i-335-i-sport-m-5-essence-ebb0c901-8bbc-42b7-a729-135710cf8af6",
+    "address": {
+      "streetAddress": "9 Impasse le Mirabeau, Avenue Etienne Rabattu"
+    },
+    "car_details": {
+      "name": "BMW 335",
+      "manufacturer": "BMW",
+      "model": "335",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 122065,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 306,
+        "engineDisplacement": 2979,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Porsche",
+    "name": "Porsche de \u20ac 20\u202f000,-",
+    "price": {
+      "value": 20000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/porsche-cayenne-4-8-v8-turbo-tiptronic-s-a-essence-noir-92f18685-f9d5-4e22-bb0d-5a0fbc351694",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Porsche Cayenne",
+      "manufacturer": "Porsche",
+      "model": "Cayenne",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 175000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 500,
+        "engineDisplacement": 4806,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz de \u20ac 12\u202f500,-",
+    "price": {
+      "value": 12500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mercedes-benz-clc-classe-350-essence-noir-3157bc31-c931-48f3-bb32-47c5af692230",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Mercedes-Benz CLC",
+      "manufacturer": "Mercedes-Benz",
+      "model": "CLC",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 175000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 272,
+        "engineDisplacement": 3498,
+        "emissionsCO2": 234,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 14\u202f000,-",
+    "price": {
+      "value": 14000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-golf-gti-2-0-tsi-210-essence-rouge-33d438b1-cd8c-4d39-b9c4-04da952ae093",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Volkswagen Golf GTI",
+      "manufacturer": "Volkswagen",
+      "model": "Golf GTI",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 119000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1984,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz de \u20ac 11\u202f950,-",
+    "price": {
+      "value": 11950,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mercedes-benz-glk-280-4-matic-edition-xenon-cuir-harman-kardon-essence-gris-e9b97292-3cce-488a-9051-8e6eb233ab63",
+    "address": {
+      "streetAddress": "Sur Rendez-Vous"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz GLK 280",
+      "manufacturer": "Mercedes-Benz",
+      "model": "GLK 280",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 168000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 231,
+        "engineDisplacement": 2996,
+        "emissionsCO2": 246,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Alfa Romeo",
+    "name": "Alfa Romeo de \u20ac 19\u202f990,-",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/alfa-romeo-giulietta-1750-tbi-235-ch-quadrifoglio-verde-essence-noir-c4db9bf0-c6ed-4a27-a1ee-d6dd3ad97c31",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Alfa Romeo Giulietta",
+      "manufacturer": "Alfa Romeo",
+      "model": "Giulietta",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 95600,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 235,
+        "engineDisplacement": 1742,
+        "emissionsCO2": 177,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 17\u202f900,-",
+    "price": {
+      "value": 17900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-q5-2-0-tfsi-211ch-avus-quattro-s-tronic-7-essence-8afcd071-41a5-42cd-a110-a88500603de9",
+    "address": {
+      "streetAddress": "22 AVE PAUL ADAM"
+    },
+    "car_details": {
+      "name": "Audi Q5",
+      "manufacturer": "Audi",
+      "model": "Q5",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 139454,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 213,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 197,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 13\u202f900,-",
+    "price": {
+      "value": 13900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-touareg-3-6-v6-fsi-280ch-carat-edition-tiptronic-essence-9e731c59-deef-476a-9d7d-7f49cc6ef04d",
+    "address": {
+      "streetAddress": "560 rue Les Portes Domitienne"
+    },
+    "car_details": {
+      "name": "Volkswagen Touareg",
+      "manufacturer": "Volkswagen",
+      "model": "Touareg",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 165502,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 284,
+        "engineDisplacement": 3597,
+        "emissionsCO2": 317,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo de \u20ac 14\u202f600,-",
+    "price": {
+      "value": 14600,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volvo-v70-2-5-ft-drive-momentum-flexifuel-ethanol-e85-gnv-ga-essence-rouge-b2800156-35e2-475e-bc0d-abfed526ec93",
+    "address": {
+      "streetAddress": "Uniquement sur RDV, \u00e0 50 m\u00e8tres de la gare RER de Maisse"
+    },
+    "car_details": {
+      "name": "Volvo V70",
+      "manufacturer": "Volvo",
+      "model": "V70",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 148900,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 230,
+        "engineDisplacement": 2521,
+        "emissionsCO2": 201,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz de \u20ac 9\u202f990,-",
+    "price": {
+      "value": 9990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mercedes-benz-clc-classe-essence-noir-9589ed01-2bb0-44e0-a3a2-5103dfd45ae3",
+    "address": {
+      "streetAddress": "1390 Avenue du Campon"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz CLC",
+      "manufacturer": "Mercedes-Benz",
+      "model": "CLC",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 143900,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 204,
+        "engineDisplacement": 2496,
+        "emissionsCO2": 225,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 16\u202f850,-",
+    "price": {
+      "value": 16850,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-golf-gti-2-0-tsi-220-bluemotion-technology-essence-noir-76a6b01c-e675-4a00-85a5-a05c638c4a8c",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Volkswagen Golf GTI",
+      "manufacturer": "Volkswagen",
+      "model": "Golf GTI",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 165000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 220,
+        "engineDisplacement": 1984,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 17\u202f900,-",
+    "price": {
+      "value": 17900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-golf-gti-2-0-tsi-220-bluemotion-technology-dsg6-essence-blanc-209a5084-ed1c-4209-aa79-59ae5eb2568d",
+    "address": {
+      "streetAddress": "1658 route national 7"
+    },
+    "car_details": {
+      "name": "Volkswagen Golf GTI",
+      "manufacturer": "Volkswagen",
+      "model": "Golf GTI",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 113000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 220,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 145,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f000,-",
+    "price": {
+      "value": 14000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a4-2-0-tfsi-211-quattro-s-line-essence-gris-0fb68831-27ab-41de-9e40-0d9c6c2714cf",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi A4",
+      "manufacturer": "Audi",
+      "model": "A4",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 177000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 172,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 14\u202f990,-",
+    "price": {
+      "value": 14990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a5-2-0-tfsi-211-quattro-ambition-luxe-s-tronic-essence-bleu-75cb8f24-3c1e-4409-bcb8-0c7da33688f2",
+    "address": {
+      "streetAddress": "63 rue de G\u00e9n\u00e9ral Mangin"
+    },
+    "car_details": {
+      "name": "Audi A5",
+      "manufacturer": "Audi",
+      "model": "A5",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 70433,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 172,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 16\u202f490,-",
+    "price": {
+      "value": 16490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-golf-gti-2-0-tsi-gti-210ch-essence-gris-3b58f41f-d4a6-4ae4-a1d6-726dbae6c40a",
+    "address": {
+      "streetAddress": "15 rue du 26 Novembre"
+    },
+    "car_details": {
+      "name": "Volkswagen Golf GTI",
+      "manufacturer": "Volkswagen",
+      "model": "Golf GTI",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 70000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 170,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI de \u20ac 10\u202f000,-",
+    "price": {
+      "value": 10000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mini-john-cooper-works-coupe-1-6-jcw-essence-bleu-4ee0c735-7db5-491d-8b87-aa255804761a",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works Coupe",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works Coupe",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 65000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 16\u202f500,-",
+    "price": {
+      "value": 16500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-750-750i-xdrive-exclusive-a-essence-or-e2a4ec78-d200-4efb-be30-e0922177d674",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW 750",
+      "manufacturer": "BMW",
+      "model": "750",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 150000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 408,
+        "engineDisplacement": 4395,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 17\u202f990,-",
+    "price": {
+      "value": 17990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-523-serie-5-f10-204ch-luxe-auto-vendu-essence-gris-27dad2e9-4a9a-4e81-8700-7c8edd6fbc62",
+    "address": {
+      "streetAddress": "4 AVENUE EDOUARD VII"
+    },
+    "car_details": {
+      "name": "BMW 523",
+      "manufacturer": "BMW",
+      "model": "523",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 58000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 204,
+        "engineDisplacement": 2996,
+        "emissionsCO2": 178,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 17\u202f900,-",
+    "price": {
+      "value": 17900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-golf-gti-2-0-tsi-220-bluemotion-technology-dsg6-essence-gris-c2666439-b180-4903-abf4-f2b42544605a",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Volkswagen Golf GTI",
+      "manufacturer": "Volkswagen",
+      "model": "Golf GTI",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 140000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 220,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 145,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Skoda",
+    "name": "Skoda de \u20ac 11\u202f999,-",
+    "price": {
+      "value": 11999,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/skoda-superb-standard-essence-rouge-5fccc809-c6b1-4619-86ba-d07d4a28c58b",
+    "address": {
+      "streetAddress": "Route de Vitry sur Orne"
+    },
+    "car_details": {
+      "name": "Skoda Superb",
+      "manufacturer": "Skoda",
+      "model": "Superb",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 143400,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 260,
+        "engineDisplacement": null,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 16\u202f990,-",
+    "price": {
+      "value": 16990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-coccinelle-2-0-tsi-210-ch-sport-dsg-bva-sound-fender-bluetoot-essence-bleu-378365a2-a0ab-47b5-93a9-5286363defb7",
+    "address": {
+      "streetAddress": "4 RUE ST GUIDON"
+    },
+    "car_details": {
+      "name": "Volkswagen Coccinelle",
+      "manufacturer": "Volkswagen",
+      "model": "Coccinelle",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 120000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 212,
+        "engineDisplacement": null,
+        "emissionsCO2": 0,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz de \u20ac 19\u202f500,-",
+    "price": {
+      "value": 19500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mercedes-benz-a-250-classe-blueefficiency-version-sport-7-g-dct-essence-blanc-02d59db8-555f-4357-a590-f1bea40f9e18",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Mercedes-Benz A 250",
+      "manufacturer": "Mercedes-Benz",
+      "model": "A 250",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 123000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1991,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 16\u202f990,-",
+    "price": {
+      "value": 16990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-golf-vi-2-0-tsi-235ch-gti-edition-35-dsg6-essence-b04a6503-f115-4a67-b6b4-f89da58fb150",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Volkswagen Golf",
+      "manufacturer": "Volkswagen",
+      "model": "Golf",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 122164,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 235,
+        "engineDisplacement": 1984,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz de \u20ac 19\u202f990,-",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mercedes-benz-slk-350-350-sport-7gtronic-depot-vente-essence-03105497-59fc-44bf-93c1-f1cb7724dfcd",
+    "address": {
+      "streetAddress": "LES CHAMBELLERIES"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz SLK 350",
+      "manufacturer": "Mercedes-Benz",
+      "model": "SLK 350",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 89500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 276,
+        "engineDisplacement": 3498,
+        "emissionsCO2": 219,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 16\u202f990,-",
+    "price": {
+      "value": 16990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-golf-2-0-tsi-210ch-gti-dsg6-essence-df530e28-1589-4b42-b611-6d265122d0fb",
+    "address": {
+      "streetAddress": "Route de Bayonne 84"
+    },
+    "car_details": {
+      "name": "Volkswagen Golf",
+      "manufacturer": "Volkswagen",
+      "model": "Golf",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 117000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 213,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 180,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 17\u202f500,-",
+    "price": {
+      "value": 17500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-golf-2-0-tsi-270-r-4motion-essence-noir-87dfd28c-82fa-401b-a0d2-e657e0e66e0e",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Volkswagen Golf",
+      "manufacturer": "Volkswagen",
+      "model": "Golf",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 165000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 271,
+        "engineDisplacement": 1984,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 14\u202f500,-",
+    "price": {
+      "value": 14500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-golf-gti-2-0-tsi-210-dsg6-essence-noir-eeb6abd6-a143-4583-adaf-732710aebc9f",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Volkswagen Golf GTI",
+      "manufacturer": "Volkswagen",
+      "model": "Golf GTI",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 147000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1984,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Alfa Romeo",
+    "name": "Alfa Romeo de \u20ac 13\u202f999,-",
+    "price": {
+      "value": 13999,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/alfa-romeo-159-3-2-jts-260ch-essence-gris-57afb73b-662d-48ae-ad1f-a732d7a5ea30",
+    "address": {
+      "streetAddress": "1 PLACE DU MARCH\u00c9"
+    },
+    "car_details": {
+      "name": "Alfa Romeo 159",
+      "manufacturer": "Alfa Romeo",
+      "model": "159",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 125000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 261,
+        "engineDisplacement": null,
+        "emissionsCO2": 0,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI de \u20ac 10\u202f990,-",
+    "price": {
+      "value": 10990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mini-cooper-clubman-r55-1-6-211ch-john-cooper-works-essence-5acb4058-5a68-4b3c-b0ab-d3c50d144109",
+    "address": {
+      "streetAddress": "60 ROUTE DE LA GARE"
+    },
+    "car_details": {
+      "name": "MINI Cooper Clubman",
+      "manufacturer": "MINI",
+      "model": "Cooper Clubman",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 139910,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 212,
+        "engineDisplacement": null,
+        "emissionsCO2": 167,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "SEAT",
+    "name": "SEAT de \u20ac 13\u202f800,-",
+    "price": {
+      "value": 13800,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/seat-leon-2-0-tsi-265-cupra-r-essence-blanc-6a8d80ff-bf7b-4ad2-af1f-6b72070f8b84",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "SEAT Leon",
+      "manufacturer": "SEAT",
+      "model": "Leon",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 148000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 265,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 190,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 19\u202f990,-",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-scirocco-2-0-tsi-265-essence-blanc-21b90f69-c129-4a5c-aef4-751a675a7358",
+    "address": {
+      "streetAddress": "160 rue de lorraine"
+    },
+    "car_details": {
+      "name": "Volkswagen Scirocco",
+      "manufacturer": "Volkswagen",
+      "model": "Scirocco",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 102700,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 265,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 189,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Opel",
+    "name": "Opel de \u20ac 16\u202f980,-",
+    "price": {
+      "value": 16980,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/opel-astra-gtc-opc-2-0i-turbo-280-cv-essence-noir-ecacb905-bd17-44b9-a5c4-3f5cb89100ff",
+    "address": {
+      "streetAddress": "29 bd des alpes"
+    },
+    "car_details": {
+      "name": "Opel Astra",
+      "manufacturer": "Opel",
+      "model": "Astra",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 98500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 280,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 189,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "DS Automobiles",
+    "name": "DS Automobiles de \u20ac 8\u202f990,-",
+    "price": {
+      "value": 8990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/ds-automobiles-ds-3-1-6-thp-206ch-racing-clim-regulateur-gps-essence-noir-1804d6b0-a89c-40f4-8273-2ae9d79e82bb",
+    "address": {
+      "streetAddress": "13 ALL DE L EUROPE"
+    },
+    "car_details": {
+      "name": "DS Automobiles DS 3",
+      "manufacturer": "DS Automobiles",
+      "model": "DS 3",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 144946,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 208,
+        "engineDisplacement": null,
+        "emissionsCO2": 149,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 14\u202f990,-",
+    "price": {
+      "value": 14990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-golf-cabriolet-2-0-tsi-210-gti-essence-bleu-3d6c51b0-3457-4839-bce2-8126d3bd366d",
+    "address": {
+      "streetAddress": "41 rue de la Contrie"
+    },
+    "car_details": {
+      "name": "Volkswagen Golf Cabriolet",
+      "manufacturer": "Volkswagen",
+      "model": "Golf Cabriolet",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 138900,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 209,
+        "engineDisplacement": 1984,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI de \u20ac 13\u202f990,-",
+    "price": {
+      "value": 13990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mini-john-cooper-works-john-cooper-works-1-6-turbo-211-r56-coupe-9000-essence-rouge-a1669f20-fdc7-418f-b7a0-73e241cc0c1b",
+    "address": {
+      "streetAddress": "1519 avenue pierre et marie curie"
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 174050,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 165,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 19\u202f990,-",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-golf-vi-2-0-tsi-210-gti-dsg6-5p-essence-bleu-8957dc4e-6436-4bdb-8e52-12cc369bc5f3",
+    "address": {
+      "streetAddress": "260 RUE TRUDAINE"
+    },
+    "car_details": {
+      "name": "Volkswagen Golf",
+      "manufacturer": "Volkswagen",
+      "model": "Golf",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 91600,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": null,
+        "emissionsCO2": 173,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Opel",
+    "name": "Opel de \u20ac 16\u202f900,-",
+    "price": {
+      "value": 16900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/opel-gt-2-0-264-turbo-ecotec-essence-gris-e7bcd248-a7f5-41e4-b469-5c1f15a1bb58",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Opel GT",
+      "manufacturer": "Opel",
+      "model": "GT",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 86100,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 264,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 218,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Land Rover",
+    "name": "Land Rover de \u20ac 16\u202f900,-",
+    "price": {
+      "value": 16900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/land-rover-range-rover-evoque-2-0-si4-dynamic-bva-3p-essence-b64ee50b-e87c-4e4c-83cb-b0c96abe3d92",
+    "address": {
+      "streetAddress": "295 Boulevard Raspail"
+    },
+    "car_details": {
+      "name": "Land Rover Range Rover Evoque",
+      "manufacturer": "Land Rover",
+      "model": "Range Rover Evoque",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 158381,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 243,
+        "engineDisplacement": 1999,
+        "emissionsCO2": 199,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 16\u202f000,-",
+    "price": {
+      "value": 16000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-s3-sportback-2-0-tfsi-265-quattro-essence-noir-c5f5f520-1dc6-4888-8b8f-90027d363dd4",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Audi S3",
+      "manufacturer": "Audi",
+      "model": "S3",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 133045,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 265,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 199,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 17\u202f990,-",
+    "price": {
+      "value": 17990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-golf-gti-2-0-tsi-235-edition-35-essence-noir-624b7202-5d7e-4581-9e2c-7283c1637ee7",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Volkswagen Golf GTI",
+      "manufacturer": "Volkswagen",
+      "model": "Golf GTI",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 138000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 235,
+        "engineDisplacement": 1984,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz de \u20ac 19\u202f990,-",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mercedes-benz-cls-350-classe-cls-essence-gris-1772acf2-e4df-4ced-88ae-91c840524f98",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Mercedes-Benz CLS 350",
+      "manufacturer": "Mercedes-Benz",
+      "model": "CLS 350",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 105000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 306,
+        "engineDisplacement": 3498,
+        "emissionsCO2": 159,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Honda",
+    "name": "Honda de \u20ac 13\u202f990,-",
+    "price": {
+      "value": 13990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/honda-civic-2-0-i-vtec-type-r-heritage-3p-essence-c1b4fea8-4c77-4b0d-856c-beef682a51aa",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Honda Civic",
+      "manufacturer": "Honda",
+      "model": "Civic",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 157421,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 204,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 215,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Citroen",
+    "name": "Citroen de \u20ac 9\u202f999,-",
+    "price": {
+      "value": 9999,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/citroen-c5-exclusive-essence-gris-8e9b1d99-94bc-48e6-af72-874fca84e0c6",
+    "address": {
+      "streetAddress": "Route de Vitry sur Orne"
+    },
+    "car_details": {
+      "name": "Citroen C5",
+      "manufacturer": "Citroen",
+      "model": "C5",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 128261,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": null,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 16\u202f490,-",
+    "price": {
+      "value": 16490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-golf-2-0-tsi-210-gti-5p-essence-blanc-987a5c87-eaca-46ad-b6f0-dc8bc2f8c82d",
+    "address": {
+      "streetAddress": "26 Rue Sainte Victoire"
+    },
+    "car_details": {
+      "name": "Volkswagen Golf",
+      "manufacturer": "Volkswagen",
+      "model": "Golf",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 80766,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 209,
+        "engineDisplacement": 1984,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 16\u202f990,-",
+    "price": {
+      "value": 16990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-golf-gti-golf-vi-2-0-tsi-dsg-carplay-full-cuir-essence-gris-6802a856-027f-4709-bf6c-5b470fd9eeb6",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Volkswagen Golf GTI",
+      "manufacturer": "Volkswagen",
+      "model": "Golf GTI",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 74000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1984,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Opel",
+    "name": "Opel de \u20ac 17\u202f990,-",
+    "price": {
+      "value": 17990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/opel-gt-2-0-264-turbo-ecotec-essence-rouge-f7530286-bdf9-474b-b8ec-bb8ef57c047a",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Opel GT",
+      "manufacturer": "Opel",
+      "model": "GT",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 72000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 264,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 218,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI de \u20ac 13\u202f700,-",
+    "price": {
+      "value": 13700,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mini-john-cooper-works-mini-211-ch-essence-noir-8d20457c-6ad9-4320-974e-d2162f3ecbfd",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 127700,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 153,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Opel",
+    "name": "Opel de \u20ac 18\u202f000,-",
+    "price": {
+      "value": 18000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/opel-insignia-sports-tourer-2-8-v6-turbo-325-awd-opc-essence-blanc-73202c4a-189b-47b0-8ac5-3a84e7d14bfe",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Opel Insignia",
+      "manufacturer": "Opel",
+      "model": "Insignia",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 110500,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 325,
+        "engineDisplacement": 2792,
+        "emissionsCO2": 255,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI de \u20ac 8\u202f490,-",
+    "price": {
+      "value": 8490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mini-john-cooper-works-1-6i-jcw-xenon-cruise-bt-202--x-48-mois-essence-gris-7befd2c8-b86f-44e9-b71f-f4fec6711d7c",
+    "address": {
+      "streetAddress": "Sur Rendez-Vous"
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 163351,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 165,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "SEAT",
+    "name": "SEAT de \u20ac 10\u202f999,-",
+    "price": {
+      "value": 10999,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/seat-leon-fr-essence-bleu-fc480154-dc0a-41b1-abab-7376fb9f177a",
+    "address": {
+      "streetAddress": "Route de Vitry sur Orne"
+    },
+    "car_details": {
+      "name": "SEAT Leon",
+      "manufacturer": "SEAT",
+      "model": "Leon",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 107638,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": null,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz de \u20ac 15\u202f500,-",
+    "price": {
+      "value": 15500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mercedes-benz-c-250-classe-blueefficiency-avantgarde-a-essence-gris-52cc4e49-da38-4c8c-80b0-2a7cb93f74a0",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Mercedes-Benz C 250",
+      "manufacturer": "Mercedes-Benz",
+      "model": "C 250",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 130000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 204,
+        "engineDisplacement": 1796,
+        "emissionsCO2": 161,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI de \u20ac 10\u202f900,-",
+    "price": {
+      "value": 10900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mini-john-cooper-works-211-ch-essence-gris-69adf62d-610b-45ca-ba8a-5afad5ecbcdb",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 130000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 18\u202f990,-",
+    "price": {
+      "value": 18990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-golf-gti-2-0-tsi-cabriolet-211cv-led-xenon-cuir-navi-dynaud-essence-rouge-96acae06-bf7e-4b95-8911-7fd818b4ad69",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Volkswagen Golf GTI",
+      "manufacturer": "Volkswagen",
+      "model": "Golf GTI",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 120000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 177,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Chrysler",
+    "name": "Chrysler de \u20ac 17\u202f900,-",
+    "price": {
+      "value": 17900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/chrysler-crossfire-3-2-essence-noir-6df87711-ac34-4d98-933e-dc5561b9bf5a",
+    "address": {
+      "streetAddress": "560 Avenue de la Plaine"
+    },
+    "car_details": {
+      "name": "Chrysler Crossfire",
+      "manufacturer": "Chrysler",
+      "model": "Crossfire",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 51900,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 219,
+        "engineDisplacement": null,
+        "emissionsCO2": 0,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI de \u20ac 14\u202f000,-",
+    "price": {
+      "value": 14000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mini-john-cooper-works-1-6i-jcw-essence-bleu-d7eb7a1a-e64a-45dd-a3b0-95d63f6bc022",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 66000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 16\u202f790,-",
+    "price": {
+      "value": 16790,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-golf-cabriolet-2-0-tsi-gti-210-ch-dsg-bva-garantie-6-mo-essence-rouge-ec81d0e3-0f44-4c5b-a58e-b38c894d7924",
+    "address": {
+      "streetAddress": "4 RUE ST GUIDON"
+    },
+    "car_details": {
+      "name": "Volkswagen Golf",
+      "manufacturer": "Volkswagen",
+      "model": "Golf",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 151990,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": null,
+        "emissionsCO2": 0,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Opel",
+    "name": "Opel de \u20ac 16\u202f690,-",
+    "price": {
+      "value": 16690,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/opel-insignia-2-0-turbo-cosmo-pack-ba-essence-780ba0a5-ebcd-4024-b355-a52a3941c98d",
+    "address": {
+      "streetAddress": "280 Rue de Cormery"
+    },
+    "car_details": {
+      "name": "Opel Insignia",
+      "manufacturer": "Opel",
+      "model": "Insignia",
+      "productionDate": "2010",
+      "mileage": {
+        "value": 8000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 223,
+        "engineDisplacement": 1998,
+        "emissionsCO2": 228,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI de \u20ac 11\u202f980,-",
+    "price": {
+      "value": 11980,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mini-john-cooper-works-1-6i-211-r55-john-cooper-works-jcw-essence-rouge-e8467877-2230-42ab-9d63-b0abd8a04f02",
+    "address": {
+      "streetAddress": "Z.A. du carreforu des biards"
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 139659,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 167,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Audi",
+    "name": "Audi de \u20ac 17\u202f490,-",
+    "price": {
+      "value": 17490,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/audi-a5-2-0-tfsi-211-s-line-essence-noir-f2a10b11-129d-4e0a-985a-ced6c543c8a9",
+    "address": {
+      "streetAddress": "7 AV DU LAS SAS L'AUTO CONCEPT"
+    },
+    "car_details": {
+      "name": "Audi A5",
+      "manufacturer": "Audi",
+      "model": "A5",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 144979,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": null,
+        "emissionsCO2": 154,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "DS Automobiles",
+    "name": "DS Automobiles de \u20ac 12\u202f000,-",
+    "price": {
+      "value": 12000,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/ds-automobiles-ds-3-full-equipement-essence-noir-727d345f-cd10-4c94-b0c4-8ad2bc67e17e",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "DS Automobiles DS 3",
+      "manufacturer": "DS Automobiles",
+      "model": "DS 3",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 115000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 207,
+        "engineDisplacement": null,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI de \u20ac 15\u202f900,-",
+    "price": {
+      "value": 15900,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mini-john-cooper-works-clubman-essence-7ee1bee3-5eaa-5d6e-e043-1250030ab693",
+    "address": {
+      "streetAddress": "CHEMIN DE PELVES"
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 70200,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 213,
+        "engineDisplacement": 1598,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "MINI",
+    "name": "MINI de \u20ac 14\u202f990,-",
+    "price": {
+      "value": 14990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mini-john-cooper-works-cabrio-cabriolet-1-6i-211ch-essence-noir-54dbe25b-6821-42ed-a90c-95e28abf4d54",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "MINI John Cooper Works Cabrio",
+      "manufacturer": "MINI",
+      "model": "John Cooper Works Cabrio",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 108000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1598,
+        "emissionsCO2": null,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Volkswagen de \u20ac 12\u202f500,-",
+    "price": {
+      "value": 12500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/volkswagen-golf-gti-2-0-tsi-210-essence-noir-6489476f-0db5-4bd7-a467-e3c78694b535",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Volkswagen Golf GTI",
+      "manufacturer": "Volkswagen",
+      "model": "Golf GTI",
+      "productionDate": "2009",
+      "mileage": {
+        "value": 160000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 211,
+        "engineDisplacement": 1984,
+        "emissionsCO2": 170,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Citroen",
+    "name": "Citroen de \u20ac 14\u202f495,-",
+    "price": {
+      "value": 14495,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/citroen-ds3-1-6-thp-200ch-racing-gold-mat-essence-26d1cc78-b7bb-4da6-884d-a31a32ddfdda",
+    "address": {
+      "streetAddress": "4 bis Chemin canal"
+    },
+    "car_details": {
+      "name": "Citroen DS3",
+      "manufacturer": "Citroen",
+      "model": "DS3",
+      "productionDate": "2013",
+      "mileage": {
+        "value": 117368,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 205,
+        "engineDisplacement": 1598,
+        "emissionsCO2": 149,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW de \u20ac 19\u202f350,-",
+    "price": {
+      "value": 19350,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/bmw-x1-xdrive-28i-245-ch-sport-design-a-essence-blanc-2ef783eb-2e47-48f0-bd68-58677eedfbd7",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "BMW X1",
+      "manufacturer": "BMW",
+      "model": "X1",
+      "productionDate": "2012",
+      "mileage": {
+        "value": 122000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 245,
+        "engineDisplacement": 1997,
+        "emissionsCO2": 183,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz de \u20ac 9\u202f800,-",
+    "price": {
+      "value": 9800,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mercedes-benz-c-350-classe-blueefficiency-avantgarde-4-matic-a-essence-noir-3ace747e-00ca-41ef-b96c-d5a3b07cd933",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Mercedes-Benz C 350",
+      "manufacturer": "Mercedes-Benz",
+      "model": "C 350",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 179000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 306,
+        "engineDisplacement": 3498,
+        "emissionsCO2": 178,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz de \u20ac 19\u202f990,-",
+    "price": {
+      "value": 19990,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mercedes-benz-slk-350-essence-noir-3507efd6-1c78-4868-acdd-d0a5f09e558e",
+    "address": {
+      "streetAddress": null
+    },
+    "car_details": {
+      "name": "Mercedes-Benz SLK 350",
+      "manufacturer": "Mercedes-Benz",
+      "model": "SLK 350",
+      "productionDate": "2008",
+      "mileage": {
+        "value": 69000,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 272,
+        "engineDisplacement": 3498,
+        "emissionsCO2": 255,
+        "fuelType": "petrol"
+      }
+    }
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "name": "Mercedes-Benz de \u20ac 7\u202f500,-",
+    "price": {
+      "value": 7500,
+      "currency": "EUR"
+    },
+    "url": "https://www.autoscout24.fr/offres/mercedes-benz-c-350-350-elegance-7g-tronic-essence-e8df6088-cb09-476b-bdf8-c2f03855bffc",
+    "address": {
+      "streetAddress": "54 avenue du G\u00e9n\u00e9ral De Gaulle"
+    },
+    "car_details": {
+      "name": "Mercedes-Benz C 350",
+      "manufacturer": "Mercedes-Benz",
+      "model": "C 350",
+      "productionDate": "2011",
+      "mileage": {
+        "value": 178329,
+        "unitCode": "KMT"
+      },
+      "engineDetails": {
+        "enginePower": 310,
+        "engineDisplacement": 3498,
+        "emissionsCO2": 159,
+        "fuelType": "petrol"
+      }
+    }
+  }
+]

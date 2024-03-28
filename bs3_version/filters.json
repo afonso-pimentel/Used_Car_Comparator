@@ -1,15 +1,15 @@
 {
-  "brand": "volvo",
+  "brand": "",
   "model": "",
   "fuel": "Petrol",
-  "initial_year": "2010",
-  "final_year": "",
+  "initial_year": "2008",
+  "final_year": "2013",
   "initial_km": "",
   "final_km": "180000",
   "initial_power": "150",
   "final_power": "",
   "power_type": "",
   "price_from": "",
-  "price_to_autoscout": "25000",
-  "price_to_standvirtual": "30000"
+  "price_to_autoscout": "20000",
+  "price_to_standvirtual": "25000"
 }

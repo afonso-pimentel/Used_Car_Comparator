@@ -41,7 +41,7 @@ def scrape_used_cars(filters):
         print("Invalid choice. Please enter 'y' or 'n'.\n")
 
     # Read the content of the JSON file
-    with open('fuel_types.json', 'r') as file:
+    with open('bs3_version/fuel_types.json', 'r') as file:
         fuel_types = json.load(file)
 
     filters_autoscout = {
@@ -172,7 +172,7 @@ def get_best_deals():
     best_deals_sorted = sorted(best_deals, key=lambda x: x['price_difference'], reverse=True)
     
     # Save car_details to a file named "best_deals.json"
-    with open('best_deals.json', 'w') as file:
+    with open('bs3_version/best_deals.json', 'w') as file:
         json.dump(best_deals_sorted, file, indent=2)
     print("Best deals written to best_deals.json")
     return

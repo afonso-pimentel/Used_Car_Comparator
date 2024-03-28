@@ -171,7 +171,7 @@ def scrape_cars(filters):
                 car_details.append(simplified_info)
 
     # Save car_details to a file named "car_details.json"
-    with open('car_details_as.json', 'w') as file:
+    with open('bs3_version/car_details_as.json', 'w') as file:
         json.dump(car_details, file, indent=2)
 
     db_name = "autoscout24"
