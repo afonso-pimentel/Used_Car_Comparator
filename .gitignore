@@ -4,3 +4,6 @@
 node_modules
 *.pyc
 tmp
+api_version/package.json
+api_version/package-lock.json
+api_version/ads.json
