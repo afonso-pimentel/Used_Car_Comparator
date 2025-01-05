@@ -1,0 +1,14 @@
+{
+  "search[filter_enum_make]": "bmw",
+  "search[filter_enum_model]": "120",
+  "search[filter_enum_engine_code]": "serie-1",
+  "search[filter_enum_fuel_type]": "diesel",
+  "search[filter_float_engine_power:from]": "100",
+  "search[filter_float_engine_power:to]": "200",
+  "search[filter_float_first_registration_year:from]": "2005",
+  "search[filter_float_first_registration_year:to]": "2024",
+  "search[filter_float_mileage:from]": "25000",
+  "search[filter_float_mileage:to]": "200000",
+  "search[filter_float_price:from]": "10000",
+  "search[filter_float_price:to]": "40000"
+}
